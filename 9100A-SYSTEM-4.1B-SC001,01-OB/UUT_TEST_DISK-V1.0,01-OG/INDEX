@@ -1,0 +1,115 @@
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.1     1989/01/18 1110   d-ewrewr       3       640 .
+  0.0     1989/01/18 1110   d-ewrewr       C        64 SYSDISK
+  0.0     1989/01/18 1110   d-ewrewr      15        64 PARTLIB$PARTLIB
+  0.0     1989/01/18 1110   d-ewrewr      1E        64 PODLIB$PODLIB
+  0.0     1989/01/18 1110   d-ewrewr      27       128 PROGLIB$PROGLIB
+  0.0     1989/01/18 1110   d-ewrewr      30        64 HELPLIB$HELPLIB
+  0.0     1989/01/18 1111   ------wr      39         0 MEVALID
+  0.0     1989/01/18 1216   d-ewrewr     151        64 UUT$1
+  0.0     1989/01/18 1222   ------wr     15A        54 Info
+  0.0     1989/01/18 1218   d-ewrewr     15C        64 UUT$2
+  0.0     1989/01/18 1219   d-ewrewr     165        64 UUT$3
+  0.0     1989/01/18 1219   d-ewrewr     16E        64 UUT$4
+  0.0     1989/01/18 1219   d-ewrewr     177        64 UUT$5
+  0.0     1989/01/18 1219   d-ewrewr     180        64 UUT$6
+  0.0     1989/01/18 1220   d-ewrewr     189        64 UUT$7
+  0.0     1989/01/18 1220   d-ewrewr     192        64 UUT$8
+  0.0     1989/01/18 1220   d-ewrewr     19B        64 UUT$9
+  0.0     1989/01/18 1220   d-ewrewr     1A4        64 UUT$10
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1110   d-ewrewr       C        64 .
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1110   d-ewrewr      15        64 .
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1110   d-ewrewr      1E        64 .
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1110   d-ewrewr      27       128 .
+  0.0     1989/03/03 0929   ---w--wr      3A     36714 PROGRAM$AUTO_LEARN
+  0.0     1989/02/24 0956   ---w--wr      C0     36758 PROGRAM$DO_LRN
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1110   d-ewrewr      30        64 .
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/UUT$1
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1216   d-ewrewr     151        64 .
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/UUT$2
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1218   d-ewrewr     15C        64 .
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/UUT$3
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1219   d-ewrewr     165        64 .
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/UUT$4
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1219   d-ewrewr     16E        64 .
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/UUT$5
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1219   d-ewrewr     177        64 .
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/UUT$6
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1219   d-ewrewr     180        64 .
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/UUT$7
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1220   d-ewrewr     189        64 .
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/UUT$8
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1220   d-ewrewr     192        64 .
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/UUT$9
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1220   d-ewrewr     19B        64 .
+
+                           Directory of UUT_TEST_DISK-V1.0_01-OG.raw,/UUT$10
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/01/18 1110   d-ewrewr       3       640 ..
+  0.0     1989/01/18 1220   d-ewrewr     1A4        64 .

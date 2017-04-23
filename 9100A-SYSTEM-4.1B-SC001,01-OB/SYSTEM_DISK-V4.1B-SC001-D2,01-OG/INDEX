@@ -1,0 +1,30 @@
+
+                           Directory of SYSTEM_DISK-V4.1B-SC001-D2_01-OG.raw,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/03/21 1448   d-ewrewr       3       160 ..
+  0.1     1989/03/21 1448   d-ewrewr       3       160 .
+  0.0     1989/03/21 1449   d-ewrewr       C       288 CMDS
+  0.0     1989/03/21 1449   d-ewrewr      15       128 ROM
+  0.0     1989/05/08 1207   ------wr     95F         4 .xxx
+
+                           Directory of SYSTEM_DISK-V4.1B-SC001-D2_01-OG.raw,/CMDS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/03/21 1448   d-ewrewr       3       160 ..
+  0.0     1989/03/21 1449   d-ewrewr       C       288 .
+  0.251   1989/03/21 1341   --e-rewr      1E      4792 gfi_init
+  0.251   1989/03/21 1341   --e-rewr      32      3146 iomod_init
+  0.251   1989/03/21 1341   --e-rewr      40     11260 pod_init
+  0.251   1989/03/21 1341   --e-rewr      6D      1308 read_test
+  0.251   1989/03/21 1341   --e-rewr      74      3382 rdisk_init
+  0.251   1989/03/21 1341   --e-rewr      83      1930 runuut_led
+  0.251   1989/03/21 1341   --e-rewr      8C      4452 vid_init
+
+                           Directory of SYSTEM_DISK-V4.1B-SC001-D2_01-OG.raw,/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/03/21 1448   d-ewrewr       3       160 ..
+  0.0     1989/03/21 1449   d-ewrewr      15       128 .
+  0.251   1989/03/21 1337   --e-rewr      9F    289546 level1
+  0.251   1989/03/21 1331   --e-rewr     50C    283004 appl

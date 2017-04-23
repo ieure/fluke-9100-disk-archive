@@ -1,0 +1,71 @@
+
+                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/10/15 0110   d-ewrewr       3       256 ..
+  0.1     1989/10/15 0110   d-ewrewr       3       256 .
+  0.0     1989/10/15 0110   d-ewrewr       C        64 SYSDISK
+  0.0     1989/10/15 0110   d-ewrewr      15        96 PARTLIB$PARTLIB
+  0.0     1989/10/15 0110   d-ewrewr      1E       128 PODLIB$PODLIB
+  0.0     1989/10/15 0110   d-ewrewr      27        64 PROGLIB$PROGLIB
+  0.0     1989/10/15 0110   d-ewrewr      30        64 HELPLIB$HELPLIB
+  0.0     1989/10/15 0110   ------wr      39         0 MEVALID
+
+                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/10/15 0110   d-ewrewr       3       256 ..
+  0.0     1989/10/15 0110   d-ewrewr       C        64 .
+
+                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/10/15 0110   d-ewrewr       3       256 ..
+  0.0     1989/10/15 0110   d-ewrewr      15        96 .
+  0.0     1989/10/16 1725   ---w--wr      3A      1073 PART$80386
+
+                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/10/15 0110   d-ewrewr       3       256 ..
+  0.0     1989/10/15 0110   d-ewrewr      1E       128 .
+  0.0     1989/10/15 0129   d-ewrewr      40       160 POD$M
+  0.0     1989/10/15 0130   d-ewrewr      50       480 POD$M80386
+
+                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,/PODLIB$PODLIB/POD$M
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1989/10/15 0110   d-ewrewr      1E       128 ..
+  0.0     1989/10/15 0129   d-ewrewr      40       160 .
+  0.251   1989/04/19 0825   ----r-wr      4B         4 PODDB$CONFIG
+  0.251   1989/04/19 0825   ----r-wr      4D       272 PODDB$POD_FILE
+
+                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,/PODLIB$PODLIB/POD$M80386
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1989/10/15 0110   d-ewrewr      1E       128 ..
+  0.0     1989/10/15 0130   d-ewrewr      50       480 .
+  0.251   1988/11/18 1210   ----r-wr      5B         4 PODDB$CONFIG
+  0.251   1989/10/24 1827   ----r-wr      5D      4622 PODDB$POD_FILE
+  0.251   1989/09/16 0203   ------wr      70     56000 PROGRAM$B_DIAG
+  0.251   1989/10/15 0048   ----r-wr     14C      2362 PROGRAM$B_TEST
+  0.251   1988/11/18 1210   ----r-wr     157      2448 PROGRAM$HYP_RAM
+  0.251   1988/11/18 1211   ----r-wr     162       202 PROGRAM$QWK_RD
+  0.251   1988/11/18 1211   ----r-wr     164       198 PROGRAM$QWK_WR
+  0.251   1989/10/17 0421   ----r-wr     166    103518 PROGRAM$SETUP
+  0.251   1988/11/14 1104   ----r-wr     2FC      2028 PROGRAM$STIM_ADR
+  0.251   1988/11/14 1104   ----r-wr     305      1424 PROGRAM$STIM_DAT
+  0.251   1989/10/17 0039   ----r-wr     30C    137651 PROGRAM$TEST_BUS
+  0.0     1989/08/18 2356   ----r-wr     527       979 PROGRAM$VERSION
+
+                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/10/15 0110   d-ewrewr       3       256 ..
+  0.0     1989/10/15 0110   d-ewrewr      27        64 .
+
+                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/10/15 0110   d-ewrewr       3       256 ..
+  0.0     1989/10/15 0110   d-ewrewr      30        64 .
