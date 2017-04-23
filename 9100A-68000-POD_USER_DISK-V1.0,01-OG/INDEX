@@ -1,0 +1,103 @@
+
+                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/12/07 1008   d-ewrewr       3       256 ..
+  0.1     1988/12/07 1008   d-ewrewr       3       256 .
+  0.0     1988/12/07 1008   d-ewrewr       C        64 SYSDISK
+  0.0     1988/12/07 1007   d-ewrewr      15        64 PARTLIB$PARTLIB
+  0.0     1988/12/07 1007   d-ewrewr      1E       160 PODLIB$PODLIB
+  0.0     1988/12/07 1008   d-ewrewr      27        64 PROGLIB$PROGLIB
+  0.0     1988/12/07 1007   d-ewrewr      30        64 HELPLIB$HELPLIB
+  0.0     1988/11/28 1144   ------wr      39         0 MEVALID
+
+                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/12/07 1008   d-ewrewr       3       256 ..
+  0.0     1988/12/07 1008   d-ewrewr       C        64 .
+
+                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/12/07 1008   d-ewrewr       3       256 ..
+  0.0     1988/12/07 1007   d-ewrewr      15        64 .
+
+                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/12/07 1008   d-ewrewr       3       256 ..
+  0.0     1988/12/07 1007   d-ewrewr      1E       160 .
+  0.0     1988/11/28 1145   d-ewrewr      3A       512 POD$68000
+  0.0     1988/11/28 1146   d-ewrewr      A5       480 POD$68000L
+  0.0     1988/11/28 1147   d-ewrewr     10E       480 POD$68000P
+
+                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/PODLIB$PODLIB/POD$68000
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/12/07 1007   d-ewrewr      1E       160 ..
+  0.0     1988/11/28 1145   d-ewrewr      3A       512 .
+  0.0     1988/12/06 1055   ---w--wr      43      2469 PODDB$POD_FILE
+  0.0     1900/05/04 0004   ------wr      4E       540 PROGRAM$FRC_INT
+  0.0     1900/05/04 0004   ------wr      52       603 PROGRAM$FRC_RINT
+  0.0     1935/11/30 0117   ------wr      56      4078 PROGRAM$QWK_RAM
+  0.0     1900/05/04 0005   ------wr      6D      1709 PROGRAM$QWK_RD
+  0.0     1900/05/04 0005   ------wr      75      3654 PROGRAM$QWK_ROM
+  0.0     1900/05/04 0005   ------wr      85      1881 PROGRAM$QWK_WR
+  0.0     1900/05/04 0006   ------wr      8E       494 PROGRAM$RD_NOARM
+  0.0     1900/05/04 0006   ------wr      91       486 PROGRAM$RD_REARM
+  0.0     1900/05/04 0006   ------wr      94       266 PROGRAM$UUT_RST
+  0.0     1988/01/28 1158   ------wr      97       204 PROGRAM$RESET
+  0.0     1988/11/30 1340   ------wr      99      2566 PROGRAM$QWK_RAMP
+  0.0     1988/12/06 1105   ------wr      67      4312 PROGRAM$PATT_VER
+  0.0     1988/12/06 0938   ------wr      68      4980 PROGRAM$QWK_FILL
+
+                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/PODLIB$PODLIB/POD$68000L
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/12/07 1007   d-ewrewr      1E       160 ..
+  0.0     1988/11/28 1146   d-ewrewr      A5       480 .
+  0.0     1900/05/04 0015   ------wr      AE       540 PROGRAM$FRC_INT
+  0.0     1900/05/04 0015   ------wr      B2       603 PROGRAM$FRC_RINT
+  0.0     1935/11/30 0117   ------wr      B6      4078 PROGRAM$QWK_RAM
+  0.0     1900/05/04 0016   ------wr      CD      1709 PROGRAM$QWK_RD
+  0.0     1900/05/04 0016   ------wr      D5      3654 PROGRAM$QWK_ROM
+  0.0     1900/05/04 0016   ------wr      E5      1881 PROGRAM$QWK_WR
+  0.0     1900/05/04 0017   ------wr      EE       494 PROGRAM$RD_NOARM
+  0.0     1900/05/04 0017   ------wr      F1       486 PROGRAM$RD_REARM
+  0.0     1900/05/04 0017   ------wr      F4       266 PROGRAM$UUT_RST
+  0.0     1988/12/07 0959   ---w--wr      F7      2498 PODDB$POD_FILE
+  0.0     1988/11/30 1340   ------wr     102      2566 PROGRAM$QWK_RAMP
+  0.0     1988/12/06 1105   ------wr      69      4312 PROGRAM$PATT_VER
+  0.0     1988/12/06 0938   ------wr      6A      4980 PROGRAM$QWK_FILL
+
+                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/PODLIB$PODLIB/POD$68000P
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/12/07 1007   d-ewrewr      1E       160 ..
+  0.0     1988/11/28 1147   d-ewrewr     10E       480 .
+  0.0     1900/05/04 0018   ------wr     117       540 PROGRAM$FRC_INT
+  0.0     1900/05/04 0018   ------wr     11B       603 PROGRAM$FRC_RINT
+  0.0     1935/11/30 0117   ------wr     11F      4078 PROGRAM$QWK_RAM
+  0.0     1900/05/04 0018   ------wr     136      1709 PROGRAM$QWK_RD
+  0.0     1900/05/04 0019   ------wr     13E      3654 PROGRAM$QWK_ROM
+  0.0     1900/05/04 0019   ------wr     14E      1881 PROGRAM$QWK_WR
+  0.0     1900/05/04 0019   ------wr     157       494 PROGRAM$RD_NOARM
+  0.0     1900/05/04 0019   ------wr     15A       486 PROGRAM$RD_REARM
+  0.0     1900/05/04 0020   ------wr     15D       266 PROGRAM$UUT_RST
+  0.0     1988/12/07 1002   ---w--wr     160      2491 PODDB$POD_FILE
+  0.0     1988/11/30 1340   ------wr     16B      2566 PROGRAM$QWK_RAMP
+  0.0     1988/12/06 1105   ------wr      6B      4312 PROGRAM$PATT_VER
+  0.0     1988/12/06 0938   ------wr      6C      4980 PROGRAM$QWK_FILL
+
+                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/12/07 1008   d-ewrewr       3       256 ..
+  0.0     1988/12/07 1008   d-ewrewr      27        64 .
+
+                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/12/07 1008   d-ewrewr       3       256 ..
+  0.0     1988/12/07 1007   d-ewrewr      30        64 .

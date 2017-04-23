@@ -1,0 +1,117 @@
+Fluke 9100 Floppy Archive
+=========================
+
+This is an attempt to create a comprehensive archive of factory media
+for the Fluke 9100 series of microsystem troubleshooters.
+
+Organization
+============
+
+Individual disks are organized into disksets, which represent a
+logical collection of disks.  Both disks and disksets are identified
+with a descriptive name, version, disk number, dump number, and dump
+status.
+
+Descriptive Names
+-----------------
+
+These are usually the text printed on the disk label.
+
+Version
+-------
+
+The version of the data contained on the disk.
+
+Disk Number
+-----------
+
+When data is split across multiple disks, the number is indicated as
+D1, D2, etc.  Optional if the disk is self-contained.
+
+Dump Number
+-----------
+
+Dump numbers start at 01 and increment by one for each dump of a
+distinct physical disk.  For example, if there are two copies of the
+9100A-68000-POD_USER_DISK-V1.0 disk, the first dump would be assigned
+01, and the second 02.  Re-dumping the same physical disk is not
+encouraged, but a dump of a second factory copy containing the same
+data may be desirable if the first media is damaged.
+
+Dump Status
+-----------
+
+This consists of two letters, represeting the media and dump status.
+
+O - Original, unmodified media.
+M - Modified media.
+
+G - Good dump, all sectors read successfully.
+B - Bad dump, some sectors unreadable.
+
+The status of a diskset is the same as the worst of each status of
+every disk in the set.  If a diskset contains all original disks, with
+one bad dump, the diskset's status is OB.  A diskset can't have a
+status of OG unless every disk is original and dumped successfully.
+
+Examples
+--------
+
+MASTER_USER_DISK-D1-V4.1,01-OG
+^^^^^^^^^^^^^^^^ ^^ ^^^^ ^^ ^^
+|                 |    |  | ||
+|                 |    |  | | ` Good dump
+|                 |    |  | |
+|                 |    |  |  ` Unmodified media
+|                 |    |  |
+|                 |    |   ` First dump of this disk
+|                 |    |
+|                 |     ` Disk version 4.1
+|                 |
+|                  ` Disk 1
+|
+ ` Description of the data
+
+
+Directory Structure
+-------------------
+
+The top level of the archive contains directories representing
+disksets; underneath that is another directory for the disk(s) in the
+set.
+
+Each diskset directory contains a CATALOG file with additional
+information about the dump, photos of -FRONT and -BACK photos of the
+disks archived, an INDEX file with the contents of the disk, and a ZIP
+archive of the KryoFlux STREAM.
+
+Writing Media
+=============
+
+Disks are preserved in the Kryoflux STREAM format, which allows
+perfect copies to be created.  Because these are archival images for
+specialized hardware, they're larger than a typical disk image, and
+cannot be used directly without Kryoflux hardware.  However, SAMDisk
+supports KryoFlux STREAM images, and can be used to write the images
+to disks, or to convert to a more convenient format.
+
+To write an image to disk with SAMDisk:
+
+SAMDISK COPY MASTER_USER_DISK-D1-V4.1,01-OG.img00.0.raw A:
+
+To write an image to disk with Kryoflux's DTC:
+
+dtc -fMASTER_USER_DISK-D1-V4.1,01-OG.img00.0.raw -w
+
+To convert to ImageDisk format:
+
+SAMDISK COPY MASTER_USER_DISK-D1-V4.1,01-OG.img00.0.raw MUD1.IMD
+
+The original media is double-density 3.5" floppy disks, and it's
+recommended that you write them to the same type of media.  If you use
+high-density media, you *must* degauss it first, using a bulk magnetic
+eraser or similar electromagnetic device.  Formatting in a
+high-density drive is not sufficient.  Failure to degauss high-density
+media will likely result in read failures, as the larger
+double-density disk head may pick up stray magnetic fields from the
+adjacent high-density tracks.

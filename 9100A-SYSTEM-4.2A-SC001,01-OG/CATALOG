@@ -1,0 +1,22 @@
+Name: 9100A System Disks V4.2(a)
+Site-Code: 001
+Provided-By: Ian Eure
+Archived-By: Ian Eure
+Archived: 2017-04-22
+Drive: Sony MPF920
+DTC: KryoFlux DiskTool Console, v2.62_OSX_x86-64, uiv.1, May 29 2016, 00:18:27
+Dump: 01/MG
+
+Notes:
+The UUT test disk is not included in this diskset. It can be obtained
+in the 9100A-SYSTEM-4.1B-001-MB set.
+
+The system disks are only usable with mainframes with site code
+001. The site code of 9100 mainframes may be altered with a service
+disk.
+
+The system disks show some modified sectors. I believe they are
+unused, and there may have been an update applied to the
+mass-duplicated media. I was able to boot them on hardware which could
+not have possibly had the same serial number, and received no
+warnings; therefore, I have marked them OG.

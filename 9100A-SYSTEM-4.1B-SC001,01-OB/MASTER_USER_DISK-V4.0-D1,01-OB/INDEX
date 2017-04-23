@@ -1,0 +1,371 @@
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/11/08 1237   d-ewrewr       3       320 ..
+  0.1     1988/11/08 1237   d-ewrewr       3       320 .
+  0.0     1988/10/17 1304   d-ewrewr       C        64 SYSDISK
+  0.0     1988/10/17 1248   d-ewrewr      15        64 PARTLIB$PARTLIB
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 PODLIB$PODLIB
+  0.0     1988/10/17 1304   d-ewrewr     6C2        96 PROGLIB$PROGLIB
+  0.0     1988/11/08 1237   d-ewrewr     71A      2016 HELPLIB$HELPLIB
+  0.0     1988/10/17 1305   ------wr     7B0         0 MEVALID
+  0.0     1988/11/08 1245   d-ewrewr     7B1       384 UUT$ABC
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/11/08 1237   d-ewrewr       3       320 ..
+  0.0     1988/10/17 1304   d-ewrewr       C        64 .
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/11/08 1237   d-ewrewr       3       320 ..
+  0.0     1988/10/17 1248   d-ewrewr      15        64 .
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/11/08 1237   d-ewrewr       3       320 ..
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 .
+  0.0     1988/10/17 1249   d-ewrewr      27       160 POD$3548
+  0.0     1988/09/30 1452   d-ewrewr      49       160 POD$3949
+  0.0     1988/10/17 1251   d-ewrewr      6B       160 POD$4050
+  0.0     1988/11/08 1243   d-ewrewr      8D       352 POD$8031
+  0.0     1988/10/17 1255   d-ewrewr     112       160 POD$8041
+  0.0     1988/11/08 1244   d-ewrewr     130       352 POD$8051
+  0.0     1988/11/08 1244   d-ewrewr     1B5       352 POD$8051X
+  0.0     1988/10/17 1256   d-ewrewr     23A        96 POD$8080
+  0.0     1988/10/17 1256   d-ewrewr     248        96 POD$8085
+  0.0     1988/10/17 1256   d-ewrewr     256       448 POD$8086
+  0.0     1988/10/17 1257   d-ewrewr     2BC       448 POD$8086MX
+  0.0     1988/10/17 1258   d-ewrewr     323       448 POD$8088
+  0.0     1988/10/17 1258   d-ewrewr     37B       448 POD$8088MX
+  0.0     1988/10/17 1252   d-ewrewr     3D3       480 POD$80186
+  0.0     1988/10/17 1253   d-ewrewr     481       448 POD$80188
+  0.0     1988/10/17 1253   d-ewrewr     520       288 POD$80286
+  0.0     1988/10/17 1254   d-ewrewr     549       384 POD$80286H
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$3548
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/10/17 1249   d-ewrewr      27       160 .
+  0.0     1988/10/17 1250   ------wr      30      1478 PODDB$POD_FILE
+  0.0     1988/10/17 1251   ------wr      37      1899 PROGRAM$QWK_RD
+  0.0     1988/10/17 1251   ------wr      40      2047 PROGRAM$QWK_WR
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$3949
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/09/30 1452   d-ewrewr      49       160 .
+  0.0     1987/08/31 1049   ------wr      52      1478 PODDB$POD_FILE
+  0.0     1935/11/30 0029   ------wr      59      1899 PROGRAM$QWK_RD
+  0.0     1935/11/30 0029   ------wr      62      2047 PROGRAM$QWK_WR
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$4050
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/10/17 1251   d-ewrewr      6B       160 .
+  0.0     1988/10/17 1251   ------wr      74      1478 PODDB$POD_FILE
+  0.0     1988/10/17 1251   ------wr      7B      1899 PROGRAM$QWK_RD
+  0.0     1988/10/17 1251   ------wr      84      2047 PROGRAM$QWK_WR
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$8031
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/11/08 1243   d-ewrewr      8D       352 .
+  0.0     1988/10/17 1254   ------wr      96      2774 PODDB$POD_FILE
+  0.0     1988/10/17 1254   ------wr      A2      3008 PROGRAM$QWK_RD
+  0.0     1988/10/17 1254   ------wr      AF      3075 PROGRAM$QWK_WR
+  0.0     1988/10/17 1254   ------wr      BD      5376 PROGRAM$QWK_RAM
+  0.0     1988/10/17 1254   ------wr      D3      4843 PROGRAM$QWK_ROM
+  0.0     1988/10/17 1254   ------wr      E7      5307 PROGRAM$QWK_FILL
+  0.0     1988/10/17 1255   ------wr      FD      1139 PROGRAM$RD_PORT
+  0.0     1988/11/04 1440   ------wr     103      3084 PROGRAM$WR_PORT
+  1.9     1988/11/04 1857   ------wr     10A      1768 PROGRAM$TESTPORT
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$8041
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/10/17 1255   d-ewrewr     112       160 .
+  0.0     1988/10/17 1255   ------wr     11B      1257 PODDB$POD_FILE
+  0.0     1988/10/17 1255   ------wr     121      1510 PROGRAM$QWK_RD
+  0.0     1988/10/17 1255   ------wr     128      1706 PROGRAM$QWK_WR
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$8051
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/11/08 1244   d-ewrewr     130       352 .
+  0.0     1988/10/17 1255   ------wr     139      2762 PODDB$POD_FILE
+  0.0     1988/10/17 1255   ------wr     145      3008 PROGRAM$QWK_RD
+  0.0     1988/10/17 1255   ------wr     152      3075 PROGRAM$QWK_WR
+  0.0     1988/10/17 1255   ------wr     160      5376 PROGRAM$QWK_RAM
+  0.0     1988/10/17 1255   ------wr     176      4843 PROGRAM$QWK_ROM
+  0.0     1988/10/17 1255   ------wr     18A      5307 PROGRAM$QWK_FILL
+  0.0     1988/10/17 1255   ------wr     1A0      1139 PROGRAM$RD_PORT
+  0.0     1988/11/04 1440   ------wr     1A6      3084 PROGRAM$WR_PORT
+  1.9     1988/11/04 1857   ------wr     1AD      1768 PROGRAM$TESTPORT
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$8051X
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/11/08 1244   d-ewrewr     1B5       352 .
+  0.0     1988/10/17 1256   ------wr     1BE      2774 PODDB$POD_FILE
+  0.0     1988/10/17 1256   ------wr     1CA      3008 PROGRAM$QWK_RD
+  0.0     1988/10/17 1256   ------wr     1D7      3075 PROGRAM$QWK_WR
+  0.0     1988/10/17 1256   ------wr     1E5      5376 PROGRAM$QWK_RAM
+  0.0     1988/10/17 1256   ------wr     1FB      4843 PROGRAM$QWK_ROM
+  0.0     1988/10/17 1256   ------wr     20F      5307 PROGRAM$QWK_FILL
+  0.0     1988/10/17 1256   ------wr     225      1139 PROGRAM$RD_PORT
+  0.0     1988/11/04 1440   ------wr     22B      3084 PROGRAM$WR_PORT
+  1.9     1988/11/04 1857   ------wr     232      1768 PROGRAM$TESTPORT
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$8080
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/10/17 1256   d-ewrewr     23A        96 .
+  0.0     1988/10/17 1256   ------wr     243       900 PODDB$POD_FILE
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$8085
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/10/17 1256   d-ewrewr     248        96 .
+  0.0     1988/10/17 1256   ------wr     251       991 PODDB$POD_FILE
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$8086
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/10/17 1256   d-ewrewr     256       448 .
+  0.0     1988/10/17 1257   ------wr     25F      1986 PODDB$POD_FILE
+  0.0     1988/10/17 1257   ------wr     268       270 PROGRAM$FRC_INT
+  0.0     1988/10/17 1257   ------wr     26B       249 PROGRAM$FRC_RINT
+  0.0     1988/10/17 1257   ------wr     26D       610 PROGRAM$QWK_ARM
+  0.0     1988/10/17 1257   ------wr     271      4581 PROGRAM$QWK_RAM
+  0.0     1988/10/17 1257   ------wr     284      2090 PROGRAM$QWK_RD
+  0.0     1988/10/17 1257   ------wr     28E      3905 PROGRAM$QWK_ROM
+  0.0     1988/10/17 1257   ------wr     29F      2446 PROGRAM$QWK_WR
+  0.0     1988/10/17 1257   ------wr     2AA       414 PROGRAM$RD_CSCD
+  0.0     1988/10/17 1257   ------wr     2AD       463 PROGRAM$RD_NOARM
+  0.0     1988/10/17 1257   ------wr     2B0       377 PROGRAM$RD_REARM
+  0.0     1988/10/17 1257   ------wr     2B3      1818 PROGRAM$RUN_UUT
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$8086MX
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/10/17 1257   d-ewrewr     2BC       448 .
+  0.0     1988/10/17 1257   ------wr     2C5      2050 PODDB$POD_FILE
+  0.0     1988/10/17 1257   ------wr     2CF       270 PROGRAM$FRC_INT
+  0.0     1988/10/17 1257   ------wr     2D2       249 PROGRAM$FRC_RINT
+  0.0     1988/10/17 1257   ------wr     2D4       610 PROGRAM$QWK_ARM
+  0.0     1988/10/17 1257   ------wr     2D8      4581 PROGRAM$QWK_RAM
+  0.0     1988/10/17 1257   ------wr     2EB      2090 PROGRAM$QWK_RD
+  0.0     1988/10/17 1257   ------wr     2F5      3905 PROGRAM$QWK_ROM
+  0.0     1988/10/17 1257   ------wr     306      2446 PROGRAM$QWK_WR
+  0.0     1988/10/17 1257   ------wr     311       414 PROGRAM$RD_CSCD
+  0.0     1988/10/17 1257   ------wr     314       463 PROGRAM$RD_NOARM
+  0.0     1988/10/17 1257   ------wr     317       377 PROGRAM$RD_REARM
+  0.0     1988/10/17 1257   ------wr     31A      1818 PROGRAM$RUN_UUT
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$8088
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/10/17 1258   d-ewrewr     323       448 .
+  0.0     1988/10/17 1258   ------wr     32C      1462 PODDB$POD_FILE
+  0.0     1988/10/17 1258   ------wr     333       224 PROGRAM$FRC_INT
+  0.0     1988/10/17 1258   ------wr     335       249 PROGRAM$FRC_RINT
+  0.0     1988/10/17 1258   ------wr     337       610 PROGRAM$QWK_ARM
+  0.0     1988/10/17 1258   ------wr     33B      3599 PROGRAM$QWK_RAM
+  0.0     1988/10/17 1258   ------wr     34B      1583 PROGRAM$QWK_RD
+  0.0     1988/10/17 1258   ------wr     353      3166 PROGRAM$QWK_ROM
+  0.0     1988/10/17 1258   ------wr     361      1598 PROGRAM$QWK_WR
+  0.0     1988/10/17 1258   ------wr     369       404 PROGRAM$RD_CSCD
+  0.0     1988/10/17 1258   ------wr     36C       425 PROGRAM$RD_NOARM
+  0.0     1988/10/17 1258   ------wr     36F       492 PROGRAM$RD_REARM
+  0.0     1988/10/17 1258   ------wr     372      1806 PROGRAM$RUN_UUT
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$8088MX
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/10/17 1258   d-ewrewr     37B       448 .
+  0.0     1988/10/17 1258   ------wr     384      1526 PODDB$POD_FILE
+  0.0     1988/10/17 1258   ------wr     38B       224 PROGRAM$FRC_INT
+  0.0     1988/10/17 1258   ------wr     38D       249 PROGRAM$FRC_RINT
+  0.0     1988/10/17 1258   ------wr     38F       610 PROGRAM$QWK_ARM
+  0.0     1988/10/17 1258   ------wr     393      3617 PROGRAM$QWK_RAM
+  0.0     1988/10/17 1258   ------wr     3A3      1583 PROGRAM$QWK_RD
+  0.0     1988/10/17 1258   ------wr     3AB      3166 PROGRAM$QWK_ROM
+  0.0     1988/10/17 1258   ------wr     3B9      1598 PROGRAM$QWK_WR
+  0.0     1988/10/17 1258   ------wr     3C1       404 PROGRAM$RD_CSCD
+  0.0     1988/10/17 1258   ------wr     3C4       425 PROGRAM$RD_NOARM
+  0.0     1988/10/17 1258   ------wr     3C7       492 PROGRAM$RD_REARM
+  0.0     1988/10/17 1258   ------wr     3CA      1806 PROGRAM$RUN_UUT
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$80186
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/10/17 1252   d-ewrewr     3D3       480 .
+  0.0     1988/10/17 1252   ------wr     3DC      4005 PODDB$POD_FILE
+  0.0     1988/10/17 1252   ------wr     3ED      2997 PROGRAM$CONFIG
+  0.0     1988/10/17 1252   ------wr     3FA      1233 PROGRAM$FRC_INT
+  0.0     1988/10/17 1252   ------wr     400      3750 PROGRAM$GET_PCB
+  0.0     1988/10/17 1252   ------wr     410      4421 PROGRAM$QWK_FILL
+  0.0     1988/10/17 1252   ------wr     423      5346 PROGRAM$QWK_RAM
+  0.0     1988/10/17 1252   ------wr     439      2683 PROGRAM$QWK_RAMP
+  0.0     1988/10/17 1252   ------wr     445      1971 PROGRAM$QWK_RD
+  0.0     1988/11/17 1716   ------wr     44E      3969 PROGRAM$QWK_ROM
+  0.0     1988/10/17 1252   ------wr     45F      2153 PROGRAM$QWK_WR
+  0.0     1988/10/17 1252   ------wr     469      1664 PROGRAM$RD_CSCD
+  0.0     1988/10/17 1252   ------wr     471      1593 PROGRAM$RD_NOARM
+  0.0     1988/10/17 1253   ------wr     479      1581 PROGRAM$RD_REARM
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$80188
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/10/17 1253   d-ewrewr     481       448 .
+  0.0     1988/10/17 1253   ------wr     48A      4656 PODDB$POD_FILE
+  0.0     1988/10/17 1253   ------wr     49E      2997 PROGRAM$CONFIG
+  0.0     1988/10/17 1253   ------wr     4AB      1233 PROGRAM$FRC_INT
+  0.0     1988/10/17 1253   ------wr     4B1      5928 PROGRAM$GET_PCB
+  0.0     1988/10/17 1253   ------wr     4CA      3369 PROGRAM$QWK_FILL
+  0.0     1988/10/17 1253   ------wr     4D9      3826 PROGRAM$QWK_RAM
+  0.0     1988/10/17 1253   ------wr     4EC      1472 PROGRAM$QWK_RD
+  0.0     1988/10/17 1253   ------wr     4F3      2977 PROGRAM$QWK_ROM
+  0.0     1988/10/17 1253   ------wr     500      1547 PROGRAM$QWK_WR
+  0.0     1988/10/17 1253   ------wr     508      1744 PROGRAM$RD_CSCD
+  0.0     1988/10/17 1253   ------wr     510      1593 PROGRAM$RD_NOARM
+  0.0     1988/10/17 1253   ------wr     518      1581 PROGRAM$RD_REARM
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$80286
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/10/17 1253   d-ewrewr     520       288 .
+  0.0     1988/10/17 1253   ------wr     529      2340 PODDB$POD_FILE
+  0.0     1988/10/17 1253   ------wr     534       425 PROGRAM$FRC_INT
+  0.0     1988/10/17 1253   ------wr     537       441 PROGRAM$FRC_RINT
+  0.0     1988/10/17 1253   ------wr     53A       575 PROGRAM$RD_CSCD
+  0.0     1988/10/17 1254   ------wr     53E       445 PROGRAM$RD_NOARM
+  0.0     1988/10/17 1254   ------wr     541       433 PROGRAM$RD_REARM
+  0.0     1988/10/17 1254   ------wr     544       799 PROGRAM$VEC_CAPT
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PODLIB$PODLIB/POD$80286H
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/08 1243   d-ewrewr      1E       672 ..
+  0.0     1988/10/17 1254   d-ewrewr     549       384 .
+  0.0     1988/10/17 1254   ------wr     552       433 PROGRAM$RD_REARM
+  0.0     1988/10/17 1254   ------wr     555       425 PROGRAM$FRC_INT
+  0.0     1988/10/17 1254   ------wr     558       441 PROGRAM$FRC_RINT
+  0.0     1988/10/17 1254   ------wr     55B       575 PROGRAM$RD_CSCD
+  0.0     1988/10/17 1254   ------wr     55F       445 PROGRAM$RD_NOARM
+  0.0     1988/10/17 1254   ------wr     562       799 PROGRAM$VEC_CAPT
+  0.0     1988/10/17 1254   ------wr     567      2362 PODDB$POD_FILE
+  0.0     1988/10/17 1254   ------wr     572        40 Info
+  0.0     1988/10/17 1254   ------wr     574      4809 PROGRAM$HYP_RAM
+  0.0     1988/10/17 1254   ------wr     588      4600 PROGRAM$HYP_ROM
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/11/08 1237   d-ewrewr       3       320 ..
+  0.0     1988/10/17 1304   d-ewrewr     6C2        96 .
+  0.0     1988/10/17 1304   ------wr     6CB     19873 PROGRAM$A_TABLE
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/11/08 1237   d-ewrewr       3       320 ..
+  0.0     1988/11/08 1237   d-ewrewr     71A      2016 .
+  0.0     1988/10/19 1340   ------wr     4E9        40 Info
+  0.251   1988/10/19 1332   ------wr     4EA      1374 TEXT$INDEX
+  0.251   1988/10/19 1333   ------wr     4EB       218 TEXT$ROM4
+  0.251   1988/10/19 1333   ------wr     5A2       538 TEXT$RAM1
+  0.251   1988/10/19 1332   ------wr     5A6       545 TEXT$BUS1
+  0.251   1988/10/19 1333   ------wr     5AA       413 TEXT$ROM1
+  0.251   1988/10/19 1333   ------wr     5AD       397 TEXT$ROM2
+  0.251   1988/10/19 1333   ------wr     5B0       217 TEXT$ROM3
+  0.251   1988/10/19 1333   ------wr     5B2       585 TEXT$RAM2
+  0.251   1988/10/19 1333   ------wr     5B6       592 TEXT$RAM3
+  0.251   1988/10/19 1333   ------wr     5BA       387 TEXT$RAM4
+  0.251   1988/10/19 1333   ------wr     5BD       387 TEXT$RAM5
+  0.251   1988/10/19 1332   ------wr     5C0       538 TEXT$BUS2
+  0.251   1988/10/19 1332   ------wr     5C4       534 TEXT$BUS3
+  0.251   1988/10/19 1333   ------wr     5C8       226 TEXT$RAM6
+  0.251   1988/10/19 1333   ------wr     5CA       714 TEXT$RAM7
+  0.251   1988/10/19 1332   ------wr     5CE       537 TEXT$BUS4
+  0.251   1988/10/19 1332   ------wr     5D2       537 TEXT$BUS5
+  0.251   1988/10/19 1333   ------wr     5D6       159 TEXT$RAM8
+  0.251   1988/10/19 1333   ------wr     5D8       161 TEXT$RAM9
+  0.251   1988/10/19 1332   ------wr     5DA       120 TEXT$POD1
+  0.251   1988/10/19 1332   ------wr     5DC        80 TEXT$IOMOD1
+  0.251   1988/10/19 1333   ------wr     5DE       343 TEXT$RAM10
+  0.251   1988/10/19 1332   ------wr     5E1       440 TEXT$POD2
+  0.251   1988/10/19 1332   ------wr     5E4       175 TEXT$POD3
+  0.251   1988/10/19 1332   ------wr     5E6       437 TEXT$POD4
+  0.251   1988/10/19 1332   ------wr     5E9       623 TEXT$POD5
+  0.251   1988/10/19 1332   ------wr     5ED       522 TEXT$POD6
+  0.251   1988/10/19 1332   ------wr     5F1       184 TEXT$POD7
+  0.251   1988/10/19 1333   ------wr     5F3       133 TEXT$UNKNOWN1
+  0.251   1988/10/19 1333   ------wr     5F5       254 TEXT$ROM5
+  0.251   1988/10/19 1333   ------wr     5F7       303 TEXT$ROM6
+  0.251   1988/10/19 1333   ------wr     5FA       338 TEXT$ROM7
+  0.251   1988/10/19 1333   ------wr     5FD       216 TEXT$RAM11
+  0.251   1988/10/19 1333   ------wr     5FF       261 TEXT$RAM12
+  0.251   1988/10/19 1332   ------wr     602       523 TEXT$POD8
+  0.251   1988/10/19 1332   ------wr     606       395 TEXT$POD9
+  0.251   1988/10/19 1332   ------wr     609       172 TEXT$POD10
+  0.251   1988/10/19 1332   ------wr     60B       123 TEXT$POD11
+  0.251   1988/10/19 1332   ------wr     60D       159 TEXT$POD12
+  0.251   1988/10/19 1332   ------wr     60F       356 TEXT$POD13
+  0.251   1988/10/19 1332   ------wr     612       653 TEXT$BUS6
+  0.251   1988/10/19 1332   ------wr     616       519 TEXT$POD14
+  0.251   1988/10/19 1332   ------wr     61A       145 TEXT$POD15
+  0.251   1988/10/19 1332   ------wr     61C        96 TEXT$PROBE1
+  0.251   1988/10/19 1332   ------wr     61E       103 TEXT$CLKMOD1
+  0.251   1988/10/19 1332   ------wr     61F       253 TEXT$IOMOD2
+  0.251   1988/10/19 1332   ------wr     621       215 TEXT$POD16
+  0.251   1988/10/19 1332   ------wr     623       101 TEXT$IOMOD3
+  0.251   1988/10/21 0733   ------wr     627       311 TEXT$MPOD1
+  0.251   1988/10/21 0733   ------wr     62A       309 TEXT$MPOD2
+  0.251   1988/10/21 0733   ------wr     62D       421 TEXT$MPOD3
+  0.251   1988/10/21 0733   ------wr     630       372 TEXT$MPOD4
+  0.251   1988/10/21 0733   ------wr     633       224 TEXT$MPOD5
+  0.251   1988/10/21 0733   ------wr     635       393 TEXT$MPOD6
+  0.251   1988/10/21 0733   ------wr     638       385 TEXT$MPOD7
+  0.251   1988/10/19 1332   ------wr     63B       157 TEXT$GEN1
+  0.251   1988/10/19 1333   ------wr     63D       530 TEXT$RAM13
+  0.251   1988/10/21 0733   ------wr     644       250 TEXT$MPOD10
+  0.251   1988/10/21 1101   ------wr     646       269 TEXT$MPOD8
+  0.251   1988/10/21 0733   ------wr     649       475 TEXT$MPOD9
+
+                           Directory of MASTER_USER_DISK-V4.0-D1_01-OB.raw,/UUT$ABC
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/11/08 1237   d-ewrewr       3       320 ..
+  0.0     1988/11/08 1245   d-ewrewr     7B1       384 .
+  0.0     1988/10/17 1305   ------wr     7BA       321 REF$REFLIST
+  0.0     1988/10/17 1305   ------wr     7BD       196 RESPONSE$ADDR_OUT
+  0.0     1988/10/18 1014   ------wr     7BF       525 NODE$NODELIST
+  0.0     1988/10/17 1305   ------wr     7C3      2782 PROGRAM$TEST1
+  0.0     1988/10/17 1305   ------wr     7CF       444 PROGRAM$TEST2
+  0.0     1988/10/17 1304   ------wr     7D2      1388 PROGRAM$POD_SYNC
+  0.0     1988/10/17 1304   ------wr     7D9      2092 PROGRAM$EXT_SYNC
+  0.0     1988/10/17 1304   ------wr     7E3        40 Info
+  0.0     1988/10/17 1304   ------wr     7E5      4895 PROGRAM$ADDR_OUT
+  0.0     1988/10/17 1305   ------wr     800      2751 PROGRAM$RECOVER
