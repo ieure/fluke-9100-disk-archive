@@ -1,0 +1,148 @@
+
+                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     2003/04/30 0814   d-ewrewr       3       352 ..
+  0.1     2003/04/30 0814   d-ewrewr       3       352 .
+  0.0     1903/04/30 0814   d-ewrewr       C        64 SYSDISK
+  0.0     1903/04/30 0814   d-ewrewr      15        64 PARTLIB$PARTLIB
+  0.0     1903/04/30 0814   d-ewrewr      1E        64 PODLIB$PODLIB
+  0.0     1903/04/30 0814   d-ewrewr      27        64 PROGLIB$PROGLIB
+  0.0     1903/04/30 0814   d-ewrewr      30        64 HELPLIB$HELPLIB
+  0.0     1903/04/30 0814   ------wr      39         0 MEVALID
+  0.0     1903/04/30 0822   d-ewrewr      3A       832 UUT$WPLV9
+  0.0     1903/04/30 0824   d-ewrewr     21A       512 UUT$UTILS
+  0.0     1903/04/30 0825   d-ewrewr     3C9      1568 UUT$GOTTPIN
+
+                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     2003/04/30 0814   d-ewrewr       3       352 ..
+  0.0     1903/04/30 0814   d-ewrewr       C        64 .
+
+                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     2003/04/30 0814   d-ewrewr       3       352 ..
+  0.0     1903/04/30 0814   d-ewrewr      15        64 .
+
+                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     2003/04/30 0814   d-ewrewr       3       352 ..
+  0.0     1903/04/30 0814   d-ewrewr      1E        64 .
+
+                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     2003/04/30 0814   d-ewrewr       3       352 ..
+  0.0     1903/04/30 0814   d-ewrewr      27        64 .
+
+                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     2003/04/30 0814   d-ewrewr       3       352 ..
+  0.0     1903/04/30 0814   d-ewrewr      30        64 .
+
+                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/UUT$WPLV9
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     2003/04/30 0814   d-ewrewr       3       352 ..
+  0.0     1903/04/30 0822   d-ewrewr      3A       832 .
+  0.0     1903/03/31 2357   ---w--wr      43     42621 PROGRAM$MAIN
+  0.0     1903/02/08 1208   ---w--wr      EB       846 REF$REFLIST
+  0.0     1903/03/31 2229   ------wr      F0       163 GFSTRINGTA
+  0.0     1903/03/31 2229   ------wr      F2      2562 GFPPNAMTAB
+  0.0     1903/03/31 2229   ------wr      FE       110 GFPARTTAB
+  0.0     1903/03/31 2229   ------wr     100      1206 GFPPINTAB
+  0.0     1903/03/31 2229   ------wr     106       557 GFDEPTAB
+  0.0     1903/03/31 2229   ------wr     10A      4358 GFRPINTAB
+  0.0     1903/03/31 2229   ------wr     11D       344 GFREFTAB
+  0.0     1903/03/31 2229   ------wr     120        22 GFPROGTAB
+  0.0     1903/03/31 2229   ------wr     122       506 GFRESPTAB
+  0.0     1903/03/31 2229   ------wr     125      3447 GFNODETAB
+  0.0     1903/03/31 2229   ------wr     134        36 GFMAGICTAB
+  0.0     1903/03/31 2229   ------wr     136         1 DATABASE$UFIDATA
+  0.0     1903/02/08 1220   ---w--wr     138      1117 PROGRAM$SIGU34
+  0.0     1903/02/08 1221   ---w--wr     13E       111 RESPONSE$SIGU34
+  0.0     1903/02/08 1412   ---w--wr     140      2934 PROGRAM$SIGU60
+  0.0     1903/02/08 1411   ---w--wr     14D       176 RESPONSE$SIGU60
+  0.0     1903/02/08 1421   ---w--wr     14F      1266 PROGRAM$SIGU46
+  0.0     1903/02/08 1422   ---w--wr     155       251 RESPONSE$SIGU46
+  0.0     1903/02/10 0844   ---w--wr     157       731 TEXT$SIGU34
+  0.0     1903/02/10 0845   ---w--wr     15B      1000 TEXT$SIGU46
+  0.0     1903/02/10 0845   ---w--wr     160       967 TEXT$SIGU60
+  0.0     1903/03/31 2156   ---w--wr     165     46028 PROGRAM$MAINEX
+
+                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/UUT$UTILS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     2003/04/30 0814   d-ewrewr       3       352 ..
+  0.0     1903/04/30 0824   d-ewrewr     21A       512 .
+  0.0     1902/11/19 0028   ---w--wr     223     22463 PROGRAM$SPRITES
+  0.0     1903/01/19 1552   ---w--wr     27C     20430 PROGRAM$MAIN
+  0.0     1903/01/21 2340   ---w--wr     2CD      1406 PROGRAM$DO_IO
+  0.0     1902/12/12 2239   ---w--wr     2D4      2027 PROGRAM$INS
+  0.0     1903/02/05 2356   ---w--wr     2DD      2380 PROGRAM$OFFSET
+  0.0     1903/02/07 2124   ---w--wr     2E8      1255 PROGRAM$74374
+  0.0     1903/03/01 1331   ---w--wr     2EE     14785 PROGRAM$CHECKSUM
+  0.0     1903/01/27 2145   ---w--wr     329      1424 PROGRAM$74LS670
+  0.0     1903/03/02 1147   ---w--wr     330      1931 PROGRAM$OVERDRIVE
+  0.0     1903/03/30 1827   ---w--wr     339      2157 PROGRAM$74245
+  0.0     1903/03/30 1821   ---w--wr     343      1331 PROGRAM$74244
+  0.0     1903/03/30 1822   ---w--wr     34A      1921 PROGRAM$74240
+  0.0     1903/04/06 0116   ---w--wr     353     14788 PROGRAM$16BITCS
+  0.0     1903/04/06 0116   ---w--wr     38E     14788 PROGRAM$CS16BIT
+
+                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/UUT$GOTTPIN
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     2003/04/30 0814   d-ewrewr       3       352 ..
+  0.0     1903/04/30 0825   d-ewrewr     3C9      1568 .
+  0.0     1903/01/05 2110   ---w--wr     3D2     31976 PROGRAM$MAIN
+  0.0     1903/01/02 2147   ---w--wr     450      1663 PROGRAM$SIG1
+  0.0     1902/10/31 2100   ---w--wr     458      1003 PROGRAM$FREQ1
+  0.0     1903/01/05 2226   ---w--wr     45D       741 REF$REFLIST
+  0.0     1903/01/05 2227   ------wr     461       168 GFSTRINGTA
+  0.0     1903/01/05 2227   ------wr     463      2562 GFPPNAMTAB
+  0.0     1903/01/05 2227   ------wr     46F        86 GFPARTTAB
+  0.0     1903/01/05 2227   ------wr     471       798 GFPPINTAB
+  0.0     1903/01/05 2227   ------wr     476       363 GFDEPTAB
+  0.0     1903/01/05 2227   ------wr     479      3002 GFRPINTAB
+  0.0     1903/01/05 2227   ------wr     486       290 GFREFTAB
+  0.0     1903/01/05 2227   ------wr     489        42 GFPROGTAB
+  0.0     1903/01/05 2227   ------wr     48B      3146 GFRESPTAB
+  0.0     1903/01/05 2227   ------wr     499      1187 GFNODETAB
+  0.0     1903/01/05 2227   ------wr     49F        36 GFMAGICTAB
+  0.0     1902/12/29 1245   ---w--wr     4A1       148 RESPONSE$FREQ1
+  0.0     1903/01/01 1508   ---w--wr     4A3       397 RESPONSE$SIG1
+  0.0     1902/12/29 1407   ---w--wr     4A6       176 RESPONSE$SIGZ11
+  0.0     1902/12/29 1406   ---w--wr     4A8      2171 PROGRAM$SIGZ11
+  0.0     1902/12/30 2130   ---w--wr     4B2     10349 PROGRAM$SIGZ16
+  0.0     1903/01/02 2251   ---w--wr     4DC       705 RESPONSE$SIGZ16
+  0.0     1903/01/03 0749   ---w--wr     4E0      2799 TEXT$SIGZ16
+  0.0     1902/12/30 0740   ---w--wr     4EC       797 TEXT$FREQ1
+  0.0     1902/12/30 2114   ------wr     4F1        40 INFO
+  0.0     1902/12/29 0932   ---w--wr     4F3      1624 PROGRAM$INIT_6532
+  0.0     1903/01/01 2323   ---w--wr     4FB       969 TEXT$SIGZ11
+  0.0     1902/12/30 2144   ---w--wr     500      2306 PROGRAM$SIGZ17
+  0.0     1903/01/01 1230   ---w--wr     50B       549 RESPONSE$SIGZ17
+  0.0     1902/12/30 2333   ---w--wr     50F      2261 PROGRAM$SIGZ27
+  0.0     1902/12/30 2336   ---w--wr     519       490 RESPONSE$SIGZ27
+  0.0     1902/12/30 2241   ---w--wr     51C      1910 PROGRAM$SIGZ32
+  0.0     1902/12/30 2247   ---w--wr     525       398 RESPONSE$SIGZ32
+  0.0     1903/01/01 2324   ---w--wr     528      1579 TEXT$SIGZ17
+  0.0     1903/01/01 2324   ---w--wr     530      2033 TEXT$SIGZ27
+  0.0     1903/01/01 2324   ---w--wr     539      1451 TEXT$SIGZ32
+  0.0     1903/01/01 1804   ---w--wr     540     31355 PROGRAM$MAIN2
+  0.0     1903/01/01 1441   ---w--wr     5BC      3369 PROGRAM$SIGZ13
+  0.0     1903/01/01 1445   ---w--wr     5CB      3381 PROGRAM$SIGZ14
+  0.0     1902/12/31 0819   ---w--wr     5DA     18863 PROGRAM$MAIN3
+  0.0     1903/02/03 2225   ---w--wr     625     25661 OBJPROG$MAIN
+  0.0     1903/01/01 1807   ---w--wr     68B      1923 TEXT$MAINT
+  0.0     1903/01/03 0749   ---w--wr     694      1679 TEXT$SIG1
+  0.0     1903/01/01 2325   ---w--wr     69C      2334 TEXT$REFLIST
+  0.0     1903/01/05 2114   ---w--wr     6A7     18135 PROGRAM$BBONE
+  0.0     1903/01/05 2227   ---w--wr     6EF      2769 TEXT$TT
+  0.0     1903/01/05 2218   ---w--wr     6FB      2053 NODE$NODELIST
+  0.0     1903/01/05 2227   ------wr     705         1 DATABASE$GFIDATA

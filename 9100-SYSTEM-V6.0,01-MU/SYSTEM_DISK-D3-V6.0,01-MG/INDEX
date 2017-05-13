@@ -1,0 +1,26 @@
+
+                           Directory of SYSTEM_DISK-D3-V6.0_01-MG.raw,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/04/03 1014   d-ewrewr       3       224 ..
+  0.1     1991/04/03 1014   d-ewrewr       3       224 .
+  0.0     1991/04/03 1058   d-ewrewr       C       128 ROM
+  0.0     1991/04/03 1058   d-ewrewr      15        96 SYSDISK
+  0.0     1991/04/03 1101   ------wr     704         4 .xxx
+  0.0     1991/12/20 1143   ------wr     706         0 MEVALID
+  0.0     1991/12/20 1144   ------wr     707        44 Info
+
+                           Directory of SYSTEM_DISK-D3-V6.0_01-MG.raw,/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/04/03 1014   d-ewrewr       3       224 ..
+  0.0     1991/04/03 1058   d-ewrewr       C       128 .
+  0.0     1991/04/03 1031   --e-rewr      1E    357732 rtsctl
+  0.0     1991/04/03 1033   --e-rewr     595     85862 qtlc
+
+                           Directory of SYSTEM_DISK-D3-V6.0_01-MG.raw,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/04/03 1014   d-ewrewr       3       224 ..
+  0.0     1991/04/03 1058   d-ewrewr      15        96 .
+  0.0     1991/04/03 1038   ----r-wr     6E6      7342 tll

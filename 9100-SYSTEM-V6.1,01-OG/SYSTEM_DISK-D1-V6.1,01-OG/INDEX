@@ -1,0 +1,45 @@
+
+                           Directory of SYSTEM_DISK-D1-V6.1_01-OG.raw,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/07/24 0946   d-ewrewr       3       192 ..
+  0.1     1991/07/24 0946   d-ewrewr       3       192 .
+  0.0     1991/07/24 1451   d-ewrewr       C       480 ROM
+  0.0     1991/07/24 1451   d-ewrewr      15       384 CMDS
+  0.0     1991/07/24 1448   ----r-wr      1E         2 ndisks
+  0.0     1991/07/24 1454   ------wr     40D         4 .xxx
+
+                           Directory of SYSTEM_DISK-D1-V6.1_01-OG.raw,/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/07/24 0946   d-ewrewr       3       192 ..
+  0.0     1991/07/24 1451   d-ewrewr       C       480 .
+  0.0     1991/07/24 1445   --e-rewr     2CB       294 configsystem
+  0.0     1991/07/24 1445   --e-rewr     2CE       114 compatsystem
+  0.0     1991/07/24 1445   --e-rewr     2D0      2604 janeconfig
+  0.0     1991/07/24 1444   --e-rewr     2DC     53426 be_table
+  0.0     1991/07/24 1445   --e-rewr     3AE      7268 bf_table
+  0.0     1991/07/24 1445   --e-rewr     3CC       120 ieee
+  0.0     1991/07/24 1445   --e-rewr     3CE     13826 sc488
+  0.0     1991/07/24 1454   ------wr     406         0 configuration
+  0.0     1991/07/24 1454   ------wr     407         0 ram
+  0.0     1991/07/24 1454   ------wr     408         0 rd1
+  0.0     1991/07/24 1454   ------wr     409         0 iomod
+  0.0     1991/07/24 1454   ------wr     40A         0 math
+  0.0     1991/07/24 1454   ------wr     40B         0 scio
+
+                           Directory of SYSTEM_DISK-D1-V6.1_01-OG.raw,/CMDS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/07/24 0946   d-ewrewr       3       192 ..
+  0.0     1991/07/24 1451   d-ewrewr      15       384 .
+  0.0     1991/07/24 1445   --e-rewr      20     32232 root
+  0.0     1991/07/24 1445   --e-rewr      9F    107773 os
+  0.0     1991/07/24 1446   --e-rewr     245      4914 gfi_init
+  0.0     1991/07/24 1446   --e-rewr     25A      3234 iomod_init
+  0.0     1991/07/24 1446   --e-rewr     268     11920 pod_init
+  0.0     1991/07/24 1446   --e-rewr     298      3476 rdisk_init
+  0.0     1991/07/24 1446   --e-rewr     2A7      1372 read_test
+  0.0     1991/07/24 1446   --e-rewr     2AE      2076 runuut_led
+  0.0     1991/07/24 1446   --e-rewr     2B8      4426 vid_init
+  0.0     1991/07/24 1454   ------wr     40C         0 mem_init

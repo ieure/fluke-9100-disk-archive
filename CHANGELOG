@@ -1,3 +1,11 @@
+2017-05-12  Ian Eure  <ian.eure@gmail.com>
+
+	* Added disks from Chris Loggans: 9100 6.0 system, programmer, and
+	IEEE options; 9100 6.1 system, programmer, and IEEE options; Z80QT
+	pod user disk; 9132A 68HC11 pod user disks; 9132A 80C186 pod user
+	disks; 9132FT 68020 user disks; IEEE-488 feature disk; and two
+	userdisks.
+
 2017-04-22  Ian Eure  <ian.eure@gmail.com>
 
 	* Created archive.

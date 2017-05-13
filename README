@@ -46,6 +46,7 @@ This consists of two letters, represeting the media and dump status.
 O - Original, unmodified media.
 M - Modified media.
 
+I - Incomplete, disks missing from diskset.
 G - Good dump, all sectors read successfully.
 B - Bad dump, some sectors unreadable.
 
@@ -85,6 +86,9 @@ information about the dump, photos of -FRONT and -BACK photos of the
 disks archived, an INDEX file with the contents of the disk, and a ZIP
 archive of the KryoFlux STREAM.
 
+Some userdisks are archived in the NON-FACTORY directory.  These aren't
+original, but may contain things of interest.
+
 Writing Media
 =============
 
@@ -114,4 +118,60 @@ eraser or similar electromagnetic device.  Formatting in a
 high-density drive is not sufficient.  Failure to degauss high-density
 media will likely result in read failures, as the larger
 double-density disk head may pick up stray magnetic fields from the
-adjacent high-density tracks.
+adjacent high-density tracks.  Additionally, it's recommended that you
+cover the high-density indicator hole on the disk.  This will ensure
+that it's treated uniformly as double-density media.
+
+Installing on SCSI2SD
+=====================
+
+Upgrading the hard disk in a Fluke 9100 to a SCSI2SD is a popular
+option, though there are some wrinkles.  The following information
+attempts to capture the important parts of this process.  Use of a
+SCSI2SD v5 is assumed.
+
+The 9100A shipped with a 20mb MiniScribe 8425 MFM hard disk, which
+required an interface PCB to work with the mainframe.  Later, Fluke
+released a 40m field upgrade kit, using a Quantum ProDrive ELS SCSI
+disk.  The 9100FT models shipped with the larger Quantum drive.
+
+Disk Geometry
+-------------
+
+The MiniScribe has CHS of 615/4/17, 41,820, sectors, 512 bytes/sector,
+for 21,411,840 bytes of capacity.
+
+The ProDrive ELS has CHS of 968/5/17, 82,280 sectors total, 512
+bytes/sectors, providing a total capacity of 42,127,360 bytes.
+
+SCSI2SD Configuration
+---------------------
+
+Set your SCSI2SD up as follows:
+
+Device 1:
+Enabled
+SCSI ID 0
+SD card start sector 0
+Sector size 512 bytes
+Sector count 82280
+
+Devices 2-4 disabled.
+
+All other settings default.
+
+This will simulate the upgraded 40mb SCSI disk.  While I have
+formatted disks up to 1gb in size, this is much larger than the
+software was intended to work with, and to avoid problems, I'd
+recommend sticking to the 40mb settings.
+
+
+Mainframe-Specific Concerns
+---------------------------
+
+On a 9100A mainframe, you should use the onboard termination of the
+SCSI2SD.  This does not work on the 9100FT.  Those mainframes require
+an external terminator, which requires you to replace the SCSI cable
+with one that has another connector on it.
+
+v

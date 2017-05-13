@@ -1,0 +1,242 @@
+
+                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1992/02/28 0814   d-ewrewr       3       448 ..
+  0.1     1992/02/28 0814   d-ewrewr       3       448 .
+  0.0     1992/02/28 0814   d-ewrewr       C        64 SYSDISK
+  0.0     1992/02/28 0814   d-ewrewr      15        64 PARTLIB$PARTLIB
+  0.0     1992/02/28 0814   d-ewrewr      1E        64 PODLIB$PODLIB
+  0.0     1992/02/28 0814   d-ewrewr      27        64 PROGLIB$PROGLIB
+  0.0     1992/02/28 0814   d-ewrewr      30        64 HELPLIB$HELPLIB
+  0.0     1992/02/28 0814   ------wr      39         0 MEVALID
+  0.0     1992/02/28 1131   d-ewrewr      3A      1792 UUT$TRAINER
+  0.0     1992/02/28 1135   d-ewrewr     233       160 UUT$TRAINERA
+  0.0     1992/02/28 1135   d-ewrewr     24A       992 UUT$TRAINERB
+  0.0     1992/02/28 1137   d-ewrewr     40C      1984 UUT$TRNR9132
+  0.0     1992/02/28 1141   d-ewrewr     6FE       416 UUT$TRN_MDE
+  0.0     1992/02/28 1142   d-ewrewr     73B        96 UUT$TR_IEEE
+
+                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1992/02/28 0814   d-ewrewr       3       448 ..
+  0.0     1992/02/28 0814   d-ewrewr       C        64 .
+
+                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1992/02/28 0814   d-ewrewr       3       448 ..
+  0.0     1992/02/28 0814   d-ewrewr      15        64 .
+
+                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1992/02/28 0814   d-ewrewr       3       448 ..
+  0.0     1992/02/28 0814   d-ewrewr      1E        64 .
+
+                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1992/02/28 0814   d-ewrewr       3       448 ..
+  0.0     1992/02/28 0814   d-ewrewr      27        64 .
+
+                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1992/02/28 0814   d-ewrewr       3       448 ..
+  0.0     1992/02/28 0814   d-ewrewr      30        64 .
+
+                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/UUT$TRAINER
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1992/02/28 0814   d-ewrewr       3       448 ..
+  0.0     1992/02/28 1131   d-ewrewr      3A      1792 .
+  0.0     1991/05/28 1046   ---w--wr      43       113 PROGRAM$ENABLE_OFF
+  0.0     1991/12/06 1351   ------wr      45      2398 TEXT$STIM_TEMP
+  0.0     1991/03/22 0942   ------wr      50       865 TEXT$ANSI_DCLR
+  0.0     1991/05/28 1047   ---w--wr      55       309 PROGRAM$REPORT_OFF
+  0.0     1991/05/28 1046   ---w--wr      58       110 PROGRAM$ENABLE_ON
+  0.0     1991/05/28 1047   ---w--wr      5A       301 PROGRAM$REPORT_ON
+  0.0     1991/03/22 0949   ------wr      5D      2668 TEXT$COMM
+  0.0     1992/02/18 1637   ------wr      69      2080 ZYCALDATA
+  0.0     1992/02/19 1501   ------wr      73       116 ZYSETMISC
+  0.0     1992/02/19 1501   ------wr      75       944 ZYSETIOMOD
+  0.0     1992/02/19 1501   ------wr      7A      1120 ZYSETKYSEQ
+  0.0     1992/02/19 1501   ------wr      80       628 ZYSETPOD
+  0.0     1992/02/19 1501   ------wr      84       168 ZYSETRAMRO
+  0.0     1992/02/21 1339   ---w--wr      86       205 PROGRAM$BUS_TEST
+  0.0     1992/02/21 1338   ---w--wr      88       245 PROGRAM$RAM_TEST
+  0.0     1992/02/21 1407   ---w--wr      8A      1011 PROGRAM$ROM_TEST
+  0.0     1992/02/21 1342   ---w--wr      8F       608 OBJPROG$BUS_TEST
+  0.0     1992/02/20 1516   ---w--wr      93       311 OBJPROG$ENABLE_OFF
+  0.0     1992/02/20 1516   ---w--wr      96       309 OBJPROG$ENABLE_ON
+  0.0     1992/02/21 1342   ---w--wr      99       718 OBJPROG$RAM_TEST
+  0.0     1992/02/20 1516   ---w--wr      9D       519 OBJPROG$REPORT_OFF
+  0.0     1992/02/20 1516   ---w--wr      A1       517 OBJPROG$REPORT_ON
+  0.0     1992/02/21 1408   ---w--wr      A5      1556 OBJPROG$ROM_TEST
+  0.0     1992/02/21 1341   ---w--wr      AD      6745 PROGRAM$PIA_TEST
+  0.0     1992/02/27 1149   ---w--wr      C9       118 PROGRAM$MAIN_TEST
+  0.0     1992/02/25 1331   ---w--wr      CB       447 REF$REFLIST
+  0.0     1992/02/25 1432   ------wr      CE       123 GFSTRINGTA
+  0.0     1992/02/25 1432   ------wr      D0      2562 GFPPNAMTAB
+  0.0     1992/02/25 1432   ------wr      DC        62 GFPARTTAB
+  0.0     1992/02/25 1432   ------wr      DE       854 GFPPINTAB
+  0.0     1992/02/25 1432   ------wr      E3       405 GFDEPTAB
+  0.0     1992/02/25 1432   ------wr      E6      2540 GFRPINTAB
+  0.0     1992/02/25 1432   ------wr      F1       173 GFREFTAB
+  0.0     1992/02/25 1432   ------wr      F3      2027 GFNODETAB
+  0.0     1992/02/25 1432   ------wr      FC        36 GFMAGICTAB
+  0.0     1992/02/25 1432   ------wr      FE         1 DATABASE$UFIDATA
+  0.0     1992/02/25 1310   ---w--wr     100      2474 PROGRAM$MICRO_DATA
+  0.0     1992/02/25 1311   ---w--wr     10B      1500 OBJPROG$MICRO_DATA
+  0.0     1992/02/25 1147   ---w--wr     112      1265 RESPONSE$MICRO_DATA
+  0.0     1992/02/25 0924   ---w--wr     118      2442 PROGRAM$ROM_DECODE
+  0.0     1992/02/25 0948   ---w--wr     123       290 RESPONSE$ROM_DECODE
+  0.0     1992/02/24 1449   ---w--wr     126      1446 TEXT$12
+  0.0     1992/02/25 1506   ---w--wr     12D      2761 PROGRAM$ROW_ADDR
+  0.0     1992/02/24 1539   ---w--wr     139      2509 PROGRAM$MICRO_ADDR
+  0.0     1992/02/25 1431   ---w--wr     144      2120 RESPONSE$MICRO_ADDR
+  0.0     1992/02/25 1420   ---w--wr     14E       387 RESPONSE$ROW_ADDR
+  0.0     1992/02/25 1432   ------wr     151        32 GFPROGTAB
+  0.0     1992/01/24 0922   ---w--wr     153     25558 PROGRAM$STIM_SUMRY
+  0.0     1992/02/25 1005   ---w--wr     1B8      1266 TEXT$REFLIST
+  0.0     1992/02/25 1315   ---w--wr     1BE     13118 TEXT$LIST_SUMRY
+  0.0     1992/02/25 1316   ---w--wr     1F3      4467 TEXT$NOT_STIMD
+  0.0     1992/02/25 1311   ---w--wr     206      2433 PROGRAM$ROM1_DATA
+  0.0     1992/02/25 1135   ---w--wr     211      1400 RESPONSE$ROM1_DATA
+  0.0     1992/02/25 1432   ------wr     218      6530 GFRESPTAB
+
+                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/UUT$TRAINERA
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1992/02/28 0814   d-ewrewr       3       448 ..
+  0.0     1992/02/28 1135   d-ewrewr     233       160 .
+  0.0     1991/04/16 1052   ---w--wr     23C       819 PROGRAM$DECLARE_1
+  0.0     1991/04/16 1052   ---w--wr     241      1484 PROGRAM$FLUSH
+  0.0     1991/06/10 0910   ------wr     248        40 INFO
+
+                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/UUT$TRAINERB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1992/02/28 0814   d-ewrewr       3       448 ..
+  0.0     1992/02/28 1135   d-ewrewr     24A       992 .
+  0.0     1991/04/16 1104   ------wr     253       598 PROGRAM$ADDR_OUT
+  0.0     1988/03/09 1049   ------wr     257     16411 NODE$NODELIST
+  0.0     1988/08/24 1056   ---w--wr     299      5592 REF$REFLIST
+  0.0     1991/04/16 1106   ------wr     2B0       574 PROGRAM$GO_NOGO
+  0.0     1991/04/16 1110   ------wr     2B4       368 PROGRAM$TEST_BUS
+  0.0     1991/04/16 1114   ------wr     2B7      1014 PROGRAM$TEST_RAM
+  0.0     1991/04/16 1115   ------wr     2BC       244 PROGRAM$TEST_ROM
+  0.0     1991/04/16 1118   ------wr     2BE       247 PROGRAM$TEST_PIA
+  0.0     1991/04/16 1121   ---w--wr     2C0       841 TEXT$ADDR_OUT
+  0.0     1991/04/16 1122   ---w--wr     2C5       816 TEXT$GO_NOGO
+  0.0     1991/04/16 1122   ---w--wr     2CA       611 TEXT$TEST_BUS
+  0.0     1991/04/16 1124   ---w--wr     2CE       490 TEXT$TEST_PIA
+  0.0     1991/04/16 1123   ---w--wr     2D1      1256 TEXT$TEST_RAM
+  0.0     1991/04/16 1123   ---w--wr     2D7       487 TEXT$TEST_ROM
+  0.0     1944/03/15 0911   ------wr     2DA        40 INFO
+  0.0     1992/02/25 1604   ------wr     2DC      1112 GFSTRINGTA
+  0.0     1992/02/25 1604   ------wr     2E2      2562 GFPPNAMTAB
+  0.0     1992/02/25 1604   ------wr     2EE       332 GFPARTTAB
+  0.0     1992/02/25 1604   ------wr     2F1      3934 GFPPINTAB
+  0.0     1992/02/25 1604   ------wr     302      2791 GFDEPTAB
+  0.0     1992/02/25 1604   ------wr     30E     14786 GFRPINTAB
+  0.0     1992/02/25 1604   ------wr     349      2387 GFREFTAB
+  0.0     1992/02/25 1604   ------wr     354      2307 GFNODETAB
+  0.0     1992/02/25 1604   ------wr     35F        36 GFMAGICTAB
+  0.0     1992/02/25 1604   ------wr     361         1 DATABASE$GFIDATA
+  0.0     1992/02/25 1603   ---w--wr     363        95 RESPONSE$ADDR_OUT
+  0.0     1992/02/25 1604   ------wr     365        12 GFPROGTAB
+  0.0     1992/02/25 1604   ------wr     367        98 GFRESPTAB
+  0.0     1992/02/25 1605   ---w--wr     369     41357 TEXT$1
+
+                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/UUT$TRNR9132
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1992/02/28 0814   d-ewrewr       3       448 ..
+  0.0     1992/02/28 1137   d-ewrewr     40C      1984 .
+  0.0     1944/02/22 1401   ---w--wr     415      5592 REF$REFLIST
+  0.0     1944/03/16 0826   ------wr     42C        40 INFO
+  0.0     1992/01/27 1421   ---w--wr     42E      1080 OBJPROG$SETUP1
+  0.0     1992/01/27 1416   ---w--wr     434      1919 PROGRAM$ROM1_DATA
+  0.0     1992/01/27 1420   ---w--wr     43D      1888 OBJPROG$K_DATA_IN
+  0.0     1992/02/28 0901   ------wr     446        37 GFPROGTAB
+  0.0     1944/01/19 0903   ------wr     448      2611 PROGRAM$RECOVER
+  0.0     1991/12/09 0835   ---w--wr     454       310 PROGRAM$REPORT_OFF
+  0.0     1991/12/09 0834   ---w--wr     457       302 PROGRAM$REPORT_ON
+  0.0     1991/12/06 0935   ------wr     45A      1472 PROGRAM$ROM0_DATA
+  0.0     1990/03/01 1557   ---w--wr     461       787 RESPONSE$K_DATA_IN
+  0.0     1991/02/19 1311   ------wr     466      1238 RESPONSE$ROM1_DATA
+  0.0     1992/02/28 0901   ------wr     46C      1162 GFSTRINGTA
+  0.0     1992/02/28 0901   ------wr     472      2562 GFPPNAMTAB
+  0.0     1992/02/28 0901   ------wr     47E       332 GFPARTTAB
+  0.0     1992/02/28 0901   ------wr     481      3934 GFPPINTAB
+  0.0     1992/02/28 0901   ------wr     492      2791 GFDEPTAB
+  0.0     1992/02/28 0901   ------wr     49E     14786 GFRPINTAB
+  0.0     1992/02/28 0901   ------wr     4D9      2387 GFREFTAB
+  0.0     1992/02/28 0902   ------wr     4E4     11002 GFNODETAB
+  0.0     1992/02/28 0902   ------wr     510        36 GFMAGICTAB
+  0.0     1992/02/28 0902   ------wr     512         1 DATABASE$UFIDATA
+  0.0     1990/03/01 0843   ---w--wr     514      1238 RESPONSE$ROM0_DATA
+  0.0     1991/12/06 1053   ---w--wr     51A      1793 PROGRAM$K_ADDR
+  0.0     1992/02/28 0901   ------wr     523     11522 GFRESPTAB
+  0.0     1991/12/06 1339   ------wr     552       709 PROGRAM$SETUP1
+  0.0     1991/12/06 0939   ------wr     556       126 PROGRAM$GO_NOGO
+  0.0     1991/11/27 1131   ---w--wr     558     24770 PROGRAM$STIM_SUMRY
+  0.0     1992/01/27 1421   ---w--wr     5BA     15033 OBJPROG$STIM_SUMRY
+  0.0     1992/01/27 1421   ---w--wr     5F6      1709 OBJPROG$ROM1_DATA
+  0.0     1991/12/09 0832   ---w--wr     5FE       493 PROGRAM$RAM_TEST
+  0.0     1991/12/09 0833   ---w--wr     601       895 PROGRAM$ROM_TEST
+  0.0     1991/12/06 0937   ------wr     606      1589 PROGRAM$K_DATA_IN
+  0.0     1992/02/28 0831   ---w--wr     60E         2 TEXT$STATUS
+  0.0     1992/01/27 1420   ---w--wr     610       339 OBJPROG$GO_NOGO
+  0.0     1992/01/27 1421   ---w--wr     613       963 OBJPROG$RAM_TEST
+  0.0     1992/01/27 1421   ---w--wr     618      1051 OBJPROG$ROM_TEST
+  0.0     1992/01/23 1546   ---w--wr     61E      1936 PROGRAM$MAIN
+  0.0     1992/01/27 1421   ---w--wr     627      2403 OBJPROG$MAIN
+  0.0     1992/01/24 1121   ---w--wr     632     15709 TEXT$REFLIST
+  0.0     1992/01/23 1545   ---w--wr     671      3217 PROGRAM$BUS_TEST
+  0.0     1992/01/27 1420   ---w--wr     67F      2986 OBJPROG$BUS_TEST
+  0.0     1992/01/27 1421   ---w--wr     68C      1792 OBJPROG$ROM0_DATA
+  0.0     1991/11/26 1554   ------wr     694       116 ZYSETMISC
+  0.0     1991/11/26 1554   ------wr     696       944 ZYSETIOMOD
+  0.0     1991/11/26 1554   ------wr     69B      1120 ZYSETKYSEQ
+  0.0     1991/11/26 1554   ------wr     6A1       628 ZYSETPOD
+  0.0     1991/11/26 1554   ------wr     6A5        24 ZYSETRAMRO
+  0.0     1991/12/06 0936   ------wr     6A7      1407 PROGRAM$MICRO_DATA
+  0.0     1991/12/05 1408   ---w--wr     6AE      1544 RESPONSE$MICRO_DATA
+  0.0     1992/01/27 1420   ---w--wr     6B6      1890 OBJPROG$K_ADDR
+  0.0     1992/01/27 1421   ---w--wr     6BF      1804 OBJPROG$MICRO_DATA
+  0.0     1991/12/06 1046   ---w--wr     6C8      1017 OBJPROG$RECOVER
+  0.0     1992/01/27 1421   ---w--wr     6CD       519 OBJPROG$REPORT_OFF
+  0.0     1992/01/27 1421   ---w--wr     6D1       517 OBJPROG$REPORT_ON
+  0.0     1992/01/27 1422   ---w--wr     6D5      1227 TEXT$REF_SUMRY
+  0.0     1991/12/06 1048   ---w--wr     6DB      1454 PROGRAM$MICRO_ADDR
+  0.0     1991/12/06 1043   ---w--wr     6E2      2298 RESPONSE$MICRO_ADDR
+  0.0     1991/12/06 1036   ---w--wr     6EC      1998 RESPONSE$K_ADDR
+  0.0     1992/01/27 1421   ---w--wr     6F5      1804 OBJPROG$MICRO_ADDR
+
+                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/UUT$TRN_MDE
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1992/02/28 0814   d-ewrewr       3       448 ..
+  0.0     1992/02/28 1141   d-ewrewr     6FE       416 .
+  0.0     1992/02/26 1050   ------wr     707       116 ZYSETMISC
+  0.0     1992/02/26 1050   ------wr     709       944 ZYSETIOMOD
+  0.0     1992/02/26 1050   ------wr     70E      1120 ZYSETKYSEQ
+  0.0     1992/02/26 1050   ------wr     714       628 ZYSETPOD
+  0.0     1992/02/26 1050   ------wr     718        24 ZYSETRAMRO
+  0.0     1992/02/26 1119   ---w--wr     71A       607 PROGRAM$SETUP1
+  0.0     1992/02/26 1302   ------wr     71E      2080 ZYCALDATA
+  0.0     1992/02/27 1523   ---w--wr     728      1296 PROGRAM$BUS_TEST
+  0.0     1992/02/27 1314   ---w--wr     72F       335 PROGRAM$RAM_TEST
+  0.0     1992/02/27 1315   ---w--wr     732      1127 PROGRAM$ROM_TEST
+  0.0     1992/02/27 1356   ---w--wr     738       294 PROGRAM$MAIN_TEST
+
+                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/UUT$TR_IEEE
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1992/02/28 0814   d-ewrewr       3       448 ..
+  0.0     1992/02/28 1142   d-ewrewr     73B        96 .
+  0.0     1991/04/30 1255   ---w--wr     744     14628 PROGRAM$IEEE_45

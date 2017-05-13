@@ -1,0 +1,56 @@
+
+                           Directory of 9100A-Z80QT_POD-USER_DISK-V1.0_01-UU.raw,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/02/10 1156   d-ewrewr       3       256 ..
+  0.1     1989/02/10 1156   d-ewrewr       3       256 .
+  0.0     1989/02/10 1156   d-ewrewr       C        64 SYSDISK
+  0.0     1989/02/10 1157   d-ewrewr      15        64 PARTLIB$PARTLIB
+  0.0     1989/02/10 1157   d-ewrewr      1E        96 PODLIB$PODLIB
+  0.0     1989/02/10 1157   d-ewrewr      27        64 PROGLIB$PROGLIB
+  0.0     1989/02/10 1157   d-ewrewr      30        64 HELPLIB$HELPLIB
+  0.0     1989/02/10 1157   ------wr      39         0 MEVALID
+
+                           Directory of 9100A-Z80QT_POD-USER_DISK-V1.0_01-UU.raw,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/02/10 1156   d-ewrewr       3       256 ..
+  0.0     1989/02/10 1156   d-ewrewr       C        64 .
+
+                           Directory of 9100A-Z80QT_POD-USER_DISK-V1.0_01-UU.raw,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/02/10 1156   d-ewrewr       3       256 ..
+  0.0     1989/02/10 1157   d-ewrewr      15        64 .
+
+                           Directory of 9100A-Z80QT_POD-USER_DISK-V1.0_01-UU.raw,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/02/10 1156   d-ewrewr       3       256 ..
+  0.0     1989/02/10 1157   d-ewrewr      1E        96 .
+  0.0     1989/02/10 1206   d-ewrewr      3A       288 POD$Z80QT
+
+                           Directory of 9100A-Z80QT_POD-USER_DISK-V1.0_01-UU.raw,/PODLIB$PODLIB/POD$Z80QT
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1989/02/10 1157   d-ewrewr      1E        96 ..
+  0.0     1989/02/10 1206   d-ewrewr      3A       288 .
+  0.0     1988/09/09 1905   ---w--wr      43       974 PODDB$POD_FILE
+  0.0     1989/01/24 1448   ------wr      48      3360 PROGRAM$QWK_FILL
+  0.0     1988/09/30 1538   ------wr      57      3754 PROGRAM$QWK_RAM
+  0.0     1988/09/09 1443   ------wr      67      1110 PROGRAM$QWK_RD
+  0.0     1988/09/30 1539   ------wr      6D      2773 PROGRAM$QWK_ROM
+  0.0     1988/09/09 1453   ------wr      79      1177 PROGRAM$QWK_WR
+  0.0     1988/09/09 1825   ------wr      7F        40 Info
+
+                           Directory of 9100A-Z80QT_POD-USER_DISK-V1.0_01-UU.raw,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/02/10 1156   d-ewrewr       3       256 ..
+  0.0     1989/02/10 1157   d-ewrewr      27        64 .
+
+                           Directory of 9100A-Z80QT_POD-USER_DISK-V1.0_01-UU.raw,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/02/10 1156   d-ewrewr       3       256 ..
+  0.0     1989/02/10 1157   d-ewrewr      30        64 .
