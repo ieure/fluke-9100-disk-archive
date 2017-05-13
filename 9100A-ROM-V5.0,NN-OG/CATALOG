@@ -1,0 +1,13 @@
+Name: 9100A ROMs V5.0
+JFPN: 874177
+Site-Code: None
+Archived-By: Ian Eure
+Archived: 2017-05-13
+Dump: 01/OG
+
+Notes:
+Not my dump, added to the archive for convenience.  These need to be
+progammed onto 27C512 EPROMs.
+
+If your mainframe is running V3.0 ROMs, you will need to cut the
+jumper at W2 on the motherboard.

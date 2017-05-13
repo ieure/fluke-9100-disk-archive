@@ -111,29 +111,52 @@ To convert to ImageDisk format:
 
 SAMDISK COPY MASTER_USER_DISK-D1-V4.1,01-OG.img00.0.raw MUD1.IMD
 
+To convert to TeleDisk format:
+
+SAMDISK COPY MASTER_USER_DISK-D1-V4.1,01-OG.img00.0.raw MUD1.TD0
+
 The original media is double-density 3.5" floppy disks, and it's
-recommended that you write them to the same type of media.  If you use
+recommended that you write them to the same type of disk.  If you use
 high-density media, you *must* degauss it first, using a bulk magnetic
 eraser or similar electromagnetic device.  Formatting in a
 high-density drive is not sufficient.  Failure to degauss high-density
 media will likely result in read failures, as the larger
 double-density disk head may pick up stray magnetic fields from the
-adjacent high-density tracks.  Additionally, it's recommended that you
-cover the high-density indicator hole on the disk.  This will ensure
-that it's treated uniformly as double-density media.
+adjacent high-density tracks.  Additionally, you should cover the
+high-density indicator hole on the disk to ensure uniform handling,
+for example in a mainframe with a high-density drive.
 
 Installing on SCSI2SD
 =====================
 
-Upgrading the hard disk in a Fluke 9100 to a SCSI2SD is a popular
-option, though there are some wrinkles.  The following information
-attempts to capture the important parts of this process.  Use of a
-SCSI2SD v5 is assumed.
+The SCSI2SD is a popular option for replacing SCSI disks.  It's
+compatible with the 9100, but there are some considerations which this
+document attempts to capture.
 
 The 9100A shipped with a 20mb MiniScribe 8425 MFM hard disk, which
 required an interface PCB to work with the mainframe.  Later, Fluke
-released a 40m field upgrade kit, using a Quantum ProDrive ELS SCSI
+released a 40mb field upgrade kit, using a Quantum ProDrive ELS SCSI
 disk.  The 9100FT models shipped with the larger Quantum drive.
+
+Prerequisites
+-------------
+
+You must have:
+
+ - Fluke 9100 Service Disk v1.4.  This is included in this archive as
+   9100-SERVICE-V1.4,NN-MG.
+ - Mainframe ROMs v5.0.  These are included in this archive as
+   9100A-ROM-V5.0,NN-OG.
+ - A SCSI2SD v5.
+ - A SD card, nearly any size will do.
+ - Several blank 3.5" DSDD floppy disks.  Exact number varies
+   depending on system version, desired options, and whether you want
+   to overwrite media while installing.
+
+Additionally, if you're installing on a 9100FT, you will need:
+
+ - A 50-pin SCSI ribbon cable with two connectors.
+ - A terminator.
 
 Disk Geometry
 -------------
@@ -160,18 +183,90 @@ Devices 2-4 disabled.
 
 All other settings default.
 
-This will simulate the upgraded 40mb SCSI disk.  While I have
-formatted disks up to 1gb in size, this is much larger than the
-software was intended to work with, and to avoid problems, I'd
-recommend sticking to the 40mb settings.
+Install the SD card in the SCSI2SD.
 
+This will exactly simulate the upgraded 40mb SCSI disk.  While the
+9100 can format disks up to around 1gb in size, this is vastly larger
+than they were designed to work with, and I'd recommend sticking to
+the 40mb settings unless you have very good reason not to.
 
 Mainframe-Specific Concerns
 ---------------------------
 
-On a 9100A mainframe, you should use the onboard termination of the
-SCSI2SD.  This does not work on the 9100FT.  Those mainframes require
-an external terminator, which requires you to replace the SCSI cable
-with one that has another connector on it.
+The 9100A mainframes will operate with the resistor pack terminators
+that come with the SCSI2SD.  This does not work on the 9100FT, which
+requires an external terminator.  You must replace the SCSI ribbon
+cable and terminate the end.
 
-v
+Installing the SCSI2SD
+----------------------
+
+Open the mainframe by removing 5 screws from the bottom of the case,
+three Philips at the front, two slotted at the rear.  Flip the
+mainframe over and gently lift from the sides.  The disks and power
+supply are installed in the top of the case, and connected via cables
+at left; be careful not to pull them.  Set the top of the case on its
+side, next to the mainframe, and disconnect all cables: A square
+connector to the power supply; an in-line header from the power supply
+to the motherboard; floppy cable from the motherboard; SCSI cable from
+the hard disk (if installed).
+
+
+
+Flip the top of the case so it's upside-down and you can access the
+disk cage.  Remove the 7 Philips screws and gently pull the cage away
+from the side of the case, then up and out.  Remove the hard disk, if
+installed.  Install the SCSI2SD in its place.  You will need to
+acquire or fabricate a 3.5" disk bay mount for it, as it's
+significantly smaller than the disk it's replacing.
+
+Leaving the mainframe open and disk cage uninstalled, connect the
+SCSI2SD to the SCSI bus and power, reconnect the floppy cable, and
+reconnect the power cables.
+
+Upgrade 9100A mainframe ROMs
+----------------------------
+
+9100FT owners can skip this.
+
+Use of a 40mb disk or software newer than V4.x on a 9100A requires
+V5.0 ROMs to be installed.  If your mainframe has factory ROMs, the
+version will be printed on a label on top.
+
+The 9100A V5.0 ROMs are included in this archive for convenience.
+
+The V5.0 ROMs can be programmed onto 27C512 EPROMs.  Because these are
+different devices than the V3.0 ROMs, you will need to change the ROM
+strapping by severing the link at W2, just below the RAM slots.
+Use a fresh blade on an X-Acto or similar hobby knife to carefully
+open this jumper, then verify no continuity with a multimeter.
+Install the new EPROMs and boot the machine to verify that it's
+working.
+
+Setting up the Fluke
+--------------------
+
+1. Boot from the service disk by inserting it into the drive and
+   powering up the mainframe. Hold down SOFT KEYS + F2 + F4 until the
+   mainframe displays "Starting From Disk In /DR1."
+2. Select "SET CONFIG."
+3. Set the type of unit to 9100.
+4. Set the hard disk type to "SCSI - 512 byte sectors."
+5. Leave all other settings unchanged.  Do not turn on disk error
+   reporting.
+6. Select MORE, then "HARD DISK FMAT."
+7. Format the hard disk.
+
+Your mainframe is ready to install.
+
+Installation
+------------
+
+Write disk images to media.  Depending on the system version, you will
+need two or three disks for the OS, two for userdisks, and additional
+disks for the programmer's option, IEEE488 support, etc.
+
+Boot from System Disk 1 in the same way as you booted the service
+disk.  
+
+FIXME
