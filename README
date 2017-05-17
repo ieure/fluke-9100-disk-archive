@@ -45,6 +45,8 @@ This consists of two letters, represeting the media and dump status.
 
 O - Original, unmodified media.
 M - Modified media.
+N - Non-archival media, such as user-created disks, or
+    second-generation copies.
 
 I - Incomplete, disks missing from diskset.
 G - Good dump, all sectors read successfully.
@@ -115,6 +117,11 @@ To convert to TeleDisk format:
 
 SAMDISK COPY MASTER_USER_DISK-D1-V4.1,01-OG.img00.0.raw MUD1.TD0
 
+To create a raw sector image with DiskTool Console:
+
+DTC -l15 -fmud1.img -e79 -z1 -n+16 -k1 -i4 -m1 \
+  -fMASTER_USER_DISK-D1-V4.1,01-OG -i0 -e83
+
 The original media is double-density 3.5" floppy disks, and it's
 recommended that you write them to the same type of disk.  If you use
 high-density media, you *must* degauss it first, using a bulk magnetic
@@ -133,39 +140,38 @@ The SCSI2SD is a popular option for replacing SCSI disks.  It's
 compatible with the 9100, but there are some considerations which this
 document attempts to capture.
 
+Original Hardware
+-----------------
+
 The 9100A shipped with a 20mb MiniScribe 8425 MFM hard disk, which
-required an interface PCB to work with the mainframe.  Later, Fluke
-released a 40mb field upgrade kit, using a Quantum ProDrive ELS SCSI
-disk.  The 9100FT models shipped with the larger Quantum drive.
-
-Prerequisites
--------------
-
-You must have:
-
- - Fluke 9100 Service Disk v1.4.  This is included in this archive as
-   9100-SERVICE-V1.4,NN-MG.
- - Mainframe ROMs v5.0.  These are included in this archive as
-   9100A-ROM-V5.0,NN-OG.
- - A SCSI2SD v5.
- - A SD card, nearly any size will do.
- - Several blank 3.5" DSDD floppy disks.  Exact number varies
-   depending on system version, desired options, and whether you want
-   to overwrite media while installing.
-
-Additionally, if you're installing on a 9100FT, you will need:
-
- - A 50-pin SCSI ribbon cable with two connectors.
- - A terminator.
-
-Disk Geometry
--------------
+requires an interface PCB to operate.  9100FT machines shipped with a
+40mb Quantum ProDrive ELS SCSI disk attached directly to the SCSI bus;
+there was also a 40mb field upgrade option for the 9100A.
 
 The MiniScribe has CHS of 615/4/17, 41,820, sectors, 512 bytes/sector,
 for 21,411,840 bytes of capacity.
 
 The ProDrive ELS has CHS of 968/5/17, 82,280 sectors total, 512
 bytes/sectors, providing a total capacity of 42,127,360 bytes.
+
+Prerequisites
+-------------
+
+You must have:
+
+- Fluke 9100 Service Disk v1.4.  This is included in this archive as
+  NON-FACTORY/9100-SERVICE-V1.4,01-NG.
+- Mainframe ROMs v5.0.  These are included in this archive as
+  9100A-ROM-V5.0,01-OG.
+- SCSI2SD v5.
+- A SD card, nearly any size will do.
+- Several blank 3.5" DSDD floppy disks.  The exact number will vary
+  depending on system version and desired options.
+
+Additionally, if you're installing on a 9100FT, you will need:
+
+ - A 50-pin SCSI ribbon cable with two connectors.
+ - A terminator.
 
 SCSI2SD Configuration
 ---------------------
@@ -186,17 +192,9 @@ All other settings default.
 Install the SD card in the SCSI2SD.
 
 This will exactly simulate the upgraded 40mb SCSI disk.  While the
-9100 can format disks up to around 1gb in size, this is vastly larger
+9100 can format disks up to nearly 1gb in size, this is vastly larger
 than they were designed to work with, and I'd recommend sticking to
 the 40mb settings unless you have very good reason not to.
-
-Mainframe-Specific Concerns
----------------------------
-
-The 9100A mainframes will operate with the resistor pack terminators
-that come with the SCSI2SD.  This does not work on the 9100FT, which
-requires an external terminator.  You must replace the SCSI ribbon
-cable and terminate the end.
 
 Installing the SCSI2SD
 ----------------------
@@ -211,14 +209,18 @@ connector to the power supply; an in-line header from the power supply
 to the motherboard; floppy cable from the motherboard; SCSI cable from
 the hard disk (if installed).
 
-
-
 Flip the top of the case so it's upside-down and you can access the
 disk cage.  Remove the 7 Philips screws and gently pull the cage away
 from the side of the case, then up and out.  Remove the hard disk, if
 installed.  Install the SCSI2SD in its place.  You will need to
 acquire or fabricate a 3.5" disk bay mount for it, as it's
 significantly smaller than the disk it's replacing.
+
+For 9100FT units only:
+
+- Replace the SCSI cable with one having three connectors.
+- Plug a terminator into the far end of the cable.
+- Remove the the terminating resistor packs from the SCSI2SD.
 
 Leaving the mainframe open and disk cage uninstalled, connect the
 SCSI2SD to the SCSI bus and power, reconnect the floppy cable, and
@@ -227,7 +229,7 @@ reconnect the power cables.
 Upgrade 9100A mainframe ROMs
 ----------------------------
 
-9100FT owners can skip this.
+For 9100A mainframes only; 9100FT owners can skip this section.
 
 Use of a 40mb disk or software newer than V4.x on a 9100A requires
 V5.0 ROMs to be installed.  If your mainframe has factory ROMs, the
@@ -264,9 +266,25 @@ Installation
 
 Write disk images to media.  Depending on the system version, you will
 need two or three disks for the OS, two for userdisks, and additional
-disks for the programmer's option, IEEE488 support, etc.
+disks for the programmer's option, IEEE488 support, pods, etc.
 
-Boot from System Disk 1 in the same way as you booted the service
-disk.  
+Boot from the system disk by inserting it into the drive and powering
+up the mainframe. Hold down SOFT KEYS + F2 + F4 until the mainframe
+displays "Starting From Disk In /DR1."
 
-FIXME
+The mainframe will prompt you to insert the remaining system disks to
+complete the boot process; do so.
+
+You’ll be asked if you want to load any optional feature disks.
+Select NO.  The mainframe will now boot into the OS.  Remove the last
+system disk from the drive.
+
+Select MAIN MENU, then press SOFT KEYS and select COPY.  The screen
+will say "COPY DR1 TO HDR."  Insert the first system disk and press
+ENTER/YES, then wait as the contents are copied over.  Repeat this for
+the rest of the system disks; then the master user disks.  Finally,
+copy any optional feature disks, such as the programmer system,
+IEEE 488, or any pods not included on the master user disks.
+
+When everything has been copied, restart the system to confirm that it
+boots successfully.
