@@ -12,3 +12,6 @@ Verified good, but shows modified sectors.  The modification is the
 addition of the "Info" file to the root of each disk.  The disks don’t
 appear to be serialized or site coded, and boot without error on a
 mainframe.
+
+A PDF copy of the release notes is included.  This scan was taken from
+TechToolsList.
