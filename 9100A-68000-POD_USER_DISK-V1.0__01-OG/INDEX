@@ -1,5 +1,5 @@
 
-                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,
+                           Directory of 68000-POD_USER_DISK-V1.0__01-OG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1988/12/07 1008   d-ewrewr       3       256 ..
@@ -11,19 +11,19 @@
   0.0     1988/12/07 1007   d-ewrewr      30        64 HELPLIB$HELPLIB
   0.0     1988/11/28 1144   ------wr      39         0 MEVALID
 
-                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/SYSDISK
+                           Directory of 68000-POD_USER_DISK-V1.0__01-OG.rawtmp,/SYSDISK
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1988/12/07 1008   d-ewrewr       3       256 ..
   0.0     1988/12/07 1008   d-ewrewr       C        64 .
 
-                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/PARTLIB$PARTLIB
+                           Directory of 68000-POD_USER_DISK-V1.0__01-OG.rawtmp,/PARTLIB$PARTLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1988/12/07 1008   d-ewrewr       3       256 ..
   0.0     1988/12/07 1007   d-ewrewr      15        64 .
 
-                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/PODLIB$PODLIB
+                           Directory of 68000-POD_USER_DISK-V1.0__01-OG.rawtmp,/PODLIB$PODLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1988/12/07 1008   d-ewrewr       3       256 ..
@@ -32,7 +32,7 @@
   0.0     1988/11/28 1146   d-ewrewr      A5       480 POD$68000L
   0.0     1988/11/28 1147   d-ewrewr     10E       480 POD$68000P
 
-                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/PODLIB$PODLIB/POD$68000
+                           Directory of 68000-POD_USER_DISK-V1.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$68000
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1988/12/07 1007   d-ewrewr      1E       160 ..
@@ -52,7 +52,7 @@
   0.0     1988/12/06 1105   ------wr      67      4312 PROGRAM$PATT_VER
   0.0     1988/12/06 0938   ------wr      68      4980 PROGRAM$QWK_FILL
 
-                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/PODLIB$PODLIB/POD$68000L
+                           Directory of 68000-POD_USER_DISK-V1.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$68000L
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1988/12/07 1007   d-ewrewr      1E       160 ..
@@ -71,7 +71,7 @@
   0.0     1988/12/06 1105   ------wr      69      4312 PROGRAM$PATT_VER
   0.0     1988/12/06 0938   ------wr      6A      4980 PROGRAM$QWK_FILL
 
-                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/PODLIB$PODLIB/POD$68000P
+                           Directory of 68000-POD_USER_DISK-V1.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$68000P
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1988/12/07 1007   d-ewrewr      1E       160 ..
@@ -90,13 +90,13 @@
   0.0     1988/12/06 1105   ------wr      6B      4312 PROGRAM$PATT_VER
   0.0     1988/12/06 0938   ------wr      6C      4980 PROGRAM$QWK_FILL
 
-                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/PROGLIB$PROGLIB
+                           Directory of 68000-POD_USER_DISK-V1.0__01-OG.rawtmp,/PROGLIB$PROGLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1988/12/07 1008   d-ewrewr       3       256 ..
   0.0     1988/12/07 1008   d-ewrewr      27        64 .
 
-                           Directory of 9100A-68000-POD_USER_DISK-V1.0_01-OG.raw,/HELPLIB$HELPLIB
+                           Directory of 68000-POD_USER_DISK-V1.0__01-OG.rawtmp,/HELPLIB$HELPLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1988/12/07 1008   d-ewrewr       3       256 ..

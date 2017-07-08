@@ -1,5 +1,5 @@
 
-                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,
+                           Directory of TIMS_TRAINING_USERDISK__01-NG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1992/02/28 0814   d-ewrewr       3       448 ..
@@ -17,37 +17,37 @@
   0.0     1992/02/28 1141   d-ewrewr     6FE       416 UUT$TRN_MDE
   0.0     1992/02/28 1142   d-ewrewr     73B        96 UUT$TR_IEEE
 
-                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/SYSDISK
+                           Directory of TIMS_TRAINING_USERDISK__01-NG.rawtmp,/SYSDISK
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1992/02/28 0814   d-ewrewr       3       448 ..
   0.0     1992/02/28 0814   d-ewrewr       C        64 .
 
-                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/PARTLIB$PARTLIB
+                           Directory of TIMS_TRAINING_USERDISK__01-NG.rawtmp,/PARTLIB$PARTLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1992/02/28 0814   d-ewrewr       3       448 ..
   0.0     1992/02/28 0814   d-ewrewr      15        64 .
 
-                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/PODLIB$PODLIB
+                           Directory of TIMS_TRAINING_USERDISK__01-NG.rawtmp,/PODLIB$PODLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1992/02/28 0814   d-ewrewr       3       448 ..
   0.0     1992/02/28 0814   d-ewrewr      1E        64 .
 
-                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/PROGLIB$PROGLIB
+                           Directory of TIMS_TRAINING_USERDISK__01-NG.rawtmp,/PROGLIB$PROGLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1992/02/28 0814   d-ewrewr       3       448 ..
   0.0     1992/02/28 0814   d-ewrewr      27        64 .
 
-                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/HELPLIB$HELPLIB
+                           Directory of TIMS_TRAINING_USERDISK__01-NG.rawtmp,/HELPLIB$HELPLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1992/02/28 0814   d-ewrewr       3       448 ..
   0.0     1992/02/28 0814   d-ewrewr      30        64 .
 
-                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/UUT$TRAINER
+                           Directory of TIMS_TRAINING_USERDISK__01-NG.rawtmp,/UUT$TRAINER
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1992/02/28 0814   d-ewrewr       3       448 ..
@@ -107,7 +107,7 @@
   0.0     1992/02/25 1135   ---w--wr     211      1400 RESPONSE$ROM1_DATA
   0.0     1992/02/25 1432   ------wr     218      6530 GFRESPTAB
 
-                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/UUT$TRAINERA
+                           Directory of TIMS_TRAINING_USERDISK__01-NG.rawtmp,/UUT$TRAINERA
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1992/02/28 0814   d-ewrewr       3       448 ..
@@ -116,7 +116,7 @@
   0.0     1991/04/16 1052   ---w--wr     241      1484 PROGRAM$FLUSH
   0.0     1991/06/10 0910   ------wr     248        40 INFO
 
-                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/UUT$TRAINERB
+                           Directory of TIMS_TRAINING_USERDISK__01-NG.rawtmp,/UUT$TRAINERB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1992/02/28 0814   d-ewrewr       3       448 ..
@@ -151,7 +151,7 @@
   0.0     1992/02/25 1604   ------wr     367        98 GFRESPTAB
   0.0     1992/02/25 1605   ---w--wr     369     41357 TEXT$1
 
-                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/UUT$TRNR9132
+                           Directory of TIMS_TRAINING_USERDISK__01-NG.rawtmp,/UUT$TRNR9132
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1992/02/28 0814   d-ewrewr       3       448 ..
@@ -217,7 +217,7 @@
   0.0     1991/12/06 1036   ---w--wr     6EC      1998 RESPONSE$K_ADDR
   0.0     1992/01/27 1421   ---w--wr     6F5      1804 OBJPROG$MICRO_ADDR
 
-                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/UUT$TRN_MDE
+                           Directory of TIMS_TRAINING_USERDISK__01-NG.rawtmp,/UUT$TRN_MDE
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1992/02/28 0814   d-ewrewr       3       448 ..
@@ -234,7 +234,7 @@
   0.0     1992/02/27 1315   ---w--wr     732      1127 PROGRAM$ROM_TEST
   0.0     1992/02/27 1356   ---w--wr     738       294 PROGRAM$MAIN_TEST
 
-                           Directory of 9100-TIMS_TRAINING_USERDISK_01-NG.raw,/UUT$TR_IEEE
+                           Directory of TIMS_TRAINING_USERDISK__01-NG.rawtmp,/UUT$TR_IEEE
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1992/02/28 0814   d-ewrewr       3       448 ..

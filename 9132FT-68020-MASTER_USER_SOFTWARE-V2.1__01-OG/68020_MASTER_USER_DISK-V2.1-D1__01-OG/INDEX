@@ -1,5 +1,5 @@
 
-                           Directory of 68020_MASTER_USER_DISK-V2.1-D1_01-OG.raw,
+                           Directory of 68020_MASTER_USER_DISK-V2.1-D1__01-OG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/09 0946   d-ewrewr       3       256 ..
@@ -11,20 +11,20 @@
   0.0     1991/04/09 0725   d-ewrewr      30        64 HELPLIB$HELPLIB
   0.0     1991/04/09 0725   ------wr      39         0 MEVALID
 
-                           Directory of 68020_MASTER_USER_DISK-V2.1-D1_01-OG.raw,/SYSDISK
+                           Directory of 68020_MASTER_USER_DISK-V2.1-D1__01-OG.rawtmp,/SYSDISK
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/09 0946   d-ewrewr       3       256 ..
   0.0     1991/04/09 0725   d-ewrewr       C        64 .
 
-                           Directory of 68020_MASTER_USER_DISK-V2.1-D1_01-OG.raw,/PARTLIB$PARTLIB
+                           Directory of 68020_MASTER_USER_DISK-V2.1-D1__01-OG.rawtmp,/PARTLIB$PARTLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/09 0946   d-ewrewr       3       256 ..
   0.0     1991/04/09 0944   d-ewrewr      15        96 .
   0.0     1991/04/09 0941   ----r-wr      3A       749 PART$68020
 
-                           Directory of 68020_MASTER_USER_DISK-V2.1-D1_01-OG.raw,/PODLIB$PODLIB
+                           Directory of 68020_MASTER_USER_DISK-V2.1-D1__01-OG.rawtmp,/PODLIB$PODLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/09 0946   d-ewrewr       3       256 ..
@@ -32,7 +32,7 @@
   0.0     1991/04/09 0944   d-ewrewr      3E       608 POD$M68020
   0.0     1991/04/09 0946   d-ewrewr     652       128 POD$M
 
-                           Directory of 68020_MASTER_USER_DISK-V2.1-D1_01-OG.raw,/PODLIB$PODLIB/POD$M68020
+                           Directory of 68020_MASTER_USER_DISK-V2.1-D1__01-OG.rawtmp,/PODLIB$PODLIB/POD$M68020
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/09 0946   d-ewrewr      1E       128 ..
@@ -55,7 +55,7 @@
   0.0     1991/04/10 1019   ---w--wr     660     86111 OBJPROG$TEST_BUS
   0.0     1991/05/03 0932   ---w--wr     7B2    109630 OBJPROG$SETUP
 
-                           Directory of 68020_MASTER_USER_DISK-V2.1-D1_01-OG.raw,/PODLIB$PODLIB/POD$M
+                           Directory of 68020_MASTER_USER_DISK-V2.1-D1__01-OG.rawtmp,/PODLIB$PODLIB/POD$M
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/09 0946   d-ewrewr      1E       128 ..
@@ -63,13 +63,13 @@
   0.0     1991/04/09 0943   ----r-wr     65B       272 PODDB$POD_FILE
   0.0     1991/04/09 0943   ----r-wr     65E         4 PODDB$CONFIG
 
-                           Directory of 68020_MASTER_USER_DISK-V2.1-D1_01-OG.raw,/PROGLIB$PROGLIB
+                           Directory of 68020_MASTER_USER_DISK-V2.1-D1__01-OG.rawtmp,/PROGLIB$PROGLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/09 0946   d-ewrewr       3       256 ..
   0.0     1991/04/09 0725   d-ewrewr      27        64 .
 
-                           Directory of 68020_MASTER_USER_DISK-V2.1-D1_01-OG.raw,/HELPLIB$HELPLIB
+                           Directory of 68020_MASTER_USER_DISK-V2.1-D1__01-OG.rawtmp,/HELPLIB$HELPLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/09 0946   d-ewrewr       3       256 ..

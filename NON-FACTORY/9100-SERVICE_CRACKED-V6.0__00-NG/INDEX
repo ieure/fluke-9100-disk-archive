@@ -1,0 +1,30 @@
+
+                           Directory of 9100-SERVICE-V6.0__NN-MG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1924/01/02 2400   d-ewrewr       3       192 ..
+  0.1     1924/01/02 2400   d-ewrewr       3       192 .
+  0.0     1991/04/22 1528   d-ewrewr       C        96 ROM
+  0.0     1991/04/22 1528   d-ewrewr      15       288 CMDS
+  0.0     1991/04/22 1421   -----ewr     22E       233 install.filesystem
+  0.0     1991/04/22 1530   ------wr     230         4 .xxx
+
+                           Directory of 9100-SERVICE-V6.0__NN-MG.rawtmp,/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1924/01/02 2400   d-ewrewr       3       192 ..
+  0.0     1991/04/22 1528   d-ewrewr       C        96 .
+  0.0     1991/04/22 1421   -----ewr     1EF     15660 cio
+
+                           Directory of 9100-SERVICE-V6.0__NN-MG.rawtmp,/CMDS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1924/01/02 2400   d-ewrewr       3       192 ..
+  0.0     1991/04/22 1528   d-ewrewr      15       288 .
+  0.0     1991/05/17 1213   -----ewr      1E     13812 chg_appl
+  0.0     1991/04/22 1421   -----ewr      57     19648 chg_serial_appl
+  0.0     1991/04/22 1421   -----ewr      A5     19558 chg_site_appl
+  0.0     1991/04/22 1420   -----ewr      F3     11214 menu
+  0.0     1991/04/22 1420   -----ewr     120     22600 prbcal_appl
+  0.0     1991/04/22 1421   -----ewr     17A     25430 prbcal_appl_ECL
+  0.0     1991/04/22 1421   -----ewr     1DF      3646 root

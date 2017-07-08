@@ -1,5 +1,5 @@
 
-                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,
+                           Directory of MASTER_USER_DISK_80386-V1.1__01-OG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1989/10/15 0110   d-ewrewr       3       256 ..
@@ -11,20 +11,20 @@
   0.0     1989/10/15 0110   d-ewrewr      30        64 HELPLIB$HELPLIB
   0.0     1989/10/15 0110   ------wr      39         0 MEVALID
 
-                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,/SYSDISK
+                           Directory of MASTER_USER_DISK_80386-V1.1__01-OG.rawtmp,/SYSDISK
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1989/10/15 0110   d-ewrewr       3       256 ..
   0.0     1989/10/15 0110   d-ewrewr       C        64 .
 
-                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,/PARTLIB$PARTLIB
+                           Directory of MASTER_USER_DISK_80386-V1.1__01-OG.rawtmp,/PARTLIB$PARTLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1989/10/15 0110   d-ewrewr       3       256 ..
   0.0     1989/10/15 0110   d-ewrewr      15        96 .
   0.0     1989/10/16 1725   ---w--wr      3A      1073 PART$80386
 
-                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,/PODLIB$PODLIB
+                           Directory of MASTER_USER_DISK_80386-V1.1__01-OG.rawtmp,/PODLIB$PODLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1989/10/15 0110   d-ewrewr       3       256 ..
@@ -32,7 +32,7 @@
   0.0     1989/10/15 0129   d-ewrewr      40       160 POD$M
   0.0     1989/10/15 0130   d-ewrewr      50       480 POD$M80386
 
-                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,/PODLIB$PODLIB/POD$M
+                           Directory of MASTER_USER_DISK_80386-V1.1__01-OG.rawtmp,/PODLIB$PODLIB/POD$M
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1989/10/15 0110   d-ewrewr      1E       128 ..
@@ -40,7 +40,7 @@
   0.251   1989/04/19 0825   ----r-wr      4B         4 PODDB$CONFIG
   0.251   1989/04/19 0825   ----r-wr      4D       272 PODDB$POD_FILE
 
-                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,/PODLIB$PODLIB/POD$M80386
+                           Directory of MASTER_USER_DISK_80386-V1.1__01-OG.rawtmp,/PODLIB$PODLIB/POD$M80386
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1989/10/15 0110   d-ewrewr      1E       128 ..
@@ -58,13 +58,13 @@
   0.251   1989/10/17 0039   ----r-wr     30C    137651 PROGRAM$TEST_BUS
   0.0     1989/08/18 2356   ----r-wr     527       979 PROGRAM$VERSION
 
-                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,/PROGLIB$PROGLIB
+                           Directory of MASTER_USER_DISK_80386-V1.1__01-OG.rawtmp,/PROGLIB$PROGLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1989/10/15 0110   d-ewrewr       3       256 ..
   0.0     1989/10/15 0110   d-ewrewr      27        64 .
 
-                           Directory of 9132A-MASTER_USER_DISK_80386-V1.1_01-OG.raw,/HELPLIB$HELPLIB
+                           Directory of MASTER_USER_DISK_80386-V1.1__01-OG.rawtmp,/HELPLIB$HELPLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1989/10/15 0110   d-ewrewr       3       256 ..

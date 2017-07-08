@@ -1,5 +1,5 @@
 
-                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,
+                           Directory of GOTTLIEB_SYSTEM_80_UUT_DISK__01-NG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     2003/04/30 0814   d-ewrewr       3       352 ..
@@ -14,37 +14,37 @@
   0.0     1903/04/30 0824   d-ewrewr     21A       512 UUT$UTILS
   0.0     1903/04/30 0825   d-ewrewr     3C9      1568 UUT$GOTTPIN
 
-                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/SYSDISK
+                           Directory of GOTTLIEB_SYSTEM_80_UUT_DISK__01-NG.rawtmp,/SYSDISK
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     2003/04/30 0814   d-ewrewr       3       352 ..
   0.0     1903/04/30 0814   d-ewrewr       C        64 .
 
-                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/PARTLIB$PARTLIB
+                           Directory of GOTTLIEB_SYSTEM_80_UUT_DISK__01-NG.rawtmp,/PARTLIB$PARTLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     2003/04/30 0814   d-ewrewr       3       352 ..
   0.0     1903/04/30 0814   d-ewrewr      15        64 .
 
-                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/PODLIB$PODLIB
+                           Directory of GOTTLIEB_SYSTEM_80_UUT_DISK__01-NG.rawtmp,/PODLIB$PODLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     2003/04/30 0814   d-ewrewr       3       352 ..
   0.0     1903/04/30 0814   d-ewrewr      1E        64 .
 
-                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/PROGLIB$PROGLIB
+                           Directory of GOTTLIEB_SYSTEM_80_UUT_DISK__01-NG.rawtmp,/PROGLIB$PROGLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     2003/04/30 0814   d-ewrewr       3       352 ..
   0.0     1903/04/30 0814   d-ewrewr      27        64 .
 
-                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/HELPLIB$HELPLIB
+                           Directory of GOTTLIEB_SYSTEM_80_UUT_DISK__01-NG.rawtmp,/HELPLIB$HELPLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     2003/04/30 0814   d-ewrewr       3       352 ..
   0.0     1903/04/30 0814   d-ewrewr      30        64 .
 
-                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/UUT$WPLV9
+                           Directory of GOTTLIEB_SYSTEM_80_UUT_DISK__01-NG.rawtmp,/UUT$WPLV9
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     2003/04/30 0814   d-ewrewr       3       352 ..
@@ -74,7 +74,7 @@
   0.0     1903/02/10 0845   ---w--wr     160       967 TEXT$SIGU60
   0.0     1903/03/31 2156   ---w--wr     165     46028 PROGRAM$MAINEX
 
-                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/UUT$UTILS
+                           Directory of GOTTLIEB_SYSTEM_80_UUT_DISK__01-NG.rawtmp,/UUT$UTILS
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     2003/04/30 0814   d-ewrewr       3       352 ..
@@ -94,7 +94,7 @@
   0.0     1903/04/06 0116   ---w--wr     353     14788 PROGRAM$16BITCS
   0.0     1903/04/06 0116   ---w--wr     38E     14788 PROGRAM$CS16BIT
 
-                           Directory of 9100-GOTTLIEB_SYSTEM_80_UUT_DISK_01-NG.raw,/UUT$GOTTPIN
+                           Directory of GOTTLIEB_SYSTEM_80_UUT_DISK__01-NG.rawtmp,/UUT$GOTTPIN
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     2003/04/30 0814   d-ewrewr       3       352 ..

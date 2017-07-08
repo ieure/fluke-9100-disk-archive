@@ -1,5 +1,5 @@
 
-                           Directory of SYSTEM_DISK-D3-V6.1_01-OG.raw,
+                           Directory of SYSTEM_DISK-D3-V6.1__01-OG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/07/24 1506   d-ewrewr       3       160 ..
@@ -8,7 +8,7 @@
   0.0     1991/07/24 1506   d-ewrewr      15        96 SYSDISK
   0.0     1991/07/24 1509   ------wr     704         4 .xxx
 
-                           Directory of SYSTEM_DISK-D3-V6.1_01-OG.raw,/ROM
+                           Directory of SYSTEM_DISK-D3-V6.1__01-OG.rawtmp,/ROM
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/07/24 1506   d-ewrewr       3       160 ..
@@ -16,7 +16,7 @@
   0.0     1991/07/24 1440   --e-rewr      1E    357792 rtsctl
   0.0     1991/07/24 1442   --e-rewr     595     85862 qtlc
 
-                           Directory of SYSTEM_DISK-D3-V6.1_01-OG.raw,/SYSDISK
+                           Directory of SYSTEM_DISK-D3-V6.1__01-OG.rawtmp,/SYSDISK
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/07/24 1506   d-ewrewr       3       160 ..

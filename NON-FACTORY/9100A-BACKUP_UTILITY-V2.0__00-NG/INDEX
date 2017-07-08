@@ -1,0 +1,41 @@
+
+                           Directory of BACKUP_UTILITY-V2.0__00-NG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1993/12/03 1122   d-ewrewr       3       256 ..
+  0.1     1993/12/03 1122   d-ewrewr       3       256 .
+  0.0     1993/12/02 1600   d-ewrewr       C       608 CMDS
+  0.0     1988/10/18 0820   ------wr     2F2         5 .xxx
+  0.0     1993/12/03 1122   d-ewrewr      27       128 PROGLIB$PROGLIB
+  0.0     1993/10/19 1712   ------wr      39         0 MEVALID
+
+                           Directory of BACKUP_UTILITY-V2.0__00-NG.rawtmp,/CMDS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1993/12/03 1122   d-ewrewr       3       256 ..
+  0.0     1993/12/02 1600   d-ewrewr       C       608 .
+  0.0     1993/12/02 1601   -----ewr      15     10288 binstall
+  0.0     1993/12/02 1601   -----ewr      26     15852 cio
+  0.0     1993/12/02 1602   -----ewr      38      5568 copy
+  0.0     1993/12/02 1603   -----ewr      9F      3338 del
+  0.0     1993/12/02 1603   -----ewr      AE     47680 frestore
+  0.0     1993/12/02 1606   -----ewr     16A     36380 fsave
+  0.0     1993/12/02 1608   -----ewr     1FA       112 mt0
+  0.0     1993/12/02 1608   -----ewr     1FC      2980 pd
+  0.0     1993/12/02 1609   -----ewr     209      1538 punt
+  0.0     1993/12/02 1609   -----ewr     211       650 ram
+  0.0     1993/12/02 1609   -----ewr     215       106 rd1
+  0.0     1993/12/02 1609   -----ewr     217     12420 recdir
+  0.0     1993/12/02 1610   -----ewr     249      3468 sbf
+  0.0     1993/12/02 1610   -----ewr     258      5376 sbtape
+  0.0     1993/12/02 1610   -----ewr     26E      9060 tformat
+  0.0     1993/12/02 1611   -----ewr     293     20686 tmenu
+  0.0     1993/12/02 1612   -----ewr     2E5      1580 tmenu_get
+
+                           Directory of BACKUP_UTILITY-V2.0__00-NG.rawtmp,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1993/12/03 1122   d-ewrewr       3       256 ..
+  0.0     1993/12/03 1122   d-ewrewr      27       128 .
+  0.0     1993/12/02 1619   -----ewr     2ED       421 PROGRAM$BACKUP
+  0.0     1993/12/02 1620   -----ewr     2F0        87 PROGRAM$BINSTALL

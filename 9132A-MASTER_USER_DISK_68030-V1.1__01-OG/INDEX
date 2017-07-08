@@ -1,5 +1,5 @@
 
-                           Directory of 9132A-MASTER_USER_DISK_68030-V1.1_01-OG.raw,
+                           Directory of MASTER_USER_DISK_68030-V1.1__01-OG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1989/04/19 1324   d-ewrewr       3       256 ..
@@ -11,20 +11,20 @@
   0.0     1989/04/19 1324   d-ewrewr      30        64 HELPLIB$HELPLIB
   0.0     1989/04/19 1324   ------wr      39         0 MEVALID
 
-                           Directory of 9132A-MASTER_USER_DISK_68030-V1.1_01-OG.raw,/SYSDISK
+                           Directory of MASTER_USER_DISK_68030-V1.1__01-OG.rawtmp,/SYSDISK
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1989/04/19 1324   d-ewrewr       3       256 ..
   0.0     1989/04/19 1324   d-ewrewr       C        64 .
 
-                           Directory of 9132A-MASTER_USER_DISK_68030-V1.1_01-OG.raw,/PARTLIB$PARTLIB
+                           Directory of MASTER_USER_DISK_68030-V1.1__01-OG.rawtmp,/PARTLIB$PARTLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1989/04/19 1324   d-ewrewr       3       256 ..
   0.0     1989/04/19 1324   d-ewrewr      15        96 .
   0.251   1989/04/19 1402   ----r-wr     4E3      1076 PART$68030
 
-                           Directory of 9132A-MASTER_USER_DISK_68030-V1.1_01-OG.raw,/PODLIB$PODLIB
+                           Directory of MASTER_USER_DISK_68030-V1.1__01-OG.rawtmp,/PODLIB$PODLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1989/04/19 1324   d-ewrewr       3       256 ..
@@ -32,7 +32,7 @@
   0.0     1989/04/19 1425   d-ewrewr      3A       512 POD$M68030
   0.0     1989/04/19 1429   d-ewrewr     4E9       128 POD$M
 
-                           Directory of 9132A-MASTER_USER_DISK_68030-V1.1_01-OG.raw,/PODLIB$PODLIB/POD$M68030
+                           Directory of MASTER_USER_DISK_68030-V1.1__01-OG.rawtmp,/PODLIB$PODLIB/POD$M68030
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1989/04/19 1324   d-ewrewr      1E       128 ..
@@ -52,7 +52,7 @@
   0.251   1989/04/19 1021   ----r-wr     307    116359 PROGRAM$TEST_BUS
   0.251   1989/04/19 1022   ----r-wr     4CF      4814 PROGRAM$BRST_SY
 
-                           Directory of 9132A-MASTER_USER_DISK_68030-V1.1_01-OG.raw,/PODLIB$PODLIB/POD$M
+                           Directory of MASTER_USER_DISK_68030-V1.1__01-OG.rawtmp,/PODLIB$PODLIB/POD$M
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1989/04/19 1324   d-ewrewr      1E       128 ..
@@ -60,13 +60,13 @@
   0.251   1989/04/19 0825   ----r-wr     4F2         4 PODDB$CONFIG
   0.251   1989/04/19 0825   ----r-wr     4F4       272 PODDB$POD_FILE
 
-                           Directory of 9132A-MASTER_USER_DISK_68030-V1.1_01-OG.raw,/PROGLIB$PROGLIB
+                           Directory of MASTER_USER_DISK_68030-V1.1__01-OG.rawtmp,/PROGLIB$PROGLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1989/04/19 1324   d-ewrewr       3       256 ..
   0.0     1989/04/19 1324   d-ewrewr      27        64 .
 
-                           Directory of 9132A-MASTER_USER_DISK_68030-V1.1_01-OG.raw,/HELPLIB$HELPLIB
+                           Directory of MASTER_USER_DISK_68030-V1.1__01-OG.rawtmp,/HELPLIB$HELPLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1989/04/19 1324   d-ewrewr       3       256 ..

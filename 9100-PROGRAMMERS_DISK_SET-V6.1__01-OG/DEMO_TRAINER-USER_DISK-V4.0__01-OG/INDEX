@@ -1,5 +1,5 @@
 
-                           Directory of DEMO_TRAINER-USER_DISK-V4.0_01-OG.raw,
+                           Directory of DEMO_TRAINER-USER_DISK-V4.0__01-OG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1988/03/16 1604   d-ewrewr       3       288 ..
@@ -12,19 +12,19 @@
   0.0     1988/03/16 1604   ------wr      39         0 MEVALID
   0.0     1988/03/17 0437   d-ewrewr      3A      4640 UUT$DEMO
 
-                           Directory of DEMO_TRAINER-USER_DISK-V4.0_01-OG.raw,/SYSDISK
+                           Directory of DEMO_TRAINER-USER_DISK-V4.0__01-OG.rawtmp,/SYSDISK
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1988/03/16 1604   d-ewrewr       3       288 ..
   0.0     1988/03/16 1604   d-ewrewr       C        64 .
 
-                           Directory of DEMO_TRAINER-USER_DISK-V4.0_01-OG.raw,/PARTLIB$PARTLIB
+                           Directory of DEMO_TRAINER-USER_DISK-V4.0__01-OG.rawtmp,/PARTLIB$PARTLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1988/03/16 1604   d-ewrewr       3       288 ..
   0.0     1988/03/16 1604   d-ewrewr      15        64 .
 
-                           Directory of DEMO_TRAINER-USER_DISK-V4.0_01-OG.raw,/PODLIB$PODLIB
+                           Directory of DEMO_TRAINER-USER_DISK-V4.0__01-OG.rawtmp,/PODLIB$PODLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1988/03/16 1604   d-ewrewr       3       288 ..
@@ -32,7 +32,7 @@
   0.0     1988/10/24 1444   d-ewrewr     225       288 POD$80286
   0.0     1988/10/24 1445   d-ewrewr     7F5       384 POD$80286H
 
-                           Directory of DEMO_TRAINER-USER_DISK-V4.0_01-OG.raw,/PODLIB$PODLIB/POD$80286
+                           Directory of DEMO_TRAINER-USER_DISK-V4.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$80286
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1988/03/16 1604   d-ewrewr      1E       128 ..
@@ -45,7 +45,7 @@
   0.0     1988/10/17 1254   ------wr     32D       433 PROGRAM$RD_REARM
   0.0     1988/10/17 1254   ------wr     6EF       799 PROGRAM$VEC_CAPT
 
-                           Directory of DEMO_TRAINER-USER_DISK-V4.0_01-OG.raw,/PODLIB$PODLIB/POD$80286H
+                           Directory of DEMO_TRAINER-USER_DISK-V4.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$80286H
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1988/03/16 1604   d-ewrewr      1E       128 ..
@@ -61,19 +61,19 @@
   0.0     1988/10/17 1254   ------wr     8B6      4809 PROGRAM$HYP_RAM
   0.0     1988/10/17 1254   ------wr     8CA      4600 PROGRAM$HYP_ROM
 
-                           Directory of DEMO_TRAINER-USER_DISK-V4.0_01-OG.raw,/PROGLIB$PROGLIB
+                           Directory of DEMO_TRAINER-USER_DISK-V4.0__01-OG.rawtmp,/PROGLIB$PROGLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1988/03/16 1604   d-ewrewr       3       288 ..
   0.0     1988/03/16 1604   d-ewrewr      27        64 .
 
-                           Directory of DEMO_TRAINER-USER_DISK-V4.0_01-OG.raw,/HELPLIB$HELPLIB
+                           Directory of DEMO_TRAINER-USER_DISK-V4.0__01-OG.rawtmp,/HELPLIB$HELPLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1988/03/16 1604   d-ewrewr       3       288 ..
   0.0     1988/03/16 1604   d-ewrewr      30        64 .
 
-                           Directory of DEMO_TRAINER-USER_DISK-V4.0_01-OG.raw,/UUT$DEMO
+                           Directory of DEMO_TRAINER-USER_DISK-V4.0__01-OG.rawtmp,/UUT$DEMO
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1988/03/16 1604   d-ewrewr       3       288 ..

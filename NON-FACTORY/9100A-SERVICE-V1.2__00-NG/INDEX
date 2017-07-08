@@ -1,0 +1,39 @@
+
+                           Directory of SERVICE-V1.2__00-NG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1924/01/02 2400   d-ewrewr       3       224 ..
+  0.1     1924/01/02 2400   d-ewrewr       3       224 .
+  0.0     1988/07/19 1355   d-ewrewr       C       672 CMDS
+  0.251   1988/09/27 2203   --ewrewr     35C       233 install.filesystem
+  0.1     1988/03/03 0107   d-ewrewr     12F       128 ROM
+  0.251   1988/09/27 2202   --ewrewr     11A         4 .xxx
+  0.0     1987/11/07 0120   ----r-wr     408      3891 termcap
+
+                           Directory of SERVICE-V1.2__00-NG.rawtmp,/CMDS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1924/01/02 2400   d-ewrewr       3       224 ..
+  0.0     1988/07/19 1355   d-ewrewr       C       672 .
+  0.251   1988/09/27 2147   --ewrewr      15     12018 align_prg
+  0.251   1988/09/27 2148   --ewrewr      40     12042 chg_appl
+  0.251   1988/09/27 2148   --ewrewr      43     18964 chg_node_appl
+  0.251   1988/09/27 2149   --ewrewr      46     20492 fptest_appl
+  0.251   1988/09/27 2150   --ewrewr      6C     19362 key_prg
+  0.251   1988/09/27 2151   --ewrewr     10E     13484 menu
+  0.251   1988/09/27 2152   --ewrewr     111     21954 prbcal_appl
+  0.251   1988/09/27 2153   --ewrewr      49     28276 rodimefmat_appl
+  0.251   1988/09/27 2155   --ewrewr     130     20060 setclock
+  0.251   1988/09/27 2156   --ewrewr     295     22692 showeeprom
+  0.251   1988/09/27 2157   --ewrewr     2EF     19930 showsys
+  0.251   1988/09/27 2158   --ewrewr     33E     30176 wdfmt_appl
+  0.251   1988/09/27 2159   --ewrewr     359     22602 root
+  0.251   1988/09/27 2201   --ewrewr     117     19986 makdir
+
+                           Directory of SERVICE-V1.2__00-NG.rawtmp,/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1924/01/02 2400   d-ewrewr       3       224 ..
+  0.1     1988/03/03 0107   d-ewrewr     12F       128 .
+  0.251   1988/09/27 2200   --ewrewr     114     15194 cio
+  0.251   1988/09/27 2202   --ewrewr     11C       132 hdr

@@ -1,5 +1,5 @@
 
-                           Directory of IEEE_488-V6.0_01-MG.raw,
+                           Directory of IEEE_488-FEATURE_DISK-V6.0__01-MG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/03 1021   d-ewrewr       3       224 ..
@@ -10,14 +10,14 @@
   0.0     1991/12/20 1148   ------wr      E0         0 MEVALID
   0.0     1991/12/20 1152   ------wr      E1        44 Info
 
-                           Directory of IEEE_488-V6.0_01-MG.raw,/OPTIONS
+                           Directory of IEEE_488-FEATURE_DISK-V6.0__01-MG.rawtmp,/OPTIONS
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/03 1021   d-ewrewr       3       224 ..
   0.0     1991/04/03 1108   d-ewrewr       C        96 .
   0.0     1991/04/03 1108   d-ewrewr      15       128 IEEE
 
-                           Directory of IEEE_488-V6.0_01-MG.raw,/OPTIONS/IEEE
+                           Directory of IEEE_488-FEATURE_DISK-V6.0__01-MG.rawtmp,/OPTIONS/IEEE
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/03 1108   d-ewrewr       C        96 ..
@@ -25,7 +25,7 @@
   0.0     1991/04/03 1109   d-ewrewr      1E       128 ROM
   0.0     1991/04/03 1038   ----r-wr      DC        17 option_name
 
-                           Directory of IEEE_488-V6.0_01-MG.raw,/OPTIONS/IEEE/ROM
+                           Directory of IEEE_488-FEATURE_DISK-V6.0__01-MG.rawtmp,/OPTIONS/IEEE/ROM
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/03 1108   d-ewrewr      15       128 ..
@@ -33,7 +33,7 @@
   0.0     1991/04/03 1036   --e-rewr      30       104 configieee
   0.0     1991/04/03 1036   --e-rewr      32        98 compatieee
 
-                           Directory of IEEE_488-V6.0_01-MG.raw,/CMDS
+                           Directory of IEEE_488-FEATURE_DISK-V6.0__01-MG.rawtmp,/CMDS
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/03 1021   d-ewrewr       3       224 ..

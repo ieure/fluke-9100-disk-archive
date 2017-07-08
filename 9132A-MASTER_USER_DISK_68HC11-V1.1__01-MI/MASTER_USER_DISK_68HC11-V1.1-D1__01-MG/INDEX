@@ -1,5 +1,5 @@
 
-                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1_01-MG.raw,
+                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1__01-MG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/06/03 0733   d-ewrewr       3       288 ..
@@ -12,20 +12,20 @@
   0.0     1991/05/31 1451   ------wr      39         0 MEVALID
   0.0     1991/12/20 1155   ------wr     4AD        44 Info
 
-                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1_01-MG.raw,/SYSDISK
+                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1__01-MG.rawtmp,/SYSDISK
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/06/03 0733   d-ewrewr       3       288 ..
   0.0     1991/05/31 1451   d-ewrewr       C        64 .
 
-                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1_01-MG.raw,/PARTLIB$PARTLIB
+                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1__01-MG.rawtmp,/PARTLIB$PARTLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/06/03 0733   d-ewrewr       3       288 ..
   0.0     1991/06/03 0731   d-ewrewr      15        96 .
   0.0     1991/06/03 0728   ----r-wr      3A       321 PART$6811
 
-                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1_01-MG.raw,/PODLIB$PODLIB
+                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1__01-MG.rawtmp,/PODLIB$PODLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/06/03 0733   d-ewrewr       3       288 ..
@@ -33,7 +33,7 @@
   0.0     1991/06/03 0731   d-ewrewr      3D       448 POD$M6811
   0.0     1991/06/03 0733   d-ewrewr     49F       128 POD$M
 
-                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1_01-MG.raw,/PODLIB$PODLIB/POD$M6811
+                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1__01-MG.rawtmp,/PODLIB$PODLIB/POD$M6811
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/06/03 0733   d-ewrewr      1E       128 ..
@@ -51,7 +51,7 @@
   0.0     1991/06/03 0728   ----r-wr     2D4    114937 PROGRAM$TEST_BUS
   0.0     1991/06/03 0729   ----r-wr     496      1804 PROGRAM$VERSION
 
-                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1_01-MG.raw,/PODLIB$PODLIB/POD$M
+                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1__01-MG.rawtmp,/PODLIB$PODLIB/POD$M
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/06/03 0733   d-ewrewr      1E       128 ..
@@ -59,13 +59,13 @@
   0.0     1991/06/03 0729   ----r-wr     4A8       272 PODDB$POD_FILE
   0.0     1991/06/03 0729   ----r-wr     4AB         4 PODDB$CONFIG
 
-                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1_01-MG.raw,/PROGLIB$PROGLIB
+                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1__01-MG.rawtmp,/PROGLIB$PROGLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/06/03 0733   d-ewrewr       3       288 ..
   0.0     1991/05/31 1451   d-ewrewr      27        64 .
 
-                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1_01-MG.raw,/HELPLIB$HELPLIB
+                           Directory of MASTER_USER_DISK_68HC11-V1.1-D1__01-MG.rawtmp,/HELPLIB$HELPLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/06/03 0733   d-ewrewr       3       288 ..

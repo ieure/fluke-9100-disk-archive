@@ -1,5 +1,5 @@
 
-                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1_01-OG.raw,
+                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1__01-OG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/07/24 1008   d-ewrewr       3       256 ..
@@ -11,14 +11,14 @@
   0.0     1991/07/24 1515   d-ewrewr      54        64 TMP
   0.0     1991/07/24 1520   ------wr     920         4 .xxx
 
-                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1_01-OG.raw,/OPTIONS
+                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1__01-OG.rawtmp,/OPTIONS
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/07/24 1008   d-ewrewr       3       256 ..
   0.0     1991/07/24 1514   d-ewrewr       C        96 .
   0.0     1991/07/24 1514   d-ewrewr      15       128 EDITOR
 
-                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1_01-OG.raw,/OPTIONS/EDITOR
+                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1__01-OG.rawtmp,/OPTIONS/EDITOR
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/07/24 1514   d-ewrewr       C        96 ..
@@ -26,7 +26,7 @@
   0.0     1991/07/24 1515   d-ewrewr      1E       160 ROM
   0.0     1991/07/24 1447   ----r-wr     6E6        19 option_name
 
-                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1_01-OG.raw,/OPTIONS/EDITOR/ROM
+                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1__01-OG.rawtmp,/OPTIONS/EDITOR/ROM
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/07/24 1514   d-ewrewr      15       128 ..
@@ -35,7 +35,7 @@
   0.0     1991/07/24 1445   --e-rewr     497       140 configeditor
   0.0     1991/07/24 1445   --e-rewr     499       102 compateditor
 
-                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1_01-OG.raw,/CMDS
+                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1__01-OG.rawtmp,/CMDS
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/07/24 1008   d-ewrewr       3       256 ..
@@ -44,14 +44,14 @@
   0.0     1991/07/24 1446   --e-rewr     5F4     36248 gfi_compile
   0.0     1991/07/24 1446   --e-rewr     683     24862 gfi_summary
 
-                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1_01-OG.raw,/ROM
+                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1__01-OG.rawtmp,/ROM
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/07/24 1008   d-ewrewr       3       256 ..
   0.0     1991/07/24 1515   d-ewrewr      30        96 .
   0.0     1991/07/24 1516   ------wr     49B         0 megmax
 
-                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1_01-OG.raw,/SYSDISK
+                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1__01-OG.rawtmp,/SYSDISK
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/07/24 1008   d-ewrewr       3       256 ..
@@ -59,7 +59,7 @@
   0.0     1991/07/24 1515   d-ewrewr      42       608 HELP
   0.0     1991/07/24 1515   d-ewrewr      4B       640 PROFILES
 
-                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1_01-OG.raw,/SYSDISK/HELP
+                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1__01-OG.rawtmp,/SYSDISK/HELP
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/07/24 1515   d-ewrewr      39       128 ..
@@ -82,7 +82,7 @@
   0.0     1991/07/24 1448   ----r-wr     903      3699 VECTOR
   0.0     1991/07/24 1448   ----r-wr     913      3016 VTERM
 
-                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1_01-OG.raw,/SYSDISK/PROFILES
+                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1__01-OG.rawtmp,/SYSDISK/PROFILES
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/07/24 1515   d-ewrewr      39       128 ..
@@ -106,7 +106,7 @@
   0.0     1991/07/24 1447   ----r-wr     70A       231 VECTOR
   0.0     1991/07/24 1447   ----r-wr     70C       189 VTERM
 
-                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1_01-OG.raw,/TMP
+                           Directory of PROGRAMMER_SYSTEM_DISK-V6.1__01-OG.rawtmp,/TMP
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/07/24 1008   d-ewrewr       3       256 ..

@@ -1,5 +1,5 @@
 
-                           Directory of MASTER_USER_DISK_80C186-V1.1-D2_01-MG.raw,
+                           Directory of MASTER_USER_DISK_80C186-V1.1-D2-01__MG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1990/09/13 1236   d-ewrewr       3       256 ..
@@ -11,20 +11,20 @@
   0.0     1990/08/23 1252   d-ewrewr      30        64 HELPLIB$HELPLIB
   0.0     1990/08/23 1252   ------wr      39         0 MEVALID
 
-                           Directory of MASTER_USER_DISK_80C186-V1.1-D2_01-MG.raw,/SYSDISK
+                           Directory of MASTER_USER_DISK_80C186-V1.1-D2-01__MG.rawtmp,/SYSDISK
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1990/09/13 1236   d-ewrewr       3       256 ..
   0.0     1990/08/23 1251   d-ewrewr       C        64 .
 
-                           Directory of MASTER_USER_DISK_80C186-V1.1-D2_01-MG.raw,/PARTLIB$PARTLIB
+                           Directory of MASTER_USER_DISK_80C186-V1.1-D2-01__MG.rawtmp,/PARTLIB$PARTLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1990/09/13 1236   d-ewrewr       3       256 ..
   0.0     1990/08/23 1311   d-ewrewr      15        96 .
   0.0     1990/08/23 1016   ----r-wr      3A       445 PART$80188
 
-                           Directory of MASTER_USER_DISK_80C186-V1.1-D2_01-MG.raw,/PODLIB$PODLIB
+                           Directory of MASTER_USER_DISK_80C186-V1.1-D2-01__MG.rawtmp,/PODLIB$PODLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1990/09/13 1236   d-ewrewr       3       256 ..
@@ -33,13 +33,13 @@
   0.0     1990/08/23 1311   d-ewrewr      46       128 POD$M
   0.0     1990/08/23 1312   d-ewrewr      54       448 POD$M80188
 
-                           Directory of MASTER_USER_DISK_80C186-V1.1-D2_01-MG.raw,/PODLIB$PODLIB/POD$M80186
+                           Directory of MASTER_USER_DISK_80C186-V1.1-D2-01__MG.rawtmp,/PODLIB$PODLIB/POD$M80186
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1990/09/13 1237   d-ewrewr      1E       160 ..
   0.0     1990/09/13 1229   d-ewrewr      3D        64 .
 
-                           Directory of MASTER_USER_DISK_80C186-V1.1-D2_01-MG.raw,/PODLIB$PODLIB/POD$M
+                           Directory of MASTER_USER_DISK_80C186-V1.1-D2-01__MG.rawtmp,/PODLIB$PODLIB/POD$M
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1990/09/13 1237   d-ewrewr      1E       160 ..
@@ -47,7 +47,7 @@
   0.0     1990/08/23 1017   ----r-wr      4F       272 PODDB$POD_FILE
   0.0     1990/08/23 1017   ----r-wr      52         4 PODDB$CONFIG
 
-                           Directory of MASTER_USER_DISK_80C186-V1.1-D2_01-MG.raw,/PODLIB$PODLIB/POD$M80188
+                           Directory of MASTER_USER_DISK_80C186-V1.1-D2-01__MG.rawtmp,/PODLIB$PODLIB/POD$M80188
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1990/09/13 1237   d-ewrewr      1E       160 ..
@@ -65,13 +65,13 @@
   0.0     1990/08/23 1016   ----r-wr     315    137007 PROGRAM$TEST_BUS
   0.0     1990/08/23 1017   ----r-wr     52E      1810 PROGRAM$VERSION
 
-                           Directory of MASTER_USER_DISK_80C186-V1.1-D2_01-MG.raw,/PROGLIB$PROGLIB
+                           Directory of MASTER_USER_DISK_80C186-V1.1-D2-01__MG.rawtmp,/PROGLIB$PROGLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1990/09/13 1236   d-ewrewr       3       256 ..
   0.0     1990/08/23 1252   d-ewrewr      27        64 .
 
-                           Directory of MASTER_USER_DISK_80C186-V1.1-D2_01-MG.raw,/HELPLIB$HELPLIB
+                           Directory of MASTER_USER_DISK_80C186-V1.1-D2-01__MG.rawtmp,/HELPLIB$HELPLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1990/09/13 1236   d-ewrewr       3       256 ..

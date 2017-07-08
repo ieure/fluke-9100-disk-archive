@@ -1,0 +1,84 @@
+
+                           Directory of 8505A-DMM_FUNCTIONAL_TEST_DISK-V1.0__01-OG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/09/05 0924   d-ewrewr       3       288 ..
+  0.1     1990/09/05 0924   d-ewrewr       3       288 .
+  0.0     1990/09/05 0924   d-ewrewr       C        64 SYSDISK
+  0.0     1990/09/05 0924   d-ewrewr      15        64 PARTLIB$PARTLIB
+  0.0     1990/09/05 0924   d-ewrewr      1E        64 PODLIB$PODLIB
+  0.0     1990/09/05 0924   d-ewrewr      27        64 PROGLIB$PROGLIB
+  0.0     1990/09/05 0924   d-ewrewr      30        64 HELPLIB$HELPLIB
+  0.0     1990/09/05 0924   ------wr      39         0 MEVALID
+  0.0     1990/09/05 0925   d-ewrewr      3A      1280 UUT$8505A_AF
+
+                           Directory of 8505A-DMM_FUNCTIONAL_TEST_DISK-V1.0__01-OG.rawtmp,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/09/05 0924   d-ewrewr       3       288 ..
+  0.0     1990/09/05 0924   d-ewrewr       C        64 .
+
+                           Directory of 8505A-DMM_FUNCTIONAL_TEST_DISK-V1.0__01-OG.rawtmp,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/09/05 0924   d-ewrewr       3       288 ..
+  0.0     1990/09/05 0924   d-ewrewr      15        64 .
+
+                           Directory of 8505A-DMM_FUNCTIONAL_TEST_DISK-V1.0__01-OG.rawtmp,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/09/05 0924   d-ewrewr       3       288 ..
+  0.0     1990/09/05 0924   d-ewrewr      1E        64 .
+
+                           Directory of 8505A-DMM_FUNCTIONAL_TEST_DISK-V1.0__01-OG.rawtmp,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/09/05 0924   d-ewrewr       3       288 ..
+  0.0     1990/09/05 0924   d-ewrewr      27        64 .
+
+                           Directory of 8505A-DMM_FUNCTIONAL_TEST_DISK-V1.0__01-OG.rawtmp,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/09/05 0924   d-ewrewr       3       288 ..
+  0.0     1990/09/05 0924   d-ewrewr      30        64 .
+
+                           Directory of 8505A-DMM_FUNCTIONAL_TEST_DISK-V1.0__01-OG.rawtmp,/UUT$8505A_AF
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/09/05 0924   d-ewrewr       3       288 ..
+  0.0     1990/09/05 0925   d-ewrewr      3A      1280 .
+  0.0     1990/02/12 0853   ------wr      43        40 Info
+  0.0     1990/05/01 0926   ---w--wr      45      7747 PROGRAM$MAIN
+  0.0     1990/05/11 1338   ---w--wr      65      1021 PROGRAM$CNV_FL_STR
+  0.0     1990/04/04 1214   ---w--wr      6A      7133 PROGRAM$GETMENU
+  0.0     1990/02/12 1538   ---w--wr      87       230 PROGRAM$BEEP
+  0.0     1990/04/09 1502   ---w--wr      89      6209 PROGRAM$TST_CNTRLR
+  0.0     1990/04/27 0830   ---w--wr      A3      1228 TEXT$EEPROM_DAT
+  0.0     1990/04/09 1457   ---w--wr      A9      6074 PROGRAM$TEST_TRSFR
+  0.0     1990/04/09 1501   ---w--wr      C2      4254 PROGRAM$TEST_INTR
+  0.0     1990/04/09 1459   ---w--wr      D4     13257 PROGRAM$TEST_RAM
+  0.0     1990/04/09 1500   ---w--wr     109      8810 PROGRAM$TEST_ROM
+  0.0     1990/05/11 1511   ---w--wr     12D      7966 PROGRAM$TEST_VDC
+  0.0     1990/02/23 1650   ---w--wr     14E      5364 PROGRAM$INT_ACK
+  0.0     1990/04/09 1457   ---w--wr     164      5782 PROGRAM$TEST_TRIG
+  0.0     1990/04/10 0749   ---w--wr     17C      7744 PROGRAM$TST_DISPLY
+  0.0     1990/04/09 1459   ---w--wr     19C      4260 PROGRAM$TEST_BUS
+  0.0     1990/04/09 1501   ---w--wr     1AE     10474 PROGRAM$TEST_EEPRM
+  0.0     1990/04/09 1458   ---w--wr     1D8      8713 PROGRAM$TEST_LEDS
+  0.0     1990/02/21 1458   ---w--wr     1FC       156 PROGRAM$FLUSH
+  0.0     1990/02/21 1459   ---w--wr     1FE       147 PROGRAM$GETKEY
+  0.0     1990/03/21 1250   ---w--wr     200      1625 PROGRAM$RESTORDATA
+  0.0     1990/05/11 1342   ---w--wr     208      1915 PROGRAM$YES_NO
+  0.0     1990/04/09 1458   ---w--wr     211      7059 PROGRAM$TEST_SWTCH
+  0.0     1990/02/19 0933   ---w--wr     22E        93 PROGRAM$RESTORTRY
+  0.0     1990/02/16 1307   ------wr     230      1228 TEXT$EEPRM_TST1
+  0.0     1990/02/16 1308   ------wr     236      1228 TEXT$EEPRM_TST2
+  0.0     1990/04/04 1016   ---w--wr     23C      1431 PROGRAM$DISP_MSG
+  0.0     1990/04/09 1503   ---w--wr     243      3769 PROGRAM$TST_ISOLTR
+  0.0     1990/03/16 1540   ---w--wr     253      9491 PROGRAM$READ_AD
+  0.0     1990/04/09 1455   ---w--wr     27A      5914 PROGRAM$TEST_DIGIF
+  0.0     1990/05/15 0807   ---w--wr     293      2485 PROGRAM$MANUAL_DRV
+  0.0     1990/05/14 0751   ---w--wr     29E      6481 PROGRAM$TEST_AD
+  0.0     1990/05/11 1433   ---w--wr     2B9      9314 PROGRAM$TEST_VAC
+  0.0     1990/05/11 1434   ---w--wr     2DF     11151 PROGRAM$TEST_OHMS
+  0.0     1990/05/14 0845   ---w--wr     30C      6235 PROGRAM$TST_ANALOG

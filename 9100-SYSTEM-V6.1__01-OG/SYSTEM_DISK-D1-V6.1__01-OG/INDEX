@@ -1,5 +1,5 @@
 
-                           Directory of SYSTEM_DISK-D1-V6.1_01-OG.raw,
+                           Directory of SYSTEM_DISK-D1-V6.1__01-OG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/07/24 0946   d-ewrewr       3       192 ..
@@ -9,7 +9,7 @@
   0.0     1991/07/24 1448   ----r-wr      1E         2 ndisks
   0.0     1991/07/24 1454   ------wr     40D         4 .xxx
 
-                           Directory of SYSTEM_DISK-D1-V6.1_01-OG.raw,/ROM
+                           Directory of SYSTEM_DISK-D1-V6.1__01-OG.rawtmp,/ROM
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/07/24 0946   d-ewrewr       3       192 ..
@@ -28,7 +28,7 @@
   0.0     1991/07/24 1454   ------wr     40A         0 math
   0.0     1991/07/24 1454   ------wr     40B         0 scio
 
-                           Directory of SYSTEM_DISK-D1-V6.1_01-OG.raw,/CMDS
+                           Directory of SYSTEM_DISK-D1-V6.1__01-OG.rawtmp,/CMDS
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/07/24 0946   d-ewrewr       3       192 ..

@@ -1,5 +1,5 @@
 
-                           Directory of SYSTEM_DISK-D1-V6.0_01-MG.raw,
+                           Directory of SYSTEM_DISK-D1-V6.0__01-MG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/11 0912   d-ewrewr       3       256 ..
@@ -11,7 +11,7 @@
   0.0     1991/12/20 1146   ------wr     40F         0 MEVALID
   0.0     1991/12/20 1147   ------wr     410        44 Info
 
-                           Directory of SYSTEM_DISK-D1-V6.0_01-MG.raw,/ROM
+                           Directory of SYSTEM_DISK-D1-V6.0__01-MG.rawtmp,/ROM
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/11 0912   d-ewrewr       3       256 ..
@@ -30,7 +30,7 @@
   0.0     1991/04/11 0902   ------wr     40A         0 math
   0.0     1991/04/11 0902   ------wr     40B         0 scio
 
-                           Directory of SYSTEM_DISK-D1-V6.0_01-MG.raw,/CMDS
+                           Directory of SYSTEM_DISK-D1-V6.0__01-MG.rawtmp,/CMDS
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/11 0912   d-ewrewr       3       256 ..

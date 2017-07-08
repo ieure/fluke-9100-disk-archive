@@ -1,5 +1,5 @@
 
-                           Directory of SYSTEM_DISK-V4.2A-SC001-D1_01-OG.raw,
+                           Directory of SYSTEM_DISK-V4.2A-SC001-D1__01-OG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1990/09/14 0939   d-ewrewr       3       192 ..
@@ -9,7 +9,7 @@
   0.251   1989/09/06 1434   ---wr-wr      1E         2 ndisks
   0.0     1989/12/21 1159   ------wr      93         4 .xxx
 
-                           Directory of SYSTEM_DISK-V4.2A-SC001-D1_01-OG.raw,/ROM
+                           Directory of SYSTEM_DISK-V4.2A-SC001-D1__01-OG.rawtmp,/ROM
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1990/09/14 0939   d-ewrewr       3       192 ..
@@ -20,7 +20,7 @@
   0.251   1989/09/06 1407   --e-rewr     71A     50464 be_table
   0.251   1989/09/06 1407   --e-rewr     7E1      7210 bf_table
 
-                           Directory of SYSTEM_DISK-V4.2A-SC001-D1_01-OG.raw,/CMDS
+                           Directory of SYSTEM_DISK-V4.2A-SC001-D1__01-OG.rawtmp,/CMDS
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1990/09/14 0939   d-ewrewr       3       192 ..

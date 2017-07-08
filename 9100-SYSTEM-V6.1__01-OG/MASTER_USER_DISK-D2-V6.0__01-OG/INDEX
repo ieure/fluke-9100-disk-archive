@@ -1,5 +1,5 @@
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/01 0958   d-ewrewr       3       288 ..
@@ -12,7 +12,7 @@
   0.0     1991/04/01 0959   d-ewrewr      39        64 SYSDISK
   0.0     1991/04/01 0959   ------wr      42         0 MEVALID
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/HELPLIB$HELPLIB
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/HELPLIB$HELPLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/01 0958   d-ewrewr       3       288 ..
@@ -79,7 +79,7 @@
   0.0     1991/03/29 1538   ---wr-wr      EF       338 TEXT$ROM7
   0.0     1991/03/29 1538   ---wr-wr      F2       133 TEXT$UNKNOWN1
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PROGLIB$PROGLIB
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PROGLIB$PROGLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/01 0958   d-ewrewr       3       288 ..
@@ -87,7 +87,7 @@
   0.0     1991/04/01 0829   ---w--wr      F4     19875 OBJPROG$A_TABLE
   0.0     1991/03/29 1538   ---wr-wr     143     19873 PROGRAM$A_TABLE
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/UUT$ABC
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/UUT$ABC
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/01 0958   d-ewrewr       3       288 ..
@@ -109,7 +109,7 @@
   0.0     1991/03/29 1539   ---wr-wr     20B       321 REF$REFLIST
   0.0     1991/03/29 1539   ---wr-wr     20E       196 RESPONSE$ADDR_OUT
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PARTLIB$PARTLIB
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PARTLIB$PARTLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/01 0958   d-ewrewr       3       288 ..
@@ -326,7 +326,7 @@
   0.0     1991/03/29 1542   ---wr-wr     420        22 PART$XTAL
   0.0     1991/03/29 1542   ---wr-wr     422        25 PART$XTALSP
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/01 0958   d-ewrewr       3       288 ..
@@ -350,7 +350,7 @@
   0.0     1991/04/01 1027   d-ewrewr     8E9       224 POD$4050
   0.0     1991/04/01 1028   d-ewrewr     919       224 POD$8041
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$1802
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$1802
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
@@ -383,21 +383,21 @@
   0.0     1991/04/01 0827   ---w--wr     493       515 OBJPROG$SET_TRV
   0.0     1991/04/01 0827   ---w--wr     497       505 OBJPROG$WR_DMA_V
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$6502
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$6502
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
   0.0     1991/04/01 1017   d-ewrewr     49A        96 .
   0.0     1991/03/29 1557   ---wr-wr     4A3       839 PODDB$POD_FILE
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$6800
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$6800
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
   0.0     1991/04/01 1017   d-ewrewr     4A8        96 .
   0.0     1991/03/29 1557   ---wr-wr     4B1       840 PODDB$POD_FILE
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$68000
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$68000
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
@@ -424,7 +424,7 @@
   0.0     1991/04/01 0828   ---w--wr     541       297 OBJPROG$RESET
   0.0     1991/04/01 0828   ---w--wr     544       307 OBJPROG$UUT_RST
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$68000L
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$68000L
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
@@ -449,7 +449,7 @@
   0.0     1991/04/01 0828   ---w--wr     5CD       322 OBJPROG$RD_REARM
   0.0     1991/04/01 0828   ---w--wr     5D0       307 OBJPROG$UUT_RST
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$68000P
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$68000P
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
@@ -474,14 +474,14 @@
   0.0     1991/04/01 0828   ---w--wr     659       322 OBJPROG$RD_REARM
   0.0     1991/04/01 0828   ---w--wr     65C       307 OBJPROG$UUT_RST
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$6802
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$6802
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
   0.0     1991/04/01 1022   d-ewrewr     65F        96 .
   0.0     1991/03/29 1600   ---wr-wr     668       848 PODDB$POD_FILE
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$6809
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$6809
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
@@ -492,7 +492,7 @@
   0.0     1991/04/01 0828   ---w--wr     686       516 OBJPROG$QWK_RD
   0.0     1991/04/01 0828   ---w--wr     68A       661 OBJPROG$QWK_WR
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$6809E
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$6809E
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
@@ -503,21 +503,21 @@
   0.0     1991/04/01 0828   ---w--wr     6A7       516 OBJPROG$QWK_RD
   0.0     1991/04/01 0828   ---w--wr     6AB       661 OBJPROG$QWK_WR
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$9900
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$9900
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
   0.0     1991/04/01 1022   d-ewrewr     6AF        96 .
   0.0     1991/03/29 1601   ---wr-wr     6B8      1125 PODDB$POD_FILE
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$Z80
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$Z80
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
   0.0     1991/04/01 1023   d-ewrewr     6BE        96 .
   0.0     1991/03/29 1601   ---wr-wr     6C7       920 PODDB$POD_FILE
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$Z8000
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$Z8000
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
@@ -540,7 +540,7 @@
   0.0     1991/04/01 0829   ---w--wr     758       312 OBJPROG$RD_SAT
   0.0     1991/04/01 0829   ---w--wr     75B       308 OBJPROG$RD_VI
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$Z8001
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$Z8001
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
@@ -563,7 +563,7 @@
   0.0     1991/04/01 0829   ---w--wr     7EB       312 OBJPROG$RD_SAT
   0.0     1991/04/01 0829   ---w--wr     7EE       308 OBJPROG$RD_VI
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$Z8002
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$Z8002
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
@@ -586,7 +586,7 @@
   0.0     1991/04/01 0829   ---w--wr     883       320 OBJPROG$RD_SAT
   0.0     1991/04/01 0829   ---w--wr     886       308 OBJPROG$RD_VI
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$3548
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$3548
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
@@ -597,7 +597,7 @@
   0.0     1991/04/01 0827   ---w--wr     8AB      1329 OBJPROG$QWK_RD
   0.0     1991/04/01 0827   ---w--wr     8B2      1435 OBJPROG$QWK_WR
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$3949
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$3949
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
@@ -608,7 +608,7 @@
   0.0     1991/04/01 0828   ---w--wr     8DB      1329 OBJPROG$QWK_RD
   0.0     1991/04/01 0828   ---w--wr     8E2      1435 OBJPROG$QWK_WR
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$4050
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$4050
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
@@ -619,7 +619,7 @@
   0.0     1991/04/01 0828   ---w--wr     90B      1329 OBJPROG$QWK_RD
   0.0     1991/04/01 0828   ---w--wr     912      1435 OBJPROG$QWK_WR
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/PODLIB$PODLIB/POD$8041
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$8041
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.0     1991/04/01 1028   d-ewrewr      30       640 ..
@@ -630,7 +630,7 @@
   0.0     1991/04/01 0828   ---w--wr     937      1093 OBJPROG$QWK_RD
   0.0     1991/04/01 0828   ---w--wr     93D      1251 OBJPROG$QWK_WR
 
-                           Directory of MASTER_USER_DISK-D2-V6.0_01-OG.raw,/SYSDISK
+                           Directory of MASTER_USER_DISK-D2-V6.0__01-OG.rawtmp,/SYSDISK
  Owner    Last modified    Attributes Sector Bytecount Name
 -------   ---------------  ---------- ------ --------- ----
   0.1     1991/04/01 0958   d-ewrewr       3       288 ..
