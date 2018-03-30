@@ -60,14 +60,14 @@ status of OG unless every disk is original and dumped successfully.
 Examples
 --------
 
-MASTER_USER_DISK-D1-V4.1,01-OG
-^^^^^^^^^^^^^^^^ ^^ ^^^^ ^^ ^^
-|                 |    |  | ||
-|                 |    |  | | ` Good dump
-|                 |    |  | |
-|                 |    |  |  ` Unmodified media
-|                 |    |  |
-|                 |    |   ` First dump of this disk
+MASTER_USER_DISK-D1-V4.1__01-OG
+^^^^^^^^^^^^^^^^ ^^ ^^^^  ^^ ^^
+|                 |    |   | ||
+|                 |    |   | | ` Good dump
+|                 |    |   | |
+|                 |    |   |  ` Original, unmodified media
+|                 |    |   |
+|                 |    |    ` First dump of this disk
 |                 |    |
 |                 |     ` Disk version 4.1
 |                 |
@@ -122,16 +122,28 @@ To create a raw sector image with DiskTool Console:
 DTC -l15 -fmud1.img -e79 -z1 -n+16 -k1 -i4 -m1 \
   -fMASTER_USER_DISK-D1-V4.1,01-OG -i0 -e83
 
-The original media is double-density 3.5" floppy disks, and it's
-recommended that you write them to the same type of disk.  If you use
-high-density media, you *must* degauss it first, using a bulk magnetic
-eraser or similar electromagnetic device.  Formatting in a
-high-density drive is not sufficient.  Failure to degauss high-density
-media will likely result in read failures, as the larger
-double-density disk head may pick up stray magnetic fields from the
-adjacent high-density tracks.  Additionally, you should cover the
-high-density indicator hole on the disk to ensure uniform handling,
-for example in a mainframe with a high-density drive.
+
+Writing these images on modern hardware can present some issues, due
+to the larger head in the 9100A's double-density drive.  The
+physically smaller head in a modern high-density drive may not be able
+to erase the wider DD track completely, leading to read errors on the
+9100.
+
+If you only care about disks working on a 9100FT, this shouldn't be a
+problem, since they shipped with high-density drives.
+
+Depending on the combination of media and drives, you may experience
+read failures.  If this happens, you can try one or more of these
+things, which are in roughly ascending order of difficulty.
+
+1. If you're writing to HD media, make sure the density-selection hole
+   is covered.
+2. If you don't have success with HD media, write to DD media instead.
+3. Format the disk in a double-density floppy drive, then rewrite the
+   image.  You can do this on a 9100A, assuming you have one which
+   boots.
+3. Degauss the diskette prior to writing the image.  You'll need a
+   bulk media eraser.
 
 Installing on SCSI2SD
 =====================
@@ -144,9 +156,12 @@ Original Hardware
 -----------------
 
 The 9100A shipped with a 20mb MiniScribe 8425 MFM hard disk, which
-requires an interface PCB to operate.  9100FT machines shipped with a
-40mb Quantum ProDrive ELS SCSI disk attached directly to the SCSI bus;
-there was also a 40mb field upgrade option for the 9100A.
+requires an interface PCB to operate on the 9100's SCSI bus.  9100FT
+machines did away with this configuration, shipping with SCSI disks
+and doubling the HDR capabity to 40mb.  Both Quantum ProDrive ELS and
+Conner CP-3040 disks came in the 9100FT.  There was also a field
+upgrade option for the 9100A, which upgraded it to same disk
+configuration as the FT.
 
 The MiniScribe has CHS of 615/4/17, 41,820, sectors, 512 bytes/sector,
 for 21,411,840 bytes of capacity.
@@ -161,17 +176,17 @@ You must have:
 
 - Fluke 9100 Service Disk v1.4.  This is included in this archive as
   NON-FACTORY/9100-SERVICE-V1.4,01-NG.
-- Mainframe ROMs v5.0.  These are included in this archive as
-  9100A-ROM-V5.0,01-OG.
 - SCSI2SD v5.
 - A SD card, nearly any size will do.
 - Several blank 3.5" DSDD floppy disks.  The exact number will vary
   depending on system version and desired options.
 
-Additionally, if you're installing on a 9100FT, you will need:
+If you have a 9100A, you also need:
 
- - A 50-pin SCSI ribbon cable with two connectors.
- - A terminator.
+- Mainframe ROMs v5.0.  These are included in this archive as
+  9100A-ROM-V5.0,01-OG.  See CATALOG in that directory for
+  installation instructions.
+
 
 SCSI2SD Configuration
 ---------------------
@@ -185,16 +200,17 @@ SD card start sector 0
 Sector size 512 bytes
 Sector count 82280
 
-Devices 2-4 disabled.
+Devices 2-4 disabled.  All other settings default.  Leave the
+termination resistors installed.  Install the SD card in the SCSI2SD.
 
-All other settings default.
+This will exactly simulate the upgraded 40mb SCSI disk.  You may
+substitute the sector count of the 20mb disk if you want to simulate
+it, instead.
 
-Install the SD card in the SCSI2SD.
-
-This will exactly simulate the upgraded 40mb SCSI disk.  While the
-9100 can format disks up to nearly 1gb in size, this is vastly larger
-than they were designed to work with, and I'd recommend sticking to
-the 40mb settings unless you have very good reason not to.
+While the 9100 can handle disks up to nearly 1gb in size, this is
+overkill, and the EDITOR can't report more than 99,999,999 bytes of
+free space.  Setting the SCSI2SD sector count to 195,312 will produce
+a 99,999,744 byte disk -- larger than this is not recommended.
 
 Installing the SCSI2SD
 ----------------------
