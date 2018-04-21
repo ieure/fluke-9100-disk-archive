@@ -1,0 +1,20 @@
+Name: 9100A System Disks V4.1b
+Site-Code: 001
+Provided-By: Ian Eure
+Archived-By: Ian Eure
+Archived: 2018-04-20
+Drive: Sony MPF920
+DTC: KryoFlux DiskTool Console, v2.6, uiv.1, Dec 31 2014, 17:40:27
+Dump: 02/MG
+
+Notes:
+This is a dump of a second copy of this diskset.  Unlike the 01/OB
+dump, all disks in this set were successfully read.
+
+They have the same modifications for site code 001, on track 0 and 62.
+
+Both the userdisks appear to be recycled from other disks at the
+factory.  Every sector is modified, as if the media was created, then
+reformatted and rewritten; and the version is written by hand on the
+label, whereas dump 01 of this diskset has it printed.  I am flagging
+these OG.
