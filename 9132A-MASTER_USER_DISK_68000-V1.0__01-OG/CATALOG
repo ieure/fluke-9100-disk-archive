@@ -1,0 +1,12 @@
+Name: 9132A 68000 Master User Software
+JFPN: 916879
+Site-Code: None
+Provided-By: Tony Jones
+Archived-By: Tony Jones
+Archived: 2018-07-20
+Drive: Teac FD-235HG
+DTC: KryoFlux DiskTool Console, v2.51_Win64, uiv.1, Oct 29 2014, 16:45:36
+Dump: 01/OG
+
+Notes:
+This software is for the 9132A-68000 personality module.   This is not the same as the 9000A-68000 interface pod.  Per the 9132FT Series Emulation Selection guide,  this personality module is also compatible with the 9132FT (n.b other A version modules such as 68020/68030 are not).

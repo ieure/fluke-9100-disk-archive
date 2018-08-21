@@ -1,0 +1,72 @@
+
+                           Directory of d3.raw,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/08/08 1520   d-ewrewr       3       256 ..
+  0.1     1989/08/08 1520   d-ewrewr       3       256 .
+  0.0     1989/08/08 0725   d-ewrewr       C        64 SYSDISK
+  0.0     1989/08/08 0725   d-ewrewr      15        96 PARTLIB$PARTLIB
+  0.0     1989/08/08 1520   d-ewrewr      1E       128 PODLIB$PODLIB
+  0.0     1989/08/08 0727   d-ewrewr      27        64 PROGLIB$PROGLIB
+  0.0     1989/08/08 0727   d-ewrewr      30        64 HELPLIB$HELPLIB
+  0.0     1989/08/08 0727   ------wr      39         0 MEVALID
+
+                           Directory of d3.raw,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/08/08 1520   d-ewrewr       3       256 ..
+  0.0     1989/08/08 0725   d-ewrewr       C        64 .
+
+                           Directory of d3.raw,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/08/08 1520   d-ewrewr       3       256 ..
+  0.0     1989/08/08 0725   d-ewrewr      15        96 .
+  0.251   1989/08/07 1236   ----r-wr      3A       582 PART$68000
+
+                           Directory of d3.raw,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/08/08 1520   d-ewrewr       3       256 ..
+  0.0     1989/08/08 1520   d-ewrewr      1E       128 .
+  0.0     1989/08/08 1520   d-ewrewr      3E       480 POD$M68000
+  0.0     1989/08/08 0727   d-ewrewr     518       128 POD$M
+
+                           Directory of d3.raw,/PODLIB$PODLIB/POD$M68000
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1989/08/08 1520   d-ewrewr      1E       128 ..
+  0.0     1989/08/08 1520   d-ewrewr      3E       480 .
+  0.251   1989/08/07 1236   ----r-wr      47      4821 PODDB$POD_FILE
+  0.251   1989/08/07 1236   ----r-wr      5B         4 PODDB$CONFIG
+  0.251   1989/08/07 1237   ----r-wr      5D     53277 PROGRAM$B_DIAG
+  0.251   1989/08/08 1510   ----r-wr     12F      2362 PROGRAM$B_TEST
+  0.251   1989/08/07 1237   ----r-wr     13A       839 PROGRAM$FRC_INT
+  0.251   1989/08/07 1237   ----r-wr     13F      4071 PROGRAM$HYP_RAM
+  0.251   1989/08/07 1237   ----r-wr     150       555 PROGRAM$QWK_RD
+  0.251   1989/08/07 1237   ----r-wr     154       608 PROGRAM$QWK_WR
+  0.251   1989/08/07 1237   ----r-wr     158    108070 PROGRAM$SETUP
+  0.251   1989/08/07 1237   ----r-wr     300      2958 PROGRAM$STIM_ADR
+  0.251   1989/08/07 1237   ----r-wr     30D      2282 PROGRAM$STIM_DAT
+  0.251   1989/08/08 1510   ----r-wr     317    129338 PROGRAM$TEST_BUS
+  0.251   1989/08/07 1238   ----r-wr     512      1222 PROGRAM$VERSION
+
+                           Directory of d3.raw,/PODLIB$PODLIB/POD$M
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1989/08/08 1520   d-ewrewr      1E       128 ..
+  0.0     1989/08/08 0727   d-ewrewr     518       128 .
+  0.251   1989/08/07 1238   ----r-wr     521       272 PODDB$POD_FILE
+  0.251   1989/08/07 1238   ----r-wr     524         4 PODDB$CONFIG
+
+                           Directory of d3.raw,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/08/08 1520   d-ewrewr       3       256 ..
+  0.0     1989/08/08 0727   d-ewrewr      27        64 .
+
+                           Directory of d3.raw,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/08/08 1520   d-ewrewr       3       256 ..
+  0.0     1989/08/08 0727   d-ewrewr      30        64 .
