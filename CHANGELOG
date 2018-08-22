@@ -1,3 +1,11 @@
+2018-08-21  Ian Eure  <ian.eure@gmail.com>
+
+	* Added a second (good) dump of V4.1B userdisk set.
+	* Added 9132A 68000 Personality Module Master User Disks (thanks
+  	to Tony Jones for the images.)
+	* Fix Z80QT pod disk, which had a misnamed directory.
+	* Clarify/rewrite README.
+
 2017-05-12  Ian Eure  <ian.eure@gmail.com>
 
 	* Added disks from Chris Loggans: 9100 6.0 system, programmer, and
