@@ -36,12 +36,12 @@ D1, D2, etc.  Optional if the disk is self-contained.
 Dump Number
 -----------
 
-Dump numbers start at 01 and increment by one for each dump of a
-distinct physical disk.  For example, if there are two copies of the
-9100A-68000-POD_USER_DISK-V1.0 disk, the first dump would be assigned
-01, and the second 02.  Re-dumping the same physical disk is not
-encouraged, but a dump of a second factory copy containing the same
-data may be desirable if the first media is damaged.
+Dump numbers start at 01 and increment by one for each dump.  For
+example, if there are two copies of the 9100A-68000-POD_USER_DISK-V1.0
+disk, the first dump would be assigned 01, and the second 02.
+Re-dumping the same physical disk is not encouraged, but a dump of a
+second factory copy containing the same data may be desirable if the
+first media is modified or damaged.
 
 Dump Status
 -----------
@@ -93,8 +93,14 @@ information about the dump, photos of -FRONT and -BACK photos of the
 disks archived, an INDEX file with the contents of the disk, and a ZIP
 archive of the KryoFlux STREAM.
 
-Some userdisks are archived in the NON-FACTORY directory.  These aren't
-original, but may contain things of interest.
+Non-Factory Dumps
+-----------------
+
+In some cases, for the sake of completeness, a disk may be included in
+the archive even if it's not directly sourced from a mass-produced
+original disk.  Dumps which fall into this category are put in the
+NON-FACTORY directory.  This includes disks which have been modified,
+disks containing user-created programs, and other things of interest.
 
 Writing Media
 =============
@@ -129,17 +135,18 @@ DTC -l15 -fmud1.img -e79 -z1 -n+16 -k1 -i4 -m1 \
 
 
 Writing these images on modern hardware can present some issues, due
-to the larger head in the 9100A's double-density drive.  The
-physically smaller head in a modern high-density drive may not be able
-to erase the wider DD track completely, leading to read errors on the
-9100.
+to the double-density drive present in 9100A mainframes.  If you're
+using anything other than brand new, completely blank, unformatted
+disks, the physically smaller head in a high-density drive may not be
+able to completely erase the wider double density track, leading to
+read errors when used on the 9100A.  These disks can be difficult to
+obtain, since most new media sold from the early 1990s on was
+preformatted.
 
-If you only care about disks working on a 9100FT, this shouldn't be a
-problem, since they shipped with high-density drives.
-
-Depending on the combination of media and drives, you may experience
-read failures.  If this happens, you can try one or more of these
-things, which are in roughly ascending order of difficulty.
+If you experience issues with these disks, and you've eliminated the
+floppy drive itself as the issue -- if it can read other disks, just
+not the copies made from these image -- you can try one or more of
+these:
 
 1. If you're writing to HD media, make sure the density-selection hole
    is covered.
@@ -153,9 +160,9 @@ things, which are in roughly ascending order of difficulty.
 Installing on SCSI2SD
 =====================
 
-The SCSI2SD is a popular option for replacing SCSI disks.  It's
-compatible with the 9100, but there are some considerations which this
-document attempts to capture.
+The SCSI2SD is a popular device which replaces SCSI disks with SD
+cards.  It's compatible with the 9100, but there are some
+considerations which this document attempts to capture.
 
 Original Hardware
 -----------------
@@ -172,7 +179,10 @@ The MiniScribe has CHS of 615/4/17, 41,820, sectors, 512 bytes/sector,
 for 21,411,840 bytes of capacity.
 
 The ProDrive ELS has CHS of 968/5/17, 82,280 sectors total, 512
-bytes/sectors, providing a total capacity of 42,127,360 bytes.
+bytes/sector, providing a total capacity of 42,127,360 bytes.
+
+The Conner CP-3040 has CHS of 1026/2/40, 82,080 sectors total, 512
+bytes/sector, for a total capacity of 42,024,960 bytes.
 
 Prerequisites
 -------------
@@ -180,17 +190,17 @@ Prerequisites
 You must have:
 
 - Fluke 9100 Service Disk v1.4.  This is included in this archive as
-  NON-FACTORY/9100-SERVICE-V1.4,01-NG.
-- SCSI2SD v5.
-- A SD card, nearly any size will do.
+  9100A-USAF-UPGRADE-KIT-1990__01-OG/SERVICE-V1.4__01-OG.
+- SCSI2SD v5 hardware.
+- A microSD card, nearly any size will do.  Even "low capacity" SD
+  cards are an order of magnitude larger than the original storage
+  capacity.
 - Several blank 3.5" DSDD floppy disks.  The exact number will vary
   depending on system version and desired options.
 
-If you have a 9100A, you also need:
-
-- Mainframe ROMs v5.0.  These are included in this archive as
-  9100A-ROM-V5.0,01-OG.  See CATALOG in that directory for
-  installation instructions.
+If you have a 9100A, you may need to upgrade your system ROMs to v5.0.
+These are included in this archive as 9100A-ROM-V5.0,01-OG.  See
+CATALOG in that directory for installation instructions.
 
 
 SCSI2SD Configuration
@@ -210,12 +220,12 @@ termination resistors installed.  Install the SD card in the SCSI2SD.
 
 This will exactly simulate the upgraded 40mb SCSI disk.  You may
 substitute the sector count of the 20mb disk if you want to simulate
-it, instead.
+it instead.
 
 While the 9100 can handle disks up to nearly 1gb in size, this is
-overkill, and the EDITOR can't report more than 99,999,999 bytes of
-free space.  Setting the SCSI2SD sector count to 195,312 will produce
-a 99,999,744 byte disk -- larger than this is not recommended.
+overkill, and EDITOR can't report more than 99,999,999 bytes of free
+space.  Setting the sector count to 195,312 will produce a 99,999,744
+byte disk -- larger than this is not recommended.
 
 Installing the SCSI2SD
 ----------------------
@@ -237,15 +247,17 @@ installed.  Install the SCSI2SD in its place.  You will need to
 acquire or fabricate a 3.5" disk bay mount for it, as it's
 significantly smaller than the disk it's replacing.
 
-For 9100FT units only:
+Leaving the mainframe open and disk cage uninstalled, connect the
+SCSI2SD to the SCSI bus and power, reconnect the floppy cable, and
+reconnect the power cables.
+
+Certain 9100FT mainframes seem to experience problems when using the
+SCSI2SD v5's built-in bus termination.  If your machine hangs or
+otherwise doesn't work as expected:
 
 - Replace the SCSI cable with one having three connectors.
 - Plug a terminator into the far end of the cable.
 - Remove the the terminating resistor packs from the SCSI2SD.
-
-Leaving the mainframe open and disk cage uninstalled, connect the
-SCSI2SD to the SCSI bus and power, reconnect the floppy cable, and
-reconnect the power cables.
 
 Upgrade 9100A mainframe ROMs
 ----------------------------
@@ -259,12 +271,11 @@ version will be printed on a label on top.
 The 9100A V5.0 ROMs are included in this archive for convenience.
 
 The V5.0 ROMs can be programmed onto 27C512 EPROMs.  Because these are
-different devices than the V3.0 ROMs, you will need to change the ROM
-strapping by severing the link at W2, just below the RAM slots.
-Use a fresh blade on an X-Acto or similar hobby knife to carefully
-open this jumper, then verify no continuity with a multimeter.
-Install the new EPROMs and boot the machine to verify that it's
-working.
+larger than the V3.0 ROMs, you will need to change the ROM strapping
+by severing the link at W2, just below the RAM slots.  Use a fresh
+blade on an X-Acto or similar hobby knife to carefully open this
+jumper, then verify no continuity with a multimeter.  Install the new
+EPROMs and boot the machine to verify that it's working.
 
 Setting up the Fluke
 --------------------
@@ -317,3 +328,4 @@ This work wouldn't be possible without help of the following people.
 
 Andreas Kraemer
 Chris Loggans
+Tony Jones
