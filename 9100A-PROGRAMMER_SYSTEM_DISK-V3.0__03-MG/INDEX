@@ -1,0 +1,75 @@
+
+                           Directory of 9100A-PROGRAMMER_SYSTEM_DISK-V3.0__03-MG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1987/10/16 1218   d-ewrewr       3       224 ..
+  0.1     1987/10/16 1218   d-ewrewr       3       224 .
+  0.0     1987/10/16 1315   d-ewrewr       C        96 ROM
+  0.0     1987/10/16 1315   d-ewrewr      15       128 SYSDISK
+  0.0     1988/02/16 1250   d-ewrewr     40B       320 CMDS
+  0.0     1988/08/23 1043   ------wr     565        10 .xxx
+  0.0     1989/10/31 1455   ------wr     566         0 MEVALID
+
+                           Directory of 9100A-PROGRAMMER_SYSTEM_DISK-V3.0__03-MG.rawtmp,/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1987/10/16 1218   d-ewrewr       3       224 ..
+  0.0     1987/10/16 1315   d-ewrewr       C        96 .
+  0.251   1988/03/22 1523   -----ewr      30    250428 megmax
+
+                           Directory of 9100A-PROGRAMMER_SYSTEM_DISK-V3.0__03-MG.rawtmp,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1987/10/16 1218   d-ewrewr       3       224 ..
+  0.0     1987/10/16 1315   d-ewrewr      15       128 .
+  0.0     1988/02/16 1251   d-ewrewr      1E       576 HELP
+  0.0     1987/10/16 1316   d-ewrewr      27       544 PROFILES
+
+                           Directory of 9100A-PROGRAMMER_SYSTEM_DISK-V3.0__03-MG.rawtmp,/SYSDISK/HELP
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1987/10/16 1315   d-ewrewr      15       128 ..
+  0.0     1988/02/16 1251   d-ewrewr      1E       576 .
+  0.0     1988/03/22 1534   ------wr     41D      1840 DEBUG
+  0.0     1988/03/22 1534   ------wr     426      2458 HELPLIB
+  0.0     1988/03/22 1534   ------wr     431      2512 NODE
+  0.0     1988/03/22 1534   ------wr     43C      2709 PART
+  0.0     1988/03/22 1534   ------wr     448      2063 PARTLIB
+  0.0     1988/03/22 1534   ------wr     452      2015 POD
+  0.0     1988/03/22 1534   ------wr     45B      2071 PODLIB
+  0.0     1988/03/22 1534   ------wr     465      2361 PROGLIB
+  0.0     1988/03/22 1534   ------wr     470     32776 PROGRAM
+  0.0     1988/03/22 1535   ------wr     471      1865 REF
+  0.0     1988/03/22 1535   ------wr     47A      3053 RESPONSE
+  0.0     1988/03/22 1535   ------wr     487      2430 TEXT
+  0.0     1988/03/22 1535   ------wr     492      3677 USERDISK
+  0.0     1988/03/22 1535   ------wr     4A2      4645 UUT
+  0.0     1988/03/22 1535   ------wr     4B6      2835 VTERM
+
+                           Directory of 9100A-PROGRAMMER_SYSTEM_DISK-V3.0__03-MG.rawtmp,/SYSDISK/PROFILES
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1987/10/16 1315   d-ewrewr      15       128 ..
+  0.0     1987/10/16 1316   d-ewrewr      27       544 .
+  0.0     1988/03/22 1533   ------wr     405       540 DEBUG
+  0.0     1988/03/22 1533   ------wr     406       651 HELPLIB
+  0.0     1988/03/22 1534   ------wr     407       684 NODE
+  0.0     1988/03/22 1533   ------wr     408       658 PART
+  0.0     1988/03/22 1533   ------wr     409       648 PARTLIB
+  0.0     1988/03/22 1534   ------wr     40A       651 POD
+  0.0     1988/03/22 1533   ------wr     414       639 PODLIB
+  0.0     1988/03/22 1534   ------wr     415       648 PROGLIB
+  0.0     1988/03/22 1534   ------wr     416       697 PROGRAM
+  0.0     1988/03/22 1533   ------wr     417       657 REF
+  0.0     1988/03/22 1534   ------wr     418       729 RESPONSE
+  0.0     1988/03/22 1534   ------wr     419       753 TEXT
+  0.0     1988/03/22 1533   ------wr     41A       663 USERDISK
+  0.0     1988/03/22 1534   ------wr     41B       717 UUT
+  0.0     1988/03/22 1534   ------wr     41C       382 VTERM
+
+                           Directory of 9100A-PROGRAMMER_SYSTEM_DISK-V3.0__03-MG.rawtmp,/CMDS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1987/10/16 1218   d-ewrewr       3       224 ..
+  0.0     1988/02/16 1250   d-ewrewr     40B       320 .
+  0.251   1988/03/22 1530   -----ewr     404     63022 cadtrans
