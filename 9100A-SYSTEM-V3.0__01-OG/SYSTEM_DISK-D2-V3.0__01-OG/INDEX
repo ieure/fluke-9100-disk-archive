@@ -1,0 +1,29 @@
+
+                           Directory of SYSTEM_DISK-D2-V3.0__01-OG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/02/10 1254   d-ewrewr       3       160 ..
+  0.1     1988/02/10 1254   d-ewrewr       3       160 .
+  0.0     1987/12/01 1549   d-ewrewr       C       544 ROM
+  0.0     1900/04/29 1713   d-ewrewr      15       288 CMDS
+  0.0     1988/01/20 0136   ------wr     4CA         4 .xxx
+
+                           Directory of SYSTEM_DISK-D2-V3.0__01-OG.rawtmp,/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/02/10 1254   d-ewrewr       3       160 ..
+  0.0     1987/12/01 1549   d-ewrewr       C       544 .
+  0.251   1988/03/22 1527   -----ewr      30    245164 level1
+  0.251   1988/03/22 1524   -----ewr     3EC    306238 rtsctl
+
+                           Directory of SYSTEM_DISK-D2-V3.0__01-OG.rawtmp,/CMDS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/02/10 1254   d-ewrewr       3       160 ..
+  0.0     1900/04/29 1713   d-ewrewr      15       288 .
+  0.251   1988/03/22 1530   -----ewr     3ED      4578 gfi_init
+  0.251   1988/03/22 1530   -----ewr     400      3034 iomod_init
+  0.251   1988/03/22 1530   -----ewr     40D     10338 pod_init
+  0.251   1988/03/22 1530   -----ewr     437      1308 read_test
+  0.251   1988/03/22 1530   -----ewr     438      1930 runuut_led
+  0.251   1988/03/22 1530   -----ewr      1E      4334 vid_init
