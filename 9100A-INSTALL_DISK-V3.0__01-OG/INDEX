@@ -1,0 +1,150 @@
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/03/23 0929   d-ewrewr       3       448 ..
+  0.1     1988/03/23 0929   d-ewrewr       3       448 .
+  0.0     1987/10/29 1044   d-ewrewr       C        64 SYSDISK
+  0.0     1987/10/29 1044   d-ewrewr      15        64 PARTLIB$PARTLIB
+  0.0     1987/10/29 1044   d-ewrewr      1E        64 PODLIB$PODLIB
+  0.0     1987/10/29 1044   d-ewrewr      27       224 PROGLIB$PROGLIB
+  0.0     1987/10/29 1044   d-ewrewr      30        64 HELPLIB$HELPLIB
+  0.0     1987/10/29 1044   ------wr      39         0 MEVALID
+  0.0     1988/01/27 0907   d-ewrewr      3A       352 CMDS
+  0.0     1988/01/08 1057   d-ewrewr      A4       256 USERDISK
+  0.248   1988/01/20 0137   ------wr      6F         4 .xxx
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/03/23 0929   d-ewrewr       3       448 ..
+  0.0     1987/10/29 1044   d-ewrewr       C        64 .
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/03/23 0929   d-ewrewr       3       448 ..
+  0.0     1987/10/29 1044   d-ewrewr      15        64 .
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/03/23 0929   d-ewrewr       3       448 ..
+  0.0     1987/10/29 1044   d-ewrewr      1E        64 .
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/03/23 0929   d-ewrewr       3       448 ..
+  0.0     1987/10/29 1044   d-ewrewr      27       224 .
+  0.0     1988/03/03 1329   ---w--wr      B3      4274 PROGRAM$CONVERT
+  0.0     1988/03/03 1342   ---w--wr      B8      3231 PROGRAM$PURGE
+  0.0     1988/03/23 0948   ------wr      9E      1583 PROGRAM$CHECK
+  0.0     1988/01/08 1119   ------wr      A5        81 PROGRAM$CLEAN
+  0.0     1988/03/03 1331   ---w--wr      69      2040 PROGRAM$LIST
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/03/23 0929   d-ewrewr       3       448 ..
+  0.0     1987/10/29 1044   d-ewrewr      30        64 .
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/CMDS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/03/23 0929   d-ewrewr       3       448 ..
+  0.0     1988/01/27 0907   d-ewrewr      3A       352 .
+  0.251   1988/03/22 1531   -----ewr      43     17828 flat
+  0.251   1988/03/22 1531   -----ewr      51      3916 clean
+  0.0     1987/03/16 1853   -----ewr      D1      3070 load
+  0.251   1988/03/22 1531   -----ewr      44     27776 os9rcnv
+  0.251   1988/03/22 1531   -----ewr      45      1416 loadmod
+  0.251   1988/03/22 1531   -----ewr      46      1410 unloadmod
+  0.251   1988/03/22 1531   -----ewr      47      2190 checkmod
+  0.251   1988/03/22 1531   -----ewr      62      3062 purge
+  0.251   1988/03/22 1531   -----ewr      63      4708 udlist
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/USERDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/03/23 0929   d-ewrewr       3       448 ..
+  0.0     1988/01/08 1057   d-ewrewr      A4       256 .
+  0.0     1988/01/08 1055   d-ewrewr      C1        96 HELPLIB
+  0.0     1988/01/08 1055   d-ewrewr     1A4        96 PARTLIB
+  0.0     1988/01/08 1055   d-ewrewr     1B6        96 PODLIB
+  0.0     1988/01/08 1055   d-ewrewr     1C8        96 PROGLIB
+  0.0     1988/01/08 1057   d-ewrewr      AC        64 TEXT
+  0.0     1988/01/08 1057   d-ewrewr      AD        64 UUT
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/USERDISK/HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/01/08 1057   d-ewrewr      A4       256 ..
+  0.0     1988/01/08 1055   d-ewrewr      C1        96 .
+  0.0     1988/01/08 1055   d-ewrewr      C2        64 HELPLIB
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/USERDISK/HELPLIB/HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/01/08 1055   d-ewrewr      C1        96 ..
+  0.0     1988/01/08 1055   d-ewrewr      C2        64 .
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/USERDISK/PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/01/08 1057   d-ewrewr      A4       256 ..
+  0.0     1988/01/08 1055   d-ewrewr     1A4        96 .
+  0.0     1988/01/08 1055   d-ewrewr     1AD        64 PARTLIB
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/USERDISK/PARTLIB/PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/01/08 1055   d-ewrewr     1A4        96 ..
+  0.0     1988/01/08 1055   d-ewrewr     1AD        64 .
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/USERDISK/PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/01/08 1057   d-ewrewr      A4       256 ..
+  0.0     1988/01/08 1055   d-ewrewr     1B6        96 .
+  0.0     1988/01/08 1055   d-ewrewr     1BF        64 PODLIB
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/USERDISK/PODLIB/PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/01/08 1055   d-ewrewr     1B6        96 ..
+  0.0     1988/01/08 1055   d-ewrewr     1BF        64 .
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/USERDISK/PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/01/08 1057   d-ewrewr      A4       256 ..
+  0.0     1988/01/08 1055   d-ewrewr     1C8        96 .
+  0.0     1988/03/23 0930   d-ewrewr     1D1        96 PROGLIB
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/USERDISK/PROGLIB/PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/01/08 1055   d-ewrewr     1C8        96 ..
+  0.0     1988/03/23 0930   d-ewrewr     1D1        96 .
+  0.0     1988/03/23 0951   d-ewrewr     1DA       128 PROGRAM
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/USERDISK/PROGLIB/PROGLIB/PROGRAM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/03/23 0930   d-ewrewr     1D1        96 ..
+  0.0     1988/03/23 0951   d-ewrewr     1DA       128 .
+  0.0     1988/03/23 0954   ------wr      64      1582 CHECK
+  0.0     1988/01/08 1116   ------wr      AE        81 CLEAN
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/USERDISK/TEXT
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/01/08 1057   d-ewrewr      A4       256 ..
+  0.0     1988/01/08 1057   d-ewrewr      AC        64 .
+
+                           Directory of 9100A-INSTALL_DISK-V3.0__01-OG.rawtmp,/USERDISK/UUT
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/01/08 1057   d-ewrewr      A4       256 ..
+  0.0     1988/01/08 1057   d-ewrewr      AD        64 .
