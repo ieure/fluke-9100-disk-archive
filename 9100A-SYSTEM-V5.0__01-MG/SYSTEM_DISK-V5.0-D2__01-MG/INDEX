@@ -1,0 +1,16 @@
+
+                           Directory of SYSTEM_DISK-V5.0-D2__01-MG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/04/07 1046   d-ewrewr       3       128 ..
+  0.1     1990/04/07 1046   d-ewrewr       3       128 .
+  0.0     1990/04/07 1105   d-ewrewr       C       128 ROM
+  0.0     1990/11/30 0829   ------wr     939        10 .xxx
+
+                           Directory of SYSTEM_DISK-V5.0-D2__01-MG.rawtmp,/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/04/07 1046   d-ewrewr       3       128 ..
+  0.0     1990/04/07 1105   d-ewrewr       C       128 .
+  0.0     1990/04/05 1104   -----ewr      15    306540 level1
+  0.0     1990/04/12 1009   -----ewr     4C4    291750 appl

@@ -1,0 +1,513 @@
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/03/28 0814   d-ewrewr       3       288 ..
+  0.1     1990/03/28 0814   d-ewrewr       3       288 .
+  0.0     1990/03/28 0814   d-ewrewr       C        64 SYSDISK
+  0.0     1990/04/09 0858   d-ewrewr      15      6816 PARTLIB$PARTLIB
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 PODLIB$PODLIB
+  0.0     1990/03/28 0814   d-ewrewr      27        96 PROGLIB$PROGLIB
+  0.0     1990/03/28 0814   d-ewrewr      30      2016 HELPLIB$HELPLIB
+  0.0     1990/03/28 0815   ------wr      39         0 MEVALID
+  0.0     1990/03/28 1257   d-ewrewr     3A9       384 UUT$ABC
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/03/28 0814   d-ewrewr       3       288 ..
+  0.0     1990/03/28 0814   d-ewrewr       C        64 .
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/03/28 0814   d-ewrewr       3       288 ..
+  0.0     1990/04/09 0858   d-ewrewr      15      6816 .
+  0.0     1990/03/28 0839   ---wr-wr     31A       404 PART$146818SP
+  0.0     1990/03/28 0839   ---wr-wr     31D       187 PART$1797
+  0.0     1990/03/28 0839   ---wr-wr     31F       423 PART$2016
+  0.0     1990/03/28 0839   ---wr-wr     322        43 PART$2444
+  0.0     1990/03/28 0839   ---wr-wr     324        53 PART$2531
+  0.0     1990/03/28 0839   ---wr-wr     326      1385 PART$2674
+  0.0     1990/03/28 0839   ---wr-wr     32D       510 PART$2675
+  0.0     1990/03/28 0839   ---wr-wr     330      1283 PART$2681
+  0.0     1990/03/28 0839   ---wr-wr     337       512 PART$27128
+  0.0     1990/03/28 0839   ---wr-wr     33A       488 PART$27256
+  0.0     1990/03/28 0840   ---wr-wr     33D       363 PART$28S42
+  0.0     1990/03/28 0840   ---wr-wr     340       109 PART$4000
+  0.0     1990/03/28 0840   ---wr-wr     342       111 PART$41128
+  0.0     1990/03/28 0840   ---wr-wr     344       107 PART$4164
+  0.0     1990/03/28 0840   ---wr-wr     346       131 PART$4256
+  0.0     1990/03/28 0840   ---wr-wr     348       433 PART$68000
+  0.0     1990/03/28 0840   ---wr-wr     34B        90 PART$7400
+  0.0     1990/03/28 0840   ---wr-wr     34D        89 PART$7401
+  0.0     1990/03/28 0840   ---wr-wr     34F        89 PART$7402
+  0.0     1990/03/28 0840   ---wr-wr     351        90 PART$7403
+  0.0     1990/03/28 0840   ---wr-wr     353        87 PART$7404
+  0.0     1990/03/28 0840   ---wr-wr     355        87 PART$7405
+  0.0     1990/03/28 0840   ---wr-wr     357        87 PART$7406
+  0.0     1990/03/28 0840   ---wr-wr     359        87 PART$7407
+  0.0     1990/03/28 0840   ---wr-wr     35B        90 PART$7408
+  0.0     1990/03/28 0840   ---wr-wr     35D        90 PART$7409
+  0.0     1990/03/28 0841   ---wr-wr     35F        91 PART$7410
+  0.0     1990/03/28 0841   ---wr-wr     361       111 PART$74107
+  0.0     1990/03/28 0841   ---wr-wr     363       129 PART$74109
+  0.0     1990/03/28 0841   ---wr-wr     365        91 PART$7411
+  0.0     1990/03/28 0841   ---wr-wr     367       129 PART$74111
+  0.0     1990/03/28 0841   ---wr-wr     369       131 PART$74112
+  0.0     1990/03/28 0841   ---wr-wr     36B       111 PART$74113
+  0.0     1990/03/28 0841   ---wr-wr     36D       121 PART$74114
+  0.0     1990/03/28 0841   ---wr-wr     36F        91 PART$7412
+  0.0     1990/03/28 0841   ---wr-wr     371        97 PART$74121
+  0.0     1990/03/28 0841   ---wr-wr     373       105 PART$74122
+  0.0     1990/03/28 0841   ---wr-wr     375       127 PART$74123
+  0.0     1990/03/28 0841   ---wr-wr     377        90 PART$74125
+  0.0     1990/03/28 0841   ---wr-wr     379        90 PART$74126
+  0.0     1990/03/28 0841   ---wr-wr     37B        89 PART$74128
+  0.0     1990/03/28 0841   ---wr-wr     37D        93 PART$7413
+  0.0     1990/03/28 0841   ---wr-wr     37F       179 PART$74131
+  0.0     1990/03/28 0842   ---wr-wr     381        90 PART$74132
+  0.0     1990/03/28 0842   ---wr-wr     383       109 PART$74133
+  0.0     1990/03/28 0842   ---wr-wr     385       109 PART$74134
+  0.0     1990/03/28 0842   ---wr-wr     387       179 PART$74138
+  0.0     1990/03/28 0842   ---wr-wr     389       143 PART$74139
+  0.0     1990/03/28 0842   ---wr-wr     38B        87 PART$7414
+  0.0     1990/03/28 0842   ---wr-wr     38D       209 PART$74148
+  0.0     1990/03/28 0842   ---wr-wr     38F        91 PART$7415
+  0.0     1990/03/28 0842   ---wr-wr     391       164 PART$74150
+  0.0     1990/03/28 0842   ---wr-wr     393       148 PART$74151
+  0.0     1990/03/28 0842   ---wr-wr     395       112 PART$74153
+  0.0     1990/03/28 0842   ---wr-wr     397       119 PART$74157
+  0.0     1990/03/28 0842   ---wr-wr     399       119 PART$74158
+  0.0     1990/03/28 0842   ---wr-wr     39B        87 PART$7416
+  0.0     1990/03/28 0842   ---wr-wr     39D       175 PART$74160
+  0.0     1990/03/28 0842   ---wr-wr     39F       175 PART$74161
+  0.0     1990/03/28 0843   ---wr-wr     3A1       175 PART$74162
+  0.0     1990/03/28 0843   ---wr-wr     3A3       175 PART$74163
+  0.0     1990/03/28 0843   ---wr-wr     3A5       139 PART$74164
+  0.0     1990/03/28 0843   ---wr-wr     3A7       142 PART$74165
+  0.0     1990/03/28 0843   ---wr-wr     3B2       109 PART$74166
+  0.0     1990/03/28 0843   ---wr-wr     3B4        87 PART$7417
+  0.0     1990/03/28 0843   ---wr-wr     3B6       120 PART$74174
+  0.0     1990/03/28 0843   ---wr-wr     3B8       135 PART$74175
+  0.0     1990/03/28 0843   ---wr-wr     3BA        88 PART$7420
+  0.0     1990/03/28 0843   ---wr-wr     3BC        88 PART$7421
+  0.0     1990/03/28 0843   ---wr-wr     3BE        88 PART$7422
+  0.0     1990/03/28 0843   ---wr-wr     3C0       107 PART$7423
+  0.0     1990/03/28 0843   ---wr-wr     3C2        90 PART$7424
+  0.0     1990/03/28 0843   ---wr-wr     3C4       139 PART$74240
+  0.0     1990/03/28 0843   ---wr-wr     3C6       139 PART$74241
+  0.0     1990/03/28 0843   ---wr-wr     3C8       139 PART$74244
+  0.0     1990/03/28 0843   ---wr-wr     3CA       227 PART$74245
+  0.0     1990/03/28 0844   ---wr-wr     3CC        93 PART$7425
+  0.0     1990/03/28 0844   ---wr-wr     3CE       112 PART$74253
+  0.0     1990/03/28 0844   ---wr-wr     3D0       119 PART$74257
+  0.0     1990/03/28 0844   ---wr-wr     3D2        90 PART$7426
+  0.0     1990/03/28 0844   ---wr-wr     3D4        93 PART$74260
+  0.0     1990/03/28 0844   ---wr-wr     3D6        91 PART$7427
+  0.0     1990/03/28 0844   ---wr-wr     3D8       159 PART$74273
+  0.0     1990/03/28 0844   ---wr-wr     3DA        89 PART$7428
+  0.0     1990/03/28 0844   ---wr-wr     3DC       118 PART$74280
+  0.0     1990/03/28 0844   ---wr-wr     3DE       227 PART$74288
+  0.0     1990/03/28 0844   ---wr-wr     3E0        86 PART$7430
+  0.0     1990/03/28 0844   ---wr-wr     3E2       101 PART$7431
+  0.0     1990/03/28 0844   ---wr-wr     3E4        90 PART$7432
+  0.0     1990/03/28 0844   ---wr-wr     3E6        89 PART$7433
+  0.0     1990/03/28 0844   ---wr-wr     3E8        87 PART$7434
+  0.0     1990/03/28 0844   ---wr-wr     3EA        87 PART$7435
+  0.0     1990/03/28 0845   ---wr-wr     3EC        90 PART$7437
+  0.0     1990/03/28 0845   ---wr-wr     3EE       159 PART$74373
+  0.0     1990/03/28 0845   ---wr-wr     3F0       159 PART$74374
+  0.0     1990/03/28 0845   ---wr-wr     3F2        90 PART$7438
+  0.0     1990/03/28 0845   ---wr-wr     3F4       123 PART$74390
+  0.0     1990/03/28 0845   ---wr-wr     3F6       193 PART$7446
+  0.0     1990/03/28 0845   ---wr-wr     3F8       193 PART$7447
+  0.0     1990/03/28 0845   ---wr-wr     3FA       193 PART$7448
+  0.0     1990/03/28 0845   ---wr-wr     3FC        87 PART$7451
+  0.0     1990/03/28 0845   ---wr-wr     3FE       136 PART$74521
+  0.0     1990/03/28 0845   ---wr-wr     400       292 PART$74543
+  0.0     1990/03/28 0845   ---wr-wr     403       155 PART$74573
+  0.0     1990/03/28 0845   ---wr-wr     405       219 PART$74590
+  0.0     1990/03/28 0845   ---wr-wr     407      1584 PART$74612
+  0.0     1990/03/28 0845   ---wr-wr     40F        95 PART$7464
+  0.0     1990/03/28 0846   ---wr-wr     411       405 PART$74646
+  0.0     1990/03/28 0846   ---wr-wr     414       179 PART$74657A
+  0.0     1990/03/28 0846   ---wr-wr     416       111 PART$7472
+  0.0     1990/03/28 0846   ---wr-wr     418       107 PART$7473
+  0.0     1990/03/28 0846   ---wr-wr     41A       111 PART$7474
+  0.0     1990/03/28 0846   ---wr-wr     41C       119 PART$7475
+  0.0     1990/03/28 0846   ---wr-wr     41E       123 PART$7476
+  0.0     1990/03/28 0846   ---wr-wr     420       139 PART$74760
+  0.0     1990/03/28 0846   ---wr-wr     422        90 PART$7486
+  0.0     1990/03/28 0846   ---wr-wr     424       112 PART$7490
+  0.0     1990/03/28 0846   ---wr-wr     426        96 PART$7492
+  0.0     1990/03/28 0846   ---wr-wr     428        96 PART$7493
+  0.0     1990/03/28 0846   ---wr-wr     42A       115 PART$74LS78
+  0.0     1990/03/28 0846   ---wr-wr     42C        88 PART$74S140
+  0.0     1990/03/28 0846   ---wr-wr     42E        87 PART$74S51
+  0.0     1990/03/28 0847   ---wr-wr     430        49 PART$75150
+  0.0     1990/03/28 0847   ---wr-wr     432        75 PART$75152
+  0.0     1990/03/28 0847   ---wr-wr     434        57 PART$75477
+  0.0     1990/03/28 0847   ---wr-wr     436        52 PART$7705
+  0.0     1990/03/28 0847   ---wr-wr     438       115 PART$7SEGLED
+  0.0     1990/03/28 0847   ---wr-wr     443       427 PART$80286
+  0.0     1990/03/28 0847   ---wr-wr     446      1591 PART$80287
+  0.0     1990/03/28 0847   ---wr-wr     44E      4488 PART$80MEMCON
+  0.0     1990/03/28 0847   ---wr-wr     461       153 PART$8224
+  0.0     1990/03/28 0847   ---wr-wr     463       144 PART$82284
+  0.0     1990/03/28 0847   ---wr-wr     465       208 PART$82288
+  0.0     1990/03/28 0848   ---wr-wr     467      1786 PART$8237
+  0.0     1990/03/28 0848   ---wr-wr     46F       119 PART$82384
+  0.0     1990/03/28 0848   ---wr-wr     471       408 PART$8254
+  0.0     1990/03/28 0848   ---wr-wr     474      1220 PART$8255
+  0.0     1990/03/28 0848   ---wr-wr     47A       123 PART$8259
+  0.0     1990/03/28 0848   ---wr-wr     47C       165 PART$8284
+  0.0     1990/03/28 0848   ---wr-wr     47E       289 PART$8288
+  0.0     1990/03/28 0848   ---wr-wr     481       123 PART$9229
+  0.0     1990/03/28 0848   ---wr-wr     483        25 PART$CAP
+  0.0     1990/03/28 0848   ---wr-wr     485        25 PART$CAPACITOR
+  0.0     1990/03/28 0848   ---wr-wr     487       315 PART$CONN1
+  0.0     1990/03/28 0848   ---wr-wr     48A        51 PART$CONN10
+  0.0     1990/03/28 0848   ---wr-wr     48C        71 PART$CONN15
+  0.0     1990/03/28 0848   ---wr-wr     48E        19 PART$CONN2
+  0.0     1990/03/28 0849   ---wr-wr     490        95 PART$CONN20
+  0.0     1990/03/28 0849   ---wr-wr     492       111 PART$CONN25
+  0.0     1990/03/28 0849   ---wr-wr     494       119 PART$CONN25DB
+  0.0     1990/03/28 0849   ---wr-wr     496       235 PART$CONN32
+  0.0     1990/03/28 0849   ---wr-wr     498       147 PART$CONN34
+  0.0     1990/03/28 0849   ---wr-wr     49A        27 PART$CONN4
+  0.0     1990/03/28 0849   ---wr-wr     49C       171 PART$CONN40
+  0.0     1990/03/28 0849   ---wr-wr     49E        31 PART$CONN5
+  0.0     1990/03/28 0849   ---wr-wr     4A0        47 PART$CONN5DIN
+  0.0     1990/03/28 0849   ---wr-wr     4A2       283 PART$CONN68
+  0.0     1990/03/28 0849   ---wr-wr     4A5       315 PART$CONN76
+  0.0     1990/03/28 0849   ---wr-wr     4A8        49 PART$CONN8
+  0.0     1990/03/28 0849   ---wr-wr     4AA        47 PART$CONN9
+  0.0     1990/03/28 0849   ---wr-wr     4AC       135 PART$CONNA
+  0.0     1990/03/28 0849   ---wr-wr     4AE       135 PART$CONNB
+  0.0     1990/03/28 0849   ---wr-wr     4B0        83 PART$CONNC
+  0.0     1990/03/28 0850   ---wr-wr     4B2        83 PART$CONND
+  0.0     1990/03/28 0850   ---wr-wr     4B4        31 PART$CONN_KEYBD
+  0.0     1990/03/28 0850   ---wr-wr     4B6       117 PART$CONN_RS232
+  0.0     1990/03/28 0850   ---wr-wr     4B8        47 PART$CONN_VIDEO
+  0.0     1990/03/28 0850   ---wr-wr     4BA        85 PART$DELAY1
+  0.0     1990/03/28 0850   ---wr-wr     4BC        22 PART$DIODE
+  0.0     1990/03/28 0850   ---wr-wr     4BE        22 PART$DIODE1
+  0.0     1990/03/28 0850   ---wr-wr     4C0        38 PART$DIODE_3
+  0.0     1990/03/28 0850   ---wr-wr     4C2       130 PART$DIPSWITCH8
+  0.0     1990/03/28 0850   ---wr-wr     4C4        25 PART$FUSE
+  0.0     1990/03/28 0850   ---wr-wr     4C6        15 PART$HOLE
+  0.0     1990/03/28 0850   ---wr-wr     4C8        25 PART$INDUC
+  0.0     1990/03/28 0850   ---wr-wr     4CA        49 PART$JMPBLK
+  0.0     1990/03/28 0850   ---wr-wr     4CC        25 PART$JMPR
+  0.0     1990/03/28 0850   ---wr-wr     4CE        25 PART$JMPRCL
+  0.0     1990/03/28 0850   ---wr-wr     4D0        22 PART$KEYSWITCH
+  0.0     1990/03/28 0851   ---wr-wr     4D2        22 PART$LED
+  0.0     1990/03/28 0851   ---wr-wr     4D4        89 PART$LM339
+  0.0     1990/03/28 0851   ---wr-wr     4D6       147 PART$M27256
+  0.0     1990/03/28 0851   ---wr-wr     4D8      1198 PART$M80386
+  0.0     1990/03/28 0851   ---wr-wr     4DE       102 PART$MAX232
+  0.0     1990/03/28 0851   ---wr-wr     4E0        87 PART$MC14069
+  0.0     1990/03/28 0851   ---wr-wr     4E2        78 PART$NETWORK10
+  0.0     1990/03/28 0851   ---wr-wr     4E4        67 PART$OSCILLATOR
+  0.0     1990/03/28 0851   ---wr-wr     4E6        67 PART$OSC_32
+  0.0     1990/03/28 0851   ---wr-wr     4E8       298 PART$PAL16L8
+  0.0     1990/03/28 0851   ---wr-wr     4EB        19 PART$PULLDWN
+  0.0     1990/03/28 0851   ---wr-wr     4ED        19 PART$PULLUP
+  0.0     1990/03/28 0851   ---wr-wr     4F8        91 PART$PWRCONN
+  0.0     1990/03/28 0851   ---wr-wr     4FA        25 PART$RES
+  0.0     1990/03/28 0852   ---wr-wr     4FC        25 PART$RESISTOR
+  0.0     1990/03/28 0852   ---wr-wr     4FE        99 PART$RPAC
+  0.0     1990/03/28 0852   ---wr-wr     500       135 PART$RPCK15
+  0.0     1990/03/28 0852   ---wr-wr     502       130 PART$RPCK8
+  0.0     1990/03/28 0852   ---wr-wr     504        28 PART$SLIDESW
+  0.0     1990/03/28 0852   ---wr-wr     506        75 PART$SPARE16
+  0.0     1990/03/28 0852   ---wr-wr     508        91 PART$SPARE20
+  0.0     1990/03/28 0852   ---wr-wr     50A       130 PART$SW16DIP
+  0.0     1990/03/28 0852   ---wr-wr     50C       130 PART$SWITCH1
+  0.0     1990/03/28 0852   ---wr-wr     50E        33 PART$SW_4P
+  0.0     1990/03/28 0852   ---wr-wr     510        15 PART$TP
+  0.0     1990/03/28 0852   ---wr-wr     512        33 PART$TRANSISTOR
+  0.0     1990/03/28 0852   ---wr-wr     514        27 PART$TRAN_MOS_4
+  0.0     1990/03/28 0852   ---wr-wr     516       140 PART$XFMR_16
+  0.0     1990/03/28 0853   ---wr-wr     518        22 PART$XTAL
+  0.0     1988/10/21 0902   ---wr-wr     61D      2576 PART$8042SP
+  0.0     1988/10/17 1313   ---wr-wr     629      1948 PART$8237SP
+  0.0     1988/10/17 1315   ---wr-wr     632        25 PART$XTALSP
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/03/28 0814   d-ewrewr       3       288 ..
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 .
+  0.0     1990/03/28 0819   d-----wr      3A       512 POD$1802
+  0.0     1990/03/28 0821   d-----wr      82        96 POD$6502
+  0.0     1990/03/28 0821   d-----wr      90        96 POD$6800
+  0.0     1990/03/28 0822   d-----wr      9E       416 POD$68000
+  0.0     1990/03/28 0824   d-----wr      F7       384 POD$68000L
+  0.0     1990/03/28 0826   d-----wr     14E       384 POD$68000P
+  0.0     1990/03/28 0828   d-----wr     1A5        96 POD$6802
+  0.0     1990/03/28 0828   d-----wr     1B3       160 POD$6809
+  0.0     1990/03/28 0829   d-----wr     1CC       160 POD$6809E
+  0.0     1990/03/28 0829   d-----wr     1E5        96 POD$9900
+  0.0     1990/03/28 0830   d-----wr     1F4        96 POD$Z80
+  0.0     1990/03/28 0830   d-----wr     202       352 POD$Z8000
+  0.0     1990/03/28 0832   d-----wr     25F       352 POD$Z8001
+  0.0     1990/03/28 0834   d-----wr     2BD       352 POD$Z8002
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB/POD$1802
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 ..
+  0.0     1990/03/28 0819   d-----wr      3A       512 .
+  0.0     1990/03/28 0819   ---wr-wr      43      1361 PODDB$POD_FILE
+  0.0     1990/03/28 0820   ---wr-wr      4A       231 PROGRAM$CLR_MBIO
+  0.0     1990/03/28 0820   ---wr-wr      4C       395 PROGRAM$DMA_IND
+  0.0     1990/03/28 0820   ---wr-wr      4F       400 PROGRAM$DMA_OUTD
+  0.0     1990/03/28 0820   ---wr-wr      52       998 PROGRAM$QWK_IO_R
+  0.0     1990/03/28 0820   ---wr-wr      57      1237 PROGRAM$QWK_IO_W
+  0.0     1990/03/28 0820   ---wr-wr      5D       967 PROGRAM$QWK_RD
+  0.0     1990/03/28 0820   ---wr-wr      62      1259 PROGRAM$QWK_WR
+  0.0     1990/03/28 0820   ---wr-wr      68       309 PROGRAM$RD_DMAR
+  0.0     1990/03/28 0821   ---wr-wr      6B       319 PROGRAM$RD_TRV
+  0.0     1990/03/28 0821   ---wr-wr      6E       958 PROGRAM$SET_DMAR
+  0.0     1990/03/28 0821   ---wr-wr      73      1154 PROGRAM$SET_MBIO
+  0.0     1990/03/28 0821   ---wr-wr      79       816 PROGRAM$SET_TRV
+  0.0     1990/03/28 0821   ---wr-wr      7E       703 PROGRAM$WR_DMA_V
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB/POD$6502
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 ..
+  0.0     1990/03/28 0821   d-----wr      82        96 .
+  0.0     1990/03/28 0821   ---wr-wr      8B       839 PODDB$POD_FILE
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB/POD$6800
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 ..
+  0.0     1990/03/28 0821   d-----wr      90        96 .
+  0.0     1990/03/28 0822   ---wr-wr      99       840 PODDB$POD_FILE
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB/POD$68000
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 ..
+  0.0     1990/03/28 0822   d-----wr      9E       416 .
+  0.0     1990/03/28 0822   ---wr-wr      A7      2436 PODDB$POD_FILE
+  0.0     1990/03/28 0822   ---wr-wr      B2      1709 PROGRAM$QWK_RD
+  0.0     1990/03/28 0823   ---wr-wr      BA      1881 PROGRAM$QWK_WR
+  0.0     1990/03/28 0823   ---wr-wr      C3       540 PROGRAM$FRC_INT
+  0.0     1990/03/28 0823   ---wr-wr      C7       603 PROGRAM$FRC_RINT
+  0.0     1990/03/28 0823   ---wr-wr      CB      4078 PROGRAM$QWK_RAM
+  0.0     1990/03/28 0823   ---wr-wr      DC      3652 PROGRAM$QWK_ROM
+  0.0     1990/03/28 0824   ---wr-wr      EC       494 PROGRAM$RD_NOARM
+  0.0     1990/03/28 0824   ---wr-wr      EF       486 PROGRAM$RD_REARM
+  0.0     1990/03/28 0824   ---wr-wr      F2       266 PROGRAM$UUT_RST
+  0.0     1990/03/28 0824   ---wr-wr      F5       204 PROGRAM$RESET
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB/POD$68000L
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 ..
+  0.0     1990/03/28 0824   d-----wr      F7       384 .
+  0.0     1990/03/28 0824   ---wr-wr     100      2465 PODDB$POD_FILE
+  0.0     1990/03/28 0825   ---wr-wr     10B      1709 PROGRAM$QWK_RD
+  0.0     1990/03/28 0825   ---wr-wr     113      1881 PROGRAM$QWK_WR
+  0.0     1990/03/28 0825   ---wr-wr     11C       540 PROGRAM$FRC_INT
+  0.0     1990/03/28 0825   ---wr-wr     120       603 PROGRAM$FRC_RINT
+  0.0     1990/03/28 0825   ---wr-wr     124      4078 PROGRAM$QWK_RAM
+  0.0     1990/03/28 0825   ---wr-wr     135      3654 PROGRAM$QWK_ROM
+  0.0     1990/03/28 0826   ---wr-wr     145       494 PROGRAM$RD_NOARM
+  0.0     1990/03/28 0826   ---wr-wr     148       486 PROGRAM$RD_REARM
+  0.0     1990/03/28 0826   ---wr-wr     14B       266 PROGRAM$UUT_RST
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB/POD$68000P
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 ..
+  0.0     1990/03/28 0826   d-----wr     14E       384 .
+  0.0     1990/03/28 0826   ---wr-wr     157      2458 PODDB$POD_FILE
+  0.0     1990/03/28 0827   ---wr-wr     162      1709 PROGRAM$QWK_RD
+  0.0     1990/03/28 0827   ---wr-wr     16A      1881 PROGRAM$QWK_WR
+  0.0     1990/03/28 0827   ---wr-wr     173       540 PROGRAM$FRC_INT
+  0.0     1990/03/28 0827   ---wr-wr     177       603 PROGRAM$FRC_RINT
+  0.0     1990/03/28 0827   ---wr-wr     17B      4078 PROGRAM$QWK_RAM
+  0.0     1990/03/28 0827   ---wr-wr     18C      3654 PROGRAM$QWK_ROM
+  0.0     1990/03/28 0828   ---wr-wr     19C       494 PROGRAM$RD_NOARM
+  0.0     1990/03/28 0828   ---wr-wr     19F       486 PROGRAM$RD_REARM
+  0.0     1990/03/28 0828   ---wr-wr     1A2       266 PROGRAM$UUT_RST
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB/POD$6802
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 ..
+  0.0     1990/03/28 0828   d-----wr     1A5        96 .
+  0.0     1990/03/28 0828   ---wr-wr     1AE       848 PODDB$POD_FILE
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB/POD$6809
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 ..
+  0.0     1990/03/28 0828   d-----wr     1B3       160 .
+  0.0     1990/03/28 0828   ---wr-wr     1BC       889 PODDB$POD_FILE
+  0.0     1990/03/28 0828   ---wr-wr     1C1       975 PROGRAM$QWK_RD
+  0.0     1990/03/28 0829   ---wr-wr     1C6      1267 PROGRAM$QWK_WR
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB/POD$6809E
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 ..
+  0.0     1990/03/28 0829   d-----wr     1CC       160 .
+  0.0     1990/03/28 0829   ---wr-wr     1D5       855 PODDB$POD_FILE
+  0.0     1990/03/28 0829   ---wr-wr     1DA       975 PROGRAM$QWK_RD
+  0.0     1990/03/28 0829   ---wr-wr     1DF      1267 PROGRAM$QWK_WR
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB/POD$9900
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 ..
+  0.0     1990/03/28 0829   d-----wr     1E5        96 .
+  0.0     1990/03/28 0829   ---wr-wr     1EE      1125 PODDB$POD_FILE
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB/POD$Z80
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 ..
+  0.0     1990/03/28 0830   d-----wr     1F4        96 .
+  0.0     1990/03/28 0830   ---wr-wr     1FD       920 PODDB$POD_FILE
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB/POD$Z8000
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 ..
+  0.0     1990/03/28 0830   d-----wr     202       352 .
+  0.0     1990/03/28 0830   ---wr-wr     20B      2658 PODDB$POD_FILE
+  0.0     1990/03/28 0830   ---wr-wr     217      2495 PROGRAM$QWK_RD
+  0.0     1990/03/28 0831   ---wr-wr     222      2857 PROGRAM$QWK_WR
+  0.0     1990/03/28 0831   ---wr-wr     22F      4797 PROGRAM$QWK_RAM
+  0.0     1990/03/28 0831   ---wr-wr     243      3769 PROGRAM$QWK_ROM
+  0.0     1990/03/28 0831   ---wr-wr     253       354 PROGRAM$RD_NMI
+  0.0     1990/03/28 0831   ---wr-wr     256       354 PROGRAM$RD_NVI
+  0.0     1990/03/28 0832   ---wr-wr     259       350 PROGRAM$RD_SAT
+  0.0     1990/03/28 0832   ---wr-wr     25C       333 PROGRAM$RD_VI
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB/POD$Z8001
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 ..
+  0.0     1990/03/28 0832   d-----wr     25F       352 .
+  0.0     1990/03/28 0832   ---wr-wr     268      2825 PODDB$POD_FILE
+  0.0     1990/03/28 0832   ---wr-wr     275      2537 PROGRAM$QWK_RD
+  0.0     1990/03/28 0833   ---wr-wr     280      2899 PROGRAM$QWK_WR
+  0.0     1990/03/28 0833   ---wr-wr     28D      4855 PROGRAM$QWK_RAM
+  0.0     1990/03/28 0833   ---wr-wr     2A1      3815 PROGRAM$QWK_ROM
+  0.0     1990/03/28 0833   ---wr-wr     2B1       354 PROGRAM$RD_NMI
+  0.0     1990/03/28 0833   ---wr-wr     2B4       350 PROGRAM$RD_SAT
+  0.0     1990/03/28 0834   ---wr-wr     2B7       333 PROGRAM$RD_VI
+  0.0     1990/03/28 0834   ---wr-wr     2BA       354 PROGRAM$RD_NVI
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PODLIB$PODLIB/POD$Z8002
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/03/28 0814   d-ewrewr      1E       512 ..
+  0.0     1990/03/28 0834   d-----wr     2BD       352 .
+  0.0     1990/03/28 0834   ---wr-wr     2C6      2658 PODDB$POD_FILE
+  0.0     1990/03/28 0834   ---wr-wr     2D2      2495 PROGRAM$QWK_RD
+  0.0     1990/03/28 0835   ---wr-wr     2DD      2857 PROGRAM$QWK_WR
+  0.0     1990/03/28 0835   ---wr-wr     2EA      4797 PROGRAM$QWK_RAM
+  0.0     1990/03/28 0835   ---wr-wr     2FE      3769 PROGRAM$QWK_ROM
+  0.0     1990/03/28 0835   ---wr-wr     30E       354 PROGRAM$RD_NMI
+  0.0     1990/03/28 0835   ---wr-wr     311       354 PROGRAM$RD_NVI
+  0.0     1990/03/28 0836   ---wr-wr     314       437 PROGRAM$RD_SAT
+  0.0     1990/03/28 0836   ---wr-wr     317       333 PROGRAM$RD_VI
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/03/28 0814   d-ewrewr       3       288 ..
+  0.0     1990/03/28 0814   d-ewrewr      27        96 .
+  0.0     1900/05/04 0020   ------wr     634     19873 PROGRAM$A_TABLE
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/03/28 0814   d-ewrewr       3       288 ..
+  0.0     1990/03/28 0814   d-ewrewr      30      2016 .
+  0.0     1990/05/14 0958   ---wr-wr     51A        40 INFO
+  0.0     1990/05/11 1429   ---wr-wr     51C       545 TEXT$BUS1
+  0.0     1990/05/11 1429   ---wr-wr     520       538 TEXT$BUS2
+  0.0     1990/05/11 1429   ---wr-wr     524       534 TEXT$BUS3
+  0.0     1990/05/11 1429   ---wr-wr     528       537 TEXT$BUS4
+  0.0     1990/05/11 1429   ---wr-wr     52C       537 TEXT$BUS5
+  0.0     1990/05/11 1429   ---wr-wr     530       653 TEXT$BUS6
+  0.0     1990/05/11 1429   ---wr-wr     534       103 TEXT$CLKMOD1
+  0.0     1990/05/11 1429   ---wr-wr     536       157 TEXT$GEN1
+  0.0     1990/05/11 1429   ---wr-wr     538      1374 TEXT$INDEX
+  0.0     1990/05/11 1429   ---wr-wr     53F        80 TEXT$IOMOD1
+  0.0     1990/05/11 1429   ---wr-wr     541       253 TEXT$IOMOD2
+  0.0     1990/05/11 1429   ---wr-wr     543       101 TEXT$IOMOD3
+  0.0     1990/05/11 1429   ---wr-wr     545       311 TEXT$MPOD1
+  0.0     1990/05/11 1429   ---wr-wr     548       250 TEXT$MPOD10
+  0.0     1990/05/11 1429   ---wr-wr     54A       309 TEXT$MPOD2
+  0.0     1990/05/11 1429   ---wr-wr     54D       421 TEXT$MPOD3
+  0.0     1990/05/11 1429   ---wr-wr     550       372 TEXT$MPOD4
+  0.0     1990/05/11 1429   ---wr-wr     553       224 TEXT$MPOD5
+  0.0     1990/05/11 1429   ---wr-wr     555       393 TEXT$MPOD6
+  0.0     1990/05/11 1429   ---wr-wr     558       385 TEXT$MPOD7
+  0.0     1990/05/11 1429   ---wr-wr     55B       269 TEXT$MPOD8
+  0.0     1990/05/11 1429   ---wr-wr     55E       475 TEXT$MPOD9
+  0.0     1990/05/11 1429   ---wr-wr     561       120 TEXT$POD1
+  0.0     1990/05/11 1429   ---wr-wr     563       172 TEXT$POD10
+  0.0     1990/05/11 1430   ---wr-wr     565       123 TEXT$POD11
+  0.0     1990/05/11 1430   ---wr-wr     567       159 TEXT$POD12
+  0.0     1990/05/11 1430   ---wr-wr     569       356 TEXT$POD13
+  0.0     1990/05/11 1430   ---wr-wr     56C       519 TEXT$POD14
+  0.0     1990/05/11 1430   ---wr-wr     570       145 TEXT$POD15
+  0.0     1990/05/11 1430   ---wr-wr     572       215 TEXT$POD16
+  0.0     1990/05/11 1430   ---wr-wr     574       440 TEXT$POD2
+  0.0     1990/05/11 1430   ---wr-wr     577       175 TEXT$POD3
+  0.0     1990/05/11 1430   ---wr-wr     579       437 TEXT$POD4
+  0.0     1990/05/11 1430   ---wr-wr     57C       623 TEXT$POD5
+  0.0     1990/05/11 1430   ---wr-wr     580       522 TEXT$POD6
+  0.0     1990/05/11 1430   ---wr-wr     584       184 TEXT$POD7
+  0.0     1990/05/11 1430   ---wr-wr     586       523 TEXT$POD8
+  0.0     1990/05/11 1430   ---wr-wr     58A       395 TEXT$POD9
+  0.0     1990/05/11 1430   ---wr-wr     58D        96 TEXT$PROBE1
+  0.0     1990/05/11 1430   ---wr-wr     58F       538 TEXT$RAM1
+  0.0     1990/05/11 1430   ---wr-wr     593       343 TEXT$RAM10
+  0.0     1990/05/11 1430   ---wr-wr     596       216 TEXT$RAM11
+  0.0     1990/05/11 1430   ---wr-wr     598       261 TEXT$RAM12
+  0.0     1990/05/11 1430   ---wr-wr     59B       530 TEXT$RAM13
+  0.0     1990/05/11 1430   ---wr-wr     59F       585 TEXT$RAM2
+  0.0     1990/05/11 1430   ---wr-wr     5A3       592 TEXT$RAM3
+  0.0     1990/05/11 1430   ---wr-wr     5A7       387 TEXT$RAM4
+  0.0     1990/05/11 1430   ---wr-wr     5AA       387 TEXT$RAM5
+  0.0     1990/05/11 1430   ---wr-wr     5AD       226 TEXT$RAM6
+  0.0     1990/05/11 1430   ---wr-wr     5AF       714 TEXT$RAM7
+  0.0     1990/05/11 1430   ---wr-wr     5B3       159 TEXT$RAM8
+  0.0     1990/05/11 1430   ---wr-wr     5B5       161 TEXT$RAM9
+  0.0     1990/05/11 1430   ---wr-wr     5B7       413 TEXT$ROM1
+  0.0     1990/05/11 1430   ---wr-wr     5BA       397 TEXT$ROM2
+  0.0     1990/05/11 1430   ---wr-wr     5BD       217 TEXT$ROM3
+  0.0     1990/05/11 1430   ---wr-wr     5BF       218 TEXT$ROM4
+  0.0     1990/05/11 1430   ---wr-wr     5C1       254 TEXT$ROM5
+  0.0     1990/05/11 1430   ---wr-wr     5C3       303 TEXT$ROM6
+  0.0     1990/05/11 1430   ---wr-wr     5C6       338 TEXT$ROM7
+  0.0     1990/05/11 1430   ---wr-wr     5C9       133 TEXT$UNKNOWN1
+
+                           Directory of MASTER_USER_DISK-V5.0A-D2__01-OG.rawtmp,/UUT$ABC
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/03/28 0814   d-ewrewr       3       288 ..
+  0.0     1990/03/28 1257   d-ewrewr     3A9       384 .
+  0.0     1988/10/17 1305   ------wr     43A       321 REF$REFLIST
+  0.0     1988/10/17 1305   ------wr     4EF       196 RESPONSE$ADDR_OUT
+  0.0     1988/10/18 1014   ------wr     5D6       525 NODE$NODELIST
+  0.0     1988/10/17 1305   ------wr     5DA      2782 PROGRAM$TEST1
+  0.0     1988/10/17 1305   ------wr     5E6       444 PROGRAM$TEST2
+  0.0     1988/10/17 1304   ------wr     5E9      1388 PROGRAM$POD_SYNC
+  0.0     1988/10/17 1304   ------wr     5F0      2092 PROGRAM$EXT_SYNC
+  0.0     1988/10/17 1304   ------wr     5FA        40 Info
+  0.0     1988/10/17 1304   ------wr     5FC      4895 PROGRAM$ADDR_OUT
+  0.0     1988/10/17 1305   ------wr     611      2751 PROGRAM$RECOVER

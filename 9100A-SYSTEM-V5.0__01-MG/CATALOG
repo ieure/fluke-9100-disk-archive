@@ -1,0 +1,17 @@
+Name: 9100A System V5.0
+Site-Code: None
+Provided-By: Ian Eure
+Archived-By: Ian Eure
+Archived: 2018-10-02
+Drive: Sony MPF920
+DTC: KryoFlux DiskTool Console, v2.6, uiv.1, Dec 31 2014, 17:40:27
+Dump: 01/MG
+
+Notes:
+
+This diskset was used to install a machine with s/n 4285001, which
+resulted in modifications to the original disks.
+
+System Disk 1, side 1, track 73 has been modified.
+System Disk 2, side 0, track 0 has been modified.
+System Disk 2, side 1, track 73 has been modified.
