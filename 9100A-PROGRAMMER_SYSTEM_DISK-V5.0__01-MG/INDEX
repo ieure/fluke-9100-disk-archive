@@ -1,0 +1,105 @@
+
+                           Directory of PROGRAMMER_SYSTEM_DISK-V5.0__01-MG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/04/07 1059   d-ewrewr       3       224 ..
+  0.1     1990/04/07 1059   d-ewrewr       3       224 .
+  0.0     1990/04/07 1113   d-ewrewr       C        96 OPTIONS
+  0.0     1990/04/07 1114   d-ewrewr      27       160 CMDS
+  0.0     1990/04/07 1114   d-ewrewr      30        96 ROM
+  0.0     1990/04/07 1114   d-ewrewr      39       128 SYSDISK
+  0.0     1990/11/30 0831   ------wr     7F3        10 .xxx
+
+                           Directory of PROGRAMMER_SYSTEM_DISK-V5.0__01-MG.rawtmp,/OPTIONS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/04/07 1059   d-ewrewr       3       224 ..
+  0.0     1990/04/07 1113   d-ewrewr       C        96 .
+  0.0     1990/04/07 1113   d-ewrewr      15       128 EDITOR
+
+                           Directory of PROGRAMMER_SYSTEM_DISK-V5.0__01-MG.rawtmp,/OPTIONS/EDITOR
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/04/07 1113   d-ewrewr       C        96 ..
+  0.0     1990/04/07 1113   d-ewrewr      15       128 .
+  0.0     1990/04/07 1113   d-ewrewr      1E       160 ROM
+  0.0     1990/04/06 1604   ------wr     6B6        19 option_name
+
+                           Directory of PROGRAMMER_SYSTEM_DISK-V5.0__01-MG.rawtmp,/OPTIONS/EDITOR/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/04/07 1113   d-ewrewr      15       128 ..
+  0.0     1990/04/07 1113   d-ewrewr      1E       160 .
+  0.0     1990/04/03 0926   -----ewr      54    266578 megmax
+  0.0     1990/04/06 1604   -----ewr     467       140 configeditor
+  0.0     1990/04/03 0932   -----ewr     469       102 compateditor
+
+                           Directory of PROGRAMMER_SYSTEM_DISK-V5.0__01-MG.rawtmp,/CMDS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/04/07 1059   d-ewrewr       3       224 ..
+  0.0     1990/04/07 1114   d-ewrewr      27       160 .
+  0.0     1990/04/03 0934   -----ewr     46C     87826 cadtrans
+  0.0     1990/04/03 0933   -----ewr     5C5     36174 gfi_compile
+  0.0     1990/04/03 0933   -----ewr     654     24704 gfi_summary
+
+                           Directory of PROGRAMMER_SYSTEM_DISK-V5.0__01-MG.rawtmp,/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/04/07 1059   d-ewrewr       3       224 ..
+  0.0     1990/04/07 1114   d-ewrewr      30        96 .
+  0.0     1990/04/07 1115   ------wr     46B         0 megmax
+
+                           Directory of PROGRAMMER_SYSTEM_DISK-V5.0__01-MG.rawtmp,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1990/04/07 1059   d-ewrewr       3       224 ..
+  0.0     1990/04/07 1114   d-ewrewr      39       128 .
+  0.0     1990/04/07 1114   d-ewrewr      42       608 HELP
+  0.0     1990/04/07 1114   d-ewrewr      4B       608 PROFILES
+
+                           Directory of PROGRAMMER_SYSTEM_DISK-V5.0__01-MG.rawtmp,/SYSDISK/HELP
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/04/07 1114   d-ewrewr      39       128 ..
+  0.0     1990/04/07 1114   d-ewrewr      42       608 .
+  0.0     1990/04/03 0935   ------wr     6DA      1840 DEBUG
+  0.0     1990/04/03 0935   ------wr     6E3      2434 HELPLIB
+  0.0     1990/04/03 0935   ------wr     6EE      2345 NODE
+  0.0     1990/04/03 0935   ------wr     6F9      2610 OFFSET
+  0.0     1990/04/03 0935   ------wr     705      3196 PART
+  0.0     1990/04/03 0936   ------wr     713      2074 PARTLIB
+  0.0     1990/04/03 0936   ------wr     71D      2101 POD
+  0.0     1990/04/03 0936   ------wr     727      2045 PODLIB
+  0.0     1990/04/03 0936   ------wr     730      2336 PROGLIB
+  0.0     1990/04/03 0936   ------wr     73B     43897 PROGRAM
+  0.0     1990/04/03 0936   ------wr     7E8      2428 REF
+  0.0     1990/04/03 0936   ------wr     800      3524 RESPONSE
+  0.0     1990/04/03 0936   ------wr     80F      2257 TEXT
+  0.0     1990/04/03 0936   ------wr     819      3887 USERDISK
+  0.0     1990/04/03 0936   ------wr     82A      5088 UUT
+  0.0     1990/04/03 0937   ------wr     83F      3699 VECTOR
+  0.0     1990/04/03 0937   ------wr     84F      2856 VTERM
+
+                           Directory of PROGRAMMER_SYSTEM_DISK-V5.0__01-MG.rawtmp,/SYSDISK/PROFILES
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1990/04/07 1114   d-ewrewr      39       128 ..
+  0.0     1990/04/07 1114   d-ewrewr      4B       608 .
+  0.0     1990/04/03 0935   ------wr     6B8       219 DEBUG
+  0.0     1990/04/03 0935   ------wr     6BA       190 HELPLIB
+  0.0     1990/04/03 0935   ------wr     6BC       223 NODE
+  0.0     1990/04/03 0935   ------wr     6BE       177 OFFSET
+  0.0     1990/04/03 0935   ------wr     6C0       203 PART
+  0.0     1990/04/03 0935   ------wr     6C2       189 PARTLIB
+  0.0     1990/04/03 0935   ------wr     6C4       189 POD
+  0.0     1990/04/03 0935   ------wr     6C6       189 PODLIB
+  0.0     1990/04/03 0935   ------wr     6C8       189 PROGLIB
+  0.0     1990/04/03 0935   ------wr     6CA       234 PROGRAM
+  0.0     1990/04/03 0935   ------wr     6CC       203 REF
+  0.0     1990/04/03 0935   ------wr     6CE       255 RESPONSE
+  0.0     1990/04/03 0935   ------wr     6D0       216 TEXT
+  0.0     1990/04/03 0935   ------wr     6D2       210 USERDISK
+  0.0     1990/04/03 0935   ------wr     6D4       241 UUT
+  0.0     1990/04/03 0935   ------wr     6D6       231 VECTOR
+  0.0     1990/04/03 0935   ------wr     6D8       189 VTERM
