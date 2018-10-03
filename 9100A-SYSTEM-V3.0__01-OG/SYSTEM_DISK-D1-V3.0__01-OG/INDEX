@@ -1,0 +1,29 @@
+
+                           Directory of SYSTEM_DISK-D1-V3.0__01-OG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/02/10 1335   d-ewrewr       3       384 ..
+  0.1     1988/02/10 1335   d-ewrewr       3       384 .
+  0.251   1988/03/22 1531   ------wr       C         2 ndisks
+  0.0     1988/02/10 1335   d-ewrewr      3C       128 CMDS
+  0.0     1988/02/10 1335   d-ewrewr      45       224 ROM
+  0.248   1988/01/20 0137   ------wr      4E         4 .xxx
+
+                           Directory of SYSTEM_DISK-D1-V3.0__01-OG.rawtmp,/CMDS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/02/10 1335   d-ewrewr       3       384 ..
+  0.0     1988/02/10 1335   d-ewrewr      3C       128 .
+  0.251   1988/03/22 1528   -----ewr       D     27530 root
+  0.251   1988/03/22 1529   -----ewr       E     81614 os
+
+                           Directory of SYSTEM_DISK-D1-V3.0__01-OG.rawtmp,/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/02/10 1335   d-ewrewr       3       384 ..
+  0.0     1988/02/10 1335   d-ewrewr      45       224 .
+  0.251   1988/03/22 1540   -----ewr       F    272544 appl
+  0.251   1988/03/22 1558   -----ewr      10       266 configuration
+  0.251   1988/03/22 1530   -----ewr      11      2494 janeconfig
+  0.251   1988/03/22 1529   -----ewr      1C     46586 be_table
+  0.251   1988/03/22 1530   -----ewr      1D      6050 bf_table
