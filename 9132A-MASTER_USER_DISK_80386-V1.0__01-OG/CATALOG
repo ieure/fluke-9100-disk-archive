@@ -1,0 +1,12 @@
+Name: 9132A Master User Disk 80386 V1.0
+JFPN: 742908
+Provided-By: Steve Larkins
+Archived-By: Ian Eure
+Archived: 2019-04-07
+Drive: Sony MPF920
+DTC: KryoFlux DiskTool Console, v2.6, uiv.1, Dec 31 2014, 17:40:27
+Dump: 01/OG
+
+Notes:
+This must be loaded on a 9100 mainframe before using a 9132 Memory Pod
+with an 80386 Personality Module installed.

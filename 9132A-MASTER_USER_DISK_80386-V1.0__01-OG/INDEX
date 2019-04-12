@@ -1,0 +1,72 @@
+
+                           Directory of MASTER_USER_DISK_80386-V1.0__01-OG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/11/11 1533   d-ewrewr       3       256 ..
+  0.1     1988/11/11 1533   d-ewrewr       3       256 .
+  0.0     1988/11/11 1533   d-ewrewr       C        64 SYSDISK
+  0.0     1988/11/11 1533   d-ewrewr      15        96 PARTLIB$PARTLIB
+  0.0     1988/11/18 1206   d-ewrewr      1E       160 PODLIB$PODLIB
+  0.0     1988/11/11 1533   d-ewrewr      27        64 PROGLIB$PROGLIB
+  0.0     1988/11/11 1533   d-ewrewr      30        64 HELPLIB$HELPLIB
+  0.0     1988/11/11 1533   ------wr      39         0 MEVALID
+
+                           Directory of MASTER_USER_DISK_80386-V1.0__01-OG.rawtmp,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/11/11 1533   d-ewrewr       3       256 ..
+  0.0     1988/11/11 1533   d-ewrewr       C        64 .
+
+                           Directory of MASTER_USER_DISK_80386-V1.0__01-OG.rawtmp,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/11/11 1533   d-ewrewr       3       256 ..
+  0.0     1988/11/11 1533   d-ewrewr      15        96 .
+  0.0     1987/10/16 1647   ---w--wr     429       857 PART$80386
+
+                           Directory of MASTER_USER_DISK_80386-V1.0__01-OG.rawtmp,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/11/11 1533   d-ewrewr       3       256 ..
+  0.0     1988/11/18 1206   d-ewrewr      1E       160 .
+  0.0     1988/11/18 1212   d-ewrewr      3A       128 POD$M
+  0.0     1988/11/11 1534   ------wr      43        40 Info
+  0.0     1988/11/18 1213   d-ewrewr      45       448 POD$M80386
+
+                           Directory of MASTER_USER_DISK_80386-V1.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$M
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/18 1206   d-ewrewr      1E       160 ..
+  0.0     1988/11/18 1212   d-ewrewr      3A       128 .
+  0.251   1988/11/18 1211   ----r-wr     43B         4 PODDB$CONFIG
+  0.251   1988/11/18 1212   ----r-wr     43D       272 PODDB$POD_FILE
+
+                           Directory of MASTER_USER_DISK_80386-V1.0__01-OG.rawtmp,/PODLIB$PODLIB/POD$M80386
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1988/11/18 1206   d-ewrewr      1E       160 ..
+  0.0     1988/11/18 1213   d-ewrewr      45       448 .
+  0.251   1988/11/18 1127   ----r-wr      4E     94547 PROGRAM$TEST_BUS
+  0.251   1988/11/18 1127   ----r-wr     1C1      2362 PROGRAM$B_TEST
+  0.251   1988/11/18 1130   ----r-wr     1CC     51046 PROGRAM$B_DIAG
+  0.251   1988/11/14 1104   ----r-wr     295      1424 PROGRAM$STIM_DAT
+  0.251   1988/11/14 1104   ----r-wr     29C      2028 PROGRAM$STIM_ADR
+  0.251   1988/11/18 0245   ----r-wr     2A5     92882 PROGRAM$SETUP
+  0.251   1988/11/18 1210   ----r-wr     42A         4 PODDB$CONFIG
+  0.251   1988/11/18 1210   ----r-wr     411      4467 PODDB$POD_FILE
+  0.251   1988/11/18 1210   ----r-wr     424      2448 PROGRAM$HYP_RAM
+  0.251   1988/11/18 1211   ----r-wr     427       202 PROGRAM$QWK_RD
+  0.251   1988/11/18 1211   ----r-wr     434       198 PROGRAM$QWK_WR
+  0.251   1988/11/18 1211   ----r-wr     436       972 PROGRAM$VERSION
+
+                           Directory of MASTER_USER_DISK_80386-V1.0__01-OG.rawtmp,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/11/11 1533   d-ewrewr       3       256 ..
+  0.0     1988/11/11 1533   d-ewrewr      27        64 .
+
+                           Directory of MASTER_USER_DISK_80386-V1.0__01-OG.rawtmp,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1988/11/11 1533   d-ewrewr       3       256 ..
+  0.0     1988/11/11 1533   d-ewrewr      30        64 .
