@@ -89,9 +89,9 @@ disksets; underneath that is another directory for the disk(s) in the
 set.
 
 Each diskset directory contains a CATALOG file with additional
-information about the dump, photos of -FRONT and -BACK photos of the
-disks archived, an INDEX file with the contents of the disk, and a ZIP
-archive of the KryoFlux STREAM.
+information about the dump, 600dpi scans of the disks archived, an
+INDEX file with the contents of the disk, and the KryoFlux STREAM
+files.
 
 Non-Factory Dumps
 -----------------
