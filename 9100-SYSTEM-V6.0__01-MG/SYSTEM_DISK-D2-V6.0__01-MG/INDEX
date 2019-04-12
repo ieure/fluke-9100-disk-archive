@@ -1,0 +1,18 @@
+
+                           Directory of SYSTEM_DISK-D2-V6.0__01-MG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/04/24 1222   d-ewrewr       3       192 ..
+  0.1     1991/04/24 1222   d-ewrewr       3       192 .
+  0.0     1991/04/24 1229   d-ewrewr       C       128 ROM
+  0.0     1991/04/24 1232   ------wr     937         4 .xxx
+  0.0     1991/12/20 1146   ------wr     939         0 MEVALID
+  0.0     1991/12/20 1146   ------wr     93A        44 Info
+
+                           Directory of SYSTEM_DISK-D2-V6.0__01-MG.rawtmp,/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/04/24 1222   d-ewrewr       3       192 ..
+  0.0     1991/04/24 1229   d-ewrewr       C       128 .
+  0.0     1991/04/24 0854   --e-rewr      15    302100 level1
+  0.0     1991/04/03 1028   --e-rewr     4B3    295630 appl
