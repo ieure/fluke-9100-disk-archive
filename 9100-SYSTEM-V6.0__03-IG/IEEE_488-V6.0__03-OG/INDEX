@@ -1,0 +1,40 @@
+
+                           Directory of IEEE_488-V6.0__03-OG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/04/03 1021   d-ewrewr       3       160 ..
+  0.1     1991/04/03 1021   d-ewrewr       3       160 .
+  0.0     1991/04/03 1108   d-ewrewr       C        96 OPTIONS
+  0.0     1991/04/03 1109   d-ewrewr      27       128 CMDS
+  0.0     1991/04/03 1109   ------wr      DE         4 .xxx
+
+                           Directory of IEEE_488-V6.0__03-OG.rawtmp,/OPTIONS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/04/03 1021   d-ewrewr       3       160 ..
+  0.0     1991/04/03 1108   d-ewrewr       C        96 .
+  0.0     1991/04/03 1108   d-ewrewr      15       128 IEEE
+
+                           Directory of IEEE_488-V6.0__03-OG.rawtmp,/OPTIONS/IEEE
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/03 1108   d-ewrewr       C        96 ..
+  0.0     1991/04/03 1108   d-ewrewr      15       128 .
+  0.0     1991/04/03 1109   d-ewrewr      1E       128 ROM
+  0.0     1991/04/03 1038   ----r-wr      DC        17 option_name
+
+                           Directory of IEEE_488-V6.0__03-OG.rawtmp,/OPTIONS/IEEE/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/03 1108   d-ewrewr      15       128 ..
+  0.0     1991/04/03 1109   d-ewrewr      1E       128 .
+  0.0     1991/04/03 1036   --e-rewr      30       104 configieee
+  0.0     1991/04/03 1036   --e-rewr      32        98 compatieee
+
+                           Directory of IEEE_488-V6.0__03-OG.rawtmp,/CMDS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/04/03 1021   d-ewrewr       3       160 ..
+  0.0     1991/04/03 1109   d-ewrewr      27       128 .
+  0.0     1991/04/03 1038   --e-rewr      34     34626 remote
+  0.0     1991/04/03 1038   --e-rewr      BD      7614 ieee_init

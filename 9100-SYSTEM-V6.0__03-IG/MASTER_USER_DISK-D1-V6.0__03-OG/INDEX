@@ -1,0 +1,419 @@
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/04/01 0923   d-ewrewr       3       256 ..
+  0.1     1991/04/01 0923   d-ewrewr       3       256 .
+  0.0     1991/04/01 0925   d-ewrewr       C      2016 HELPLIB$HELPLIB
+  0.0     1991/04/01 0925   d-ewrewr      15       128 PROGLIB$PROGLIB
+  0.0     1991/04/01 0925   d-ewrewr      1E        64 PARTLIB$PARTLIB
+  0.0     1991/04/01 0943   d-ewrewr      27       480 PODLIB$PODLIB
+  0.0     1991/04/01 0925   d-ewrewr      30        64 SYSDISK
+  0.0     1991/04/01 0925   ------wr      39         0 MEVALID
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/04/01 0923   d-ewrewr       3       256 ..
+  0.0     1991/04/01 0925   d-ewrewr       C      2016 .
+  0.0     1991/04/01 1554   ---wr-wr      3A        40 INFO
+  0.0     1991/03/29 1537   ---wr-wr      3C       545 TEXT$BUS1
+  0.0     1991/03/29 1537   ---wr-wr      40       538 TEXT$BUS2
+  0.0     1991/03/29 1537   ---wr-wr      44       534 TEXT$BUS3
+  0.0     1991/03/29 1537   ---wr-wr      48       537 TEXT$BUS4
+  0.0     1991/03/29 1537   ---wr-wr      4C       537 TEXT$BUS5
+  0.0     1991/03/29 1537   ---wr-wr      50       653 TEXT$BUS6
+  0.0     1991/03/29 1537   ---wr-wr      54       103 TEXT$CLKMOD1
+  0.0     1991/03/29 1538   ---wr-wr      56       157 TEXT$GEN1
+  0.0     1991/03/29 1538   ---wr-wr      58      1374 TEXT$INDEX
+  0.0     1991/03/29 1538   ---wr-wr      5F        80 TEXT$IOMOD1
+  0.0     1991/03/29 1538   ---wr-wr      61       253 TEXT$IOMOD2
+  0.0     1991/03/29 1538   ---wr-wr      63       101 TEXT$IOMOD3
+  0.0     1991/03/29 1538   ---wr-wr      65       311 TEXT$MPOD1
+  0.0     1991/03/29 1538   ---wr-wr      68       250 TEXT$MPOD10
+  0.0     1991/03/29 1538   ---wr-wr      6A       309 TEXT$MPOD2
+  0.0     1991/03/29 1538   ---wr-wr      6D       421 TEXT$MPOD3
+  0.0     1991/03/29 1538   ---wr-wr      70       372 TEXT$MPOD4
+  0.0     1991/03/29 1538   ---wr-wr      73       224 TEXT$MPOD5
+  0.0     1991/03/29 1538   ---wr-wr      75       393 TEXT$MPOD6
+  0.0     1991/03/29 1538   ---wr-wr      78       385 TEXT$MPOD7
+  0.0     1991/03/29 1538   ---wr-wr      7B       269 TEXT$MPOD8
+  0.0     1991/03/29 1538   ---wr-wr      7E       475 TEXT$MPOD9
+  0.0     1991/03/29 1538   ---wr-wr      81       120 TEXT$POD1
+  0.0     1991/03/29 1538   ---wr-wr      83       172 TEXT$POD10
+  0.0     1991/03/29 1538   ---wr-wr      85       123 TEXT$POD11
+  0.0     1991/03/29 1538   ---wr-wr      87       159 TEXT$POD12
+  0.0     1991/03/29 1538   ---wr-wr      89       356 TEXT$POD13
+  0.0     1991/03/29 1538   ---wr-wr      8C       519 TEXT$POD14
+  0.0     1991/03/29 1538   ---wr-wr      90       145 TEXT$POD15
+  0.0     1991/03/29 1538   ---wr-wr      92       215 TEXT$POD16
+  0.0     1991/03/29 1538   ---wr-wr      94       440 TEXT$POD2
+  0.0     1991/03/29 1538   ---wr-wr      97       175 TEXT$POD3
+  0.0     1991/03/29 1538   ---wr-wr      99       437 TEXT$POD4
+  0.0     1991/03/29 1538   ---wr-wr      9C       623 TEXT$POD5
+  0.0     1991/03/29 1538   ---wr-wr      A0       522 TEXT$POD6
+  0.0     1991/03/29 1538   ---wr-wr      A4       184 TEXT$POD7
+  0.0     1991/03/29 1538   ---wr-wr      A6       523 TEXT$POD8
+  0.0     1991/03/29 1538   ---wr-wr      AA       395 TEXT$POD9
+  0.0     1991/03/29 1538   ---wr-wr      AD        96 TEXT$PROBE1
+  0.0     1991/03/29 1538   ---wr-wr      AF       538 TEXT$RAM1
+  0.0     1991/03/29 1538   ---wr-wr      B3       343 TEXT$RAM10
+  0.0     1991/03/29 1538   ---wr-wr      B6       216 TEXT$RAM11
+  0.0     1991/03/29 1538   ---wr-wr      B8       261 TEXT$RAM12
+  0.0     1991/03/29 1538   ---wr-wr      BB       530 TEXT$RAM13
+  0.0     1991/03/29 1538   ---wr-wr      BF       585 TEXT$RAM2
+  0.0     1991/03/29 1538   ---wr-wr      C3       592 TEXT$RAM3
+  0.0     1991/03/29 1538   ---wr-wr      C7       387 TEXT$RAM4
+  0.0     1991/03/29 1538   ---wr-wr      CA       387 TEXT$RAM5
+  0.0     1991/03/29 1538   ---wr-wr      CD       226 TEXT$RAM6
+  0.0     1991/03/29 1538   ---wr-wr      CF       714 TEXT$RAM7
+  0.0     1991/03/29 1538   ---wr-wr      D3       159 TEXT$RAM8
+  0.0     1991/03/29 1538   ---wr-wr      D5       161 TEXT$RAM9
+  0.0     1991/03/29 1538   ---wr-wr      D7       413 TEXT$ROM1
+  0.0     1991/03/29 1538   ---wr-wr      DA       397 TEXT$ROM2
+  0.0     1991/03/29 1538   ---wr-wr      DD       217 TEXT$ROM3
+  0.0     1991/03/29 1538   ---wr-wr      DF       218 TEXT$ROM4
+  0.0     1991/03/29 1538   ---wr-wr      E1       254 TEXT$ROM5
+  0.0     1991/03/29 1538   ---wr-wr      E3       303 TEXT$ROM6
+  0.0     1991/03/29 1538   ---wr-wr      E6       338 TEXT$ROM7
+  0.0     1991/03/29 1538   ---wr-wr      E9       133 TEXT$UNKNOWN1
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/04/01 0923   d-ewrewr       3       256 ..
+  0.0     1991/04/01 0925   d-ewrewr      15       128 .
+  0.0     1991/04/01 0829   ---w--wr      EB     19875 OBJPROG$A_TABLE
+  0.0     1991/03/29 1538   ---wr-wr     13A     19873 PROGRAM$A_TABLE
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/04/01 0923   d-ewrewr       3       256 ..
+  0.0     1991/04/01 0925   d-ewrewr      1E        64 .
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/04/01 0923   d-ewrewr       3       256 ..
+  0.0     1991/04/01 0943   d-ewrewr      27       480 .
+  0.0     1991/04/01 0928   d-ewrewr     189       864 POD$80186
+  0.0     1991/04/01 0930   d-ewrewr     29E       480 POD$80286
+  0.0     1991/04/01 0931   d-ewrewr     2D9       800 POD$80188
+  0.0     1991/04/01 0932   d-ewrewr     3D6       608 POD$8031
+  0.0     1991/04/01 0933   d-ewrewr     4B6       608 POD$8051
+  0.0     1991/04/01 0934   d-ewrewr     596       608 POD$8051X
+  0.0     1991/04/01 0936   d-ewrewr     676        96 POD$8080
+  0.0     1991/04/01 0936   d-ewrewr     684        96 POD$8085
+  0.0     1991/04/01 0936   d-ewrewr     692       800 POD$8086
+  0.0     1991/04/01 0937   d-ewrewr     737       800 POD$8086MX
+  0.0     1991/04/01 0939   d-ewrewr     7DD       800 POD$8088
+  0.0     1991/04/01 0940   d-ewrewr     879       800 POD$8088MX
+  0.0     1991/04/01 0942   d-ewrewr     90A       608 POD$80286H
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PODLIB$PODLIB/POD$80186
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/01 0943   d-ewrewr      27       480 ..
+  0.0     1991/04/01 0928   d-ewrewr     189       864 .
+  0.0     1991/03/29 1544   ---wr-wr     192      4005 PODDB$POD_FILE
+  0.0     1991/03/29 1544   ---wr-wr     1A3      2997 PROGRAM$CONFIG
+  0.0     1991/03/29 1544   ---wr-wr     1B0      1233 PROGRAM$FRC_INT
+  0.0     1991/03/29 1544   ---wr-wr     1B6      3750 PROGRAM$GET_PCB
+  0.0     1991/03/29 1544   ---wr-wr     1C6      4421 PROGRAM$QWK_FILL
+  0.0     1991/03/29 1544   ---wr-wr     1D9      5346 PROGRAM$QWK_RAM
+  0.0     1991/03/29 1544   ---wr-wr     1EF      2683 PROGRAM$QWK_RAMP
+  0.0     1991/03/29 1544   ---wr-wr     1FB      1971 PROGRAM$QWK_RD
+  0.0     1991/03/29 1544   ---wr-wr     204      3969 PROGRAM$QWK_ROM
+  0.0     1991/03/29 1544   ---wr-wr     215      2153 PROGRAM$QWK_WR
+  0.0     1991/03/29 1544   ---wr-wr     21F      1664 PROGRAM$RD_CSCD
+  0.0     1991/03/29 1544   ---wr-wr     227      1593 PROGRAM$RD_NOARM
+  0.0     1991/03/29 1544   ---wr-wr     22F      1581 PROGRAM$RD_REARM
+  0.0     1991/04/01 0824   ---w--wr     237      1220 OBJPROG$CONFIG
+  0.0     1991/04/01 0824   ---w--wr     23D       800 OBJPROG$FRC_INT
+  0.0     1991/04/01 0824   ---w--wr     242      3358 OBJPROG$GET_PCB
+  0.0     1991/04/01 0824   ---w--wr     251      2869 OBJPROG$QWK_FILL
+  0.0     1991/04/01 0824   ---w--wr     25E      3393 OBJPROG$QWK_RAM
+  0.0     1991/04/01 0824   ---w--wr     26D      1945 OBJPROG$QWK_RAMP
+  0.0     1991/04/01 0824   ---w--wr     276      1315 OBJPROG$QWK_RD
+  0.0     1991/04/01 0824   ---w--wr     27D      2559 OBJPROG$QWK_ROM
+  0.0     1991/04/01 0824   ---w--wr     288      1473 OBJPROG$QWK_WR
+  0.0     1991/04/01 0824   ---w--wr     28F       888 OBJPROG$RD_CSCD
+  0.0     1991/04/01 0824   ---w--wr     294       818 OBJPROG$RD_NOARM
+  0.0     1991/04/01 0824   ---w--wr     299       814 OBJPROG$RD_REARM
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PODLIB$PODLIB/POD$80286
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/01 0943   d-ewrewr      27       480 ..
+  0.0     1991/04/01 0930   d-ewrewr     29E       480 .
+  0.0     1991/03/29 1544   ---wr-wr     2A7      2340 PODDB$POD_FILE
+  0.0     1991/03/29 1544   ---wr-wr     2B2       425 PROGRAM$FRC_INT
+  0.0     1991/03/29 1544   ---wr-wr     2B5       441 PROGRAM$FRC_RINT
+  0.0     1991/03/29 1544   ---wr-wr     2B8       575 PROGRAM$RD_CSCD
+  0.0     1991/03/29 1544   ---wr-wr     2BC       445 PROGRAM$RD_NOARM
+  0.0     1991/03/29 1544   ---wr-wr     2BF       433 PROGRAM$RD_REARM
+  0.0     1991/03/29 1544   ---wr-wr     2C2       799 PROGRAM$VEC_CAPT
+  0.0     1991/04/01 0825   ---w--wr     2C7       314 OBJPROG$FRC_INT
+  0.0     1991/04/01 0825   ---w--wr     2CA       314 OBJPROG$FRC_RINT
+  0.0     1991/04/01 0825   ---w--wr     2CD       348 OBJPROG$RD_CSCD
+  0.0     1991/04/01 0825   ---w--wr     2D0       314 OBJPROG$RD_NOARM
+  0.0     1991/04/01 0825   ---w--wr     2D3       314 OBJPROG$RD_REARM
+  0.0     1991/04/01 0825   ---w--wr     2D6       324 OBJPROG$VEC_CAPT
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PODLIB$PODLIB/POD$80188
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/01 0943   d-ewrewr      27       480 ..
+  0.0     1991/04/01 0931   d-ewrewr     2D9       800 .
+  0.0     1991/03/29 1545   ---wr-wr     2E2      4656 PODDB$POD_FILE
+  0.0     1991/03/29 1545   ---wr-wr     2F6      2997 PROGRAM$CONFIG
+  0.0     1991/03/29 1545   ---wr-wr     303      1233 PROGRAM$FRC_INT
+  0.0     1991/03/29 1545   ---wr-wr     309      5928 PROGRAM$GET_PCB
+  0.0     1991/03/29 1545   ---wr-wr     322      3369 PROGRAM$QWK_FILL
+  0.0     1991/03/29 1545   ---wr-wr     331      4465 PROGRAM$QWK_RAM
+  0.0     1991/03/29 1545   ---wr-wr     344      1472 PROGRAM$QWK_RD
+  0.0     1991/03/29 1545   ---wr-wr     34B      2977 PROGRAM$QWK_ROM
+  0.0     1991/03/29 1545   ---wr-wr     358      1547 PROGRAM$QWK_WR
+  0.0     1991/03/29 1545   ---wr-wr     360      1744 PROGRAM$RD_CSCD
+  0.0     1991/03/29 1545   ---wr-wr     368      1593 PROGRAM$RD_NOARM
+  0.0     1991/03/29 1545   ---wr-wr     370      1581 PROGRAM$RD_REARM
+  0.0     1991/04/01 0825   ---w--wr     378      1220 OBJPROG$CONFIG
+  0.0     1991/04/01 0825   ---w--wr     37E       800 OBJPROG$FRC_INT
+  0.0     1991/04/01 0825   ---w--wr     383      5514 OBJPROG$GET_PCB
+  0.0     1991/04/01 0825   ---w--wr     39A      2352 OBJPROG$QWK_FILL
+  0.0     1991/04/01 0825   ---w--wr     3A5      2937 OBJPROG$QWK_RAM
+  0.0     1991/04/01 0825   ---w--wr     3B2      1014 OBJPROG$QWK_RD
+  0.0     1991/04/01 0825   ---w--wr     3B7      2073 OBJPROG$QWK_ROM
+  0.0     1991/04/01 0825   ---w--wr     3C1      1119 OBJPROG$QWK_WR
+  0.0     1991/04/01 0825   ---w--wr     3C7       934 OBJPROG$RD_CSCD
+  0.0     1991/04/01 0825   ---w--wr     3CC       818 OBJPROG$RD_NOARM
+  0.0     1991/04/01 0825   ---w--wr     3D1       814 OBJPROG$RD_REARM
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PODLIB$PODLIB/POD$8031
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/01 0943   d-ewrewr      27       480 ..
+  0.0     1991/04/01 0932   d-ewrewr     3D6       608 .
+  0.0     1991/03/29 1546   ---wr-wr     3DF      2774 PODDB$POD_FILE
+  0.0     1991/03/29 1546   ---wr-wr     3EB      5307 PROGRAM$QWK_FILL
+  0.0     1991/03/29 1546   ---wr-wr     401      5376 PROGRAM$QWK_RAM
+  0.0     1991/03/29 1546   ---wr-wr     417      3008 PROGRAM$QWK_RD
+  0.0     1991/03/29 1546   ---wr-wr     424      4843 PROGRAM$QWK_ROM
+  0.0     1991/03/29 1546   ---wr-wr     438      3075 PROGRAM$QWK_WR
+  0.0     1991/03/29 1546   ---wr-wr     446      1139 PROGRAM$RD_PORT
+  0.0     1991/03/29 1546   ---wr-wr     44C      1733 PROGRAM$TESTPORT
+  0.0     1991/03/29 1546   ---wr-wr     454      3084 PROGRAM$WR_PORT
+  0.0     1991/04/01 0825   ---w--wr     462      3464 OBJPROG$QWK_FILL
+  0.0     1991/04/01 0825   ---w--wr     471      3488 OBJPROG$QWK_RAM
+  0.0     1991/04/01 0825   ---w--wr     480      1978 OBJPROG$QWK_RD
+  0.0     1991/04/01 0825   ---w--wr     489      3160 OBJPROG$QWK_ROM
+  0.0     1991/04/01 0825   ---w--wr     497      2087 OBJPROG$QWK_WR
+  0.0     1991/04/01 0825   ---w--wr     4A1       812 OBJPROG$RD_PORT
+  0.0     1991/04/01 0825   ---w--wr     4A6      1273 OBJPROG$TESTPORT
+  0.0     1991/04/01 0825   ---w--wr     4AC      2109 OBJPROG$WR_PORT
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PODLIB$PODLIB/POD$8051
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/01 0943   d-ewrewr      27       480 ..
+  0.0     1991/04/01 0933   d-ewrewr     4B6       608 .
+  0.0     1991/03/29 1547   ---wr-wr     4BF      2762 PODDB$POD_FILE
+  0.0     1991/03/29 1547   ---wr-wr     4CB      5307 PROGRAM$QWK_FILL
+  0.0     1991/03/29 1547   ---wr-wr     4E1      5376 PROGRAM$QWK_RAM
+  0.0     1991/03/29 1547   ---wr-wr     4F7      3008 PROGRAM$QWK_RD
+  0.0     1991/03/29 1547   ---wr-wr     504      4843 PROGRAM$QWK_ROM
+  0.0     1991/03/29 1547   ---wr-wr     518      3075 PROGRAM$QWK_WR
+  0.0     1991/03/29 1547   ---wr-wr     526      1139 PROGRAM$RD_PORT
+  0.0     1991/03/29 1547   ---wr-wr     52C      1733 PROGRAM$TESTPORT
+  0.0     1991/03/29 1547   ---wr-wr     534      3084 PROGRAM$WR_PORT
+  0.0     1991/04/01 0826   ---w--wr     542      3464 OBJPROG$QWK_FILL
+  0.0     1991/04/01 0826   ---w--wr     551      3488 OBJPROG$QWK_RAM
+  0.0     1991/04/01 0826   ---w--wr     560      1978 OBJPROG$QWK_RD
+  0.0     1991/04/01 0826   ---w--wr     569      3160 OBJPROG$QWK_ROM
+  0.0     1991/04/01 0826   ---w--wr     577      2087 OBJPROG$QWK_WR
+  0.0     1991/04/01 0826   ---w--wr     581       812 OBJPROG$RD_PORT
+  0.0     1991/04/01 0826   ---w--wr     586      1273 OBJPROG$TESTPORT
+  0.0     1991/04/01 0826   ---w--wr     58C      2109 OBJPROG$WR_PORT
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PODLIB$PODLIB/POD$8051X
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/01 0943   d-ewrewr      27       480 ..
+  0.0     1991/04/01 0934   d-ewrewr     596       608 .
+  0.0     1991/03/29 1548   ---wr-wr     59F      2774 PODDB$POD_FILE
+  0.0     1991/03/29 1548   ---wr-wr     5AB      5307 PROGRAM$QWK_FILL
+  0.0     1991/03/29 1548   ---wr-wr     5C1      5376 PROGRAM$QWK_RAM
+  0.0     1991/03/29 1548   ---wr-wr     5D7      3008 PROGRAM$QWK_RD
+  0.0     1991/03/29 1548   ---wr-wr     5E4      4843 PROGRAM$QWK_ROM
+  0.0     1991/03/29 1548   ---wr-wr     5F8      3075 PROGRAM$QWK_WR
+  0.0     1991/03/29 1548   ---wr-wr     606      1139 PROGRAM$RD_PORT
+  0.0     1991/03/29 1548   ---wr-wr     60C      1733 PROGRAM$TESTPORT
+  0.0     1991/03/29 1548   ---wr-wr     614      3084 PROGRAM$WR_PORT
+  0.0     1991/04/01 0826   ---w--wr     622      3464 OBJPROG$QWK_FILL
+  0.0     1991/04/01 0826   ---w--wr     631      3488 OBJPROG$QWK_RAM
+  0.0     1991/04/01 0826   ---w--wr     640      1978 OBJPROG$QWK_RD
+  0.0     1991/04/01 0826   ---w--wr     649      3160 OBJPROG$QWK_ROM
+  0.0     1991/04/01 0826   ---w--wr     657      2087 OBJPROG$QWK_WR
+  0.0     1991/04/01 0826   ---w--wr     661       812 OBJPROG$RD_PORT
+  0.0     1991/04/01 0826   ---w--wr     666      1273 OBJPROG$TESTPORT
+  0.0     1991/04/01 0826   ---w--wr     66C      2109 OBJPROG$WR_PORT
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PODLIB$PODLIB/POD$8080
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/01 0943   d-ewrewr      27       480 ..
+  0.0     1991/04/01 0936   d-ewrewr     676        96 .
+  0.0     1991/03/29 1548   ---wr-wr     67F       900 PODDB$POD_FILE
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PODLIB$PODLIB/POD$8085
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/01 0943   d-ewrewr      27       480 ..
+  0.0     1991/04/01 0936   d-ewrewr     684        96 .
+  0.0     1991/03/29 1548   ---wr-wr     68D       991 PODDB$POD_FILE
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PODLIB$PODLIB/POD$8086
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/01 0943   d-ewrewr      27       480 ..
+  0.0     1991/04/01 0936   d-ewrewr     692       800 .
+  0.0     1991/03/29 1549   ---wr-wr     69B      1986 PODDB$POD_FILE
+  0.0     1991/03/29 1549   ---wr-wr     6A4       235 PROGRAM$FRC_INT
+  0.0     1991/03/29 1549   ---wr-wr     6A6       249 PROGRAM$FRC_RINT
+  0.0     1991/03/29 1549   ---wr-wr     6A8       610 PROGRAM$QWK_ARM
+  0.0     1991/03/29 1549   ---wr-wr     6AC      4581 PROGRAM$QWK_RAM
+  0.0     1991/03/29 1549   ---wr-wr     6BF      2090 PROGRAM$QWK_RD
+  0.0     1991/03/29 1549   ---wr-wr     6C9      3884 PROGRAM$QWK_ROM
+  0.0     1991/03/29 1550   ---wr-wr     6DA      2446 PROGRAM$QWK_WR
+  0.0     1991/03/29 1550   ---wr-wr     6E5       414 PROGRAM$RD_CSCD
+  0.0     1991/03/29 1550   ---wr-wr     6E8       463 PROGRAM$RD_NOARM
+  0.0     1991/03/29 1550   ---wr-wr     6EB       377 PROGRAM$RD_REARM
+  0.0     1991/03/29 1550   ---wr-wr     6EE      1818 PROGRAM$RUN_UUT
+  0.0     1991/04/01 0826   ---w--wr     6F7       327 OBJPROG$FRC_INT
+  0.0     1991/04/01 0826   ---w--wr     6FA       319 OBJPROG$FRC_RINT
+  0.0     1991/04/01 0826   ---w--wr     6FD       322 OBJPROG$QWK_ARM
+  0.0     1991/04/01 0826   ---w--wr     700      3035 OBJPROG$QWK_RAM
+  0.0     1991/04/01 0826   ---w--wr     70D      1397 OBJPROG$QWK_RD
+  0.0     1991/04/01 0826   ---w--wr     714      2605 OBJPROG$QWK_ROM
+  0.0     1991/04/01 0826   ---w--wr     720      1553 OBJPROG$QWK_WR
+  0.0     1991/04/01 0826   ---w--wr     728       314 OBJPROG$RD_CSCD
+  0.0     1991/04/01 0826   ---w--wr     72B       318 OBJPROG$RD_NOARM
+  0.0     1991/04/01 0826   ---w--wr     72E       298 OBJPROG$RD_REARM
+  0.0     1991/04/01 0826   ---w--wr     731      1037 OBJPROG$RUN_UUT
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PODLIB$PODLIB/POD$8086MX
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/01 0943   d-ewrewr      27       480 ..
+  0.0     1991/04/01 0937   d-ewrewr     737       800 .
+  0.0     1991/03/29 1551   ---wr-wr     740      2050 PODDB$POD_FILE
+  0.0     1991/03/29 1551   ---wr-wr     74A       235 PROGRAM$FRC_INT
+  0.0     1991/03/29 1551   ---wr-wr     74C       251 PROGRAM$FRC_RINT
+  0.0     1991/03/29 1551   ---wr-wr     74E       610 PROGRAM$QWK_ARM
+  0.0     1991/03/29 1551   ---wr-wr     752      4581 PROGRAM$QWK_RAM
+  0.0     1991/03/29 1551   ---wr-wr     765      2090 PROGRAM$QWK_RD
+  0.0     1991/03/29 1551   ---wr-wr     76F      3884 PROGRAM$QWK_ROM
+  0.0     1991/03/29 1551   ---wr-wr     780      2446 PROGRAM$QWK_WR
+  0.0     1991/03/29 1551   ---wr-wr     78B       414 PROGRAM$RD_CSCD
+  0.0     1991/03/29 1551   ---wr-wr     78E       463 PROGRAM$RD_NOARM
+  0.0     1991/03/29 1551   ---wr-wr     791       377 PROGRAM$RD_REARM
+  0.0     1991/03/29 1551   ---wr-wr     794      1818 PROGRAM$RUN_UUT
+  0.0     1991/04/01 0826   ---w--wr     79D       327 OBJPROG$FRC_INT
+  0.0     1991/04/01 0826   ---w--wr     7A0       319 OBJPROG$FRC_RINT
+  0.0     1991/04/01 0826   ---w--wr     7A3       322 OBJPROG$QWK_ARM
+  0.0     1991/04/01 0826   ---w--wr     7A6      3035 OBJPROG$QWK_RAM
+  0.0     1991/04/01 0827   ---w--wr     7B3      1397 OBJPROG$QWK_RD
+  0.0     1991/04/01 0827   ---w--wr     7BA      2605 OBJPROG$QWK_ROM
+  0.0     1991/04/01 0827   ---w--wr     7C6      1553 OBJPROG$QWK_WR
+  0.0     1991/04/01 0827   ---w--wr     7CE       314 OBJPROG$RD_CSCD
+  0.0     1991/04/01 0827   ---w--wr     7D1       318 OBJPROG$RD_NOARM
+  0.0     1991/04/01 0827   ---w--wr     7D4       298 OBJPROG$RD_REARM
+  0.0     1991/04/01 0827   ---w--wr     7D7      1037 OBJPROG$RUN_UUT
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PODLIB$PODLIB/POD$8088
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/01 0943   d-ewrewr      27       480 ..
+  0.0     1991/04/01 0939   d-ewrewr     7DD       800 .
+  0.0     1991/03/29 1552   ---wr-wr     7E6      1462 PODDB$POD_FILE
+  0.0     1991/03/29 1552   ---wr-wr     7ED       189 PROGRAM$FRC_INT
+  0.0     1991/03/29 1552   ---wr-wr     7EF       249 PROGRAM$FRC_RINT
+  0.0     1991/03/29 1552   ---wr-wr     7F1       610 PROGRAM$QWK_ARM
+  0.0     1991/03/29 1552   ---wr-wr     800      3599 PROGRAM$QWK_RAM
+  0.0     1991/03/29 1552   ---wr-wr     810      1583 PROGRAM$QWK_RD
+  0.0     1991/03/29 1552   ---wr-wr     818      3166 PROGRAM$QWK_ROM
+  0.0     1991/03/29 1552   ---wr-wr     826      1598 PROGRAM$QWK_WR
+  0.0     1991/03/29 1552   ---wr-wr     82E       404 PROGRAM$RD_CSCD
+  0.0     1991/03/29 1552   ---wr-wr     831       425 PROGRAM$RD_NOARM
+  0.0     1991/03/29 1552   ---wr-wr     834       492 PROGRAM$RD_REARM
+  0.0     1991/03/29 1552   ---wr-wr     837      1806 PROGRAM$RUN_UUT
+  0.0     1991/04/01 0827   ---w--wr     840       311 OBJPROG$FRC_INT
+  0.0     1991/04/01 0827   ---w--wr     843       319 OBJPROG$FRC_RINT
+  0.0     1991/04/01 0827   ---w--wr     846       322 OBJPROG$QWK_ARM
+  0.0     1991/04/01 0827   ---w--wr     849      2456 OBJPROG$QWK_RAM
+  0.0     1991/04/01 0827   ---w--wr     854      1082 OBJPROG$QWK_RD
+  0.0     1991/04/01 0827   ---w--wr     85A      2168 OBJPROG$QWK_ROM
+  0.0     1991/04/01 0827   ---w--wr     864      1169 OBJPROG$QWK_WR
+  0.0     1991/04/01 0827   ---w--wr     86A       326 OBJPROG$RD_CSCD
+  0.0     1991/04/01 0827   ---w--wr     86D       306 OBJPROG$RD_NOARM
+  0.0     1991/04/01 0827   ---w--wr     870       306 OBJPROG$RD_REARM
+  0.0     1991/04/01 0827   ---w--wr     873      1185 OBJPROG$RUN_UUT
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PODLIB$PODLIB/POD$8088MX
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/01 0943   d-ewrewr      27       480 ..
+  0.0     1991/04/01 0940   d-ewrewr     879       800 .
+  0.0     1991/03/29 1553   ---wr-wr     882      1526 PODDB$POD_FILE
+  0.0     1991/03/29 1553   ---wr-wr     889       189 PROGRAM$FRC_INT
+  0.0     1991/03/29 1553   ---wr-wr     88B       249 PROGRAM$FRC_RINT
+  0.0     1991/03/29 1553   ---wr-wr     88D       610 PROGRAM$QWK_ARM
+  0.0     1991/03/29 1553   ---wr-wr     891      3600 PROGRAM$QWK_RAM
+  0.0     1991/03/29 1553   ---wr-wr     8A1      1583 PROGRAM$QWK_RD
+  0.0     1991/03/29 1553   ---wr-wr     8A9      3166 PROGRAM$QWK_ROM
+  0.0     1991/03/29 1553   ---wr-wr     8B7      1598 PROGRAM$QWK_WR
+  0.0     1991/03/29 1553   ---wr-wr     8BF       404 PROGRAM$RD_CSCD
+  0.0     1991/03/29 1553   ---wr-wr     8C2       425 PROGRAM$RD_NOARM
+  0.0     1991/03/29 1553   ---wr-wr     8C5       492 PROGRAM$RD_REARM
+  0.0     1991/03/29 1553   ---wr-wr     8C8      1806 PROGRAM$RUN_UUT
+  0.0     1991/04/01 0827   ---w--wr     8D1       311 OBJPROG$FRC_INT
+  0.0     1991/04/01 0827   ---w--wr     8D4       319 OBJPROG$FRC_RINT
+  0.0     1991/04/01 0827   ---w--wr     8D7       322 OBJPROG$QWK_ARM
+  0.0     1991/04/01 0827   ---w--wr     8DA      2460 OBJPROG$QWK_RAM
+  0.0     1991/04/01 0827   ---w--wr     8E5      1082 OBJPROG$QWK_RD
+  0.0     1991/04/01 0827   ---w--wr     8EB      2168 OBJPROG$QWK_ROM
+  0.0     1991/04/01 0827   ---w--wr     8F5      1169 OBJPROG$QWK_WR
+  0.0     1991/04/01 0827   ---w--wr     8FB       326 OBJPROG$RD_CSCD
+  0.0     1991/04/01 0827   ---w--wr     8FE       306 OBJPROG$RD_NOARM
+  0.0     1991/04/01 0827   ---w--wr     901       306 OBJPROG$RD_REARM
+  0.0     1991/04/01 0827   ---w--wr     904      1185 OBJPROG$RUN_UUT
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/PODLIB$PODLIB/POD$80286H
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1991/04/01 0943   d-ewrewr      27       480 ..
+  0.0     1991/04/01 0942   d-ewrewr     90A       608 .
+  0.0     1991/03/29 1554   ---wr-wr     913      2362 PODDB$POD_FILE
+  0.0     1991/03/29 1554   ---wr-wr     91E       425 PROGRAM$FRC_INT
+  0.0     1991/03/29 1554   ---wr-wr     921       441 PROGRAM$FRC_RINT
+  0.0     1991/03/29 1554   ---wr-wr     924      4809 PROGRAM$HYP_RAM
+  0.0     1991/03/29 1554   ---wr-wr     938      4600 PROGRAM$HYP_ROM
+  0.0     1991/03/29 1554   ---wr-wr     94B       575 PROGRAM$RD_CSCD
+  0.0     1991/03/29 1554   ---wr-wr     94F       445 PROGRAM$RD_NOARM
+  0.0     1991/03/29 1554   ---wr-wr     952       433 PROGRAM$RD_REARM
+  0.0     1991/03/29 1554   ---wr-wr     955       799 PROGRAM$VEC_CAPT
+  0.0     1991/04/01 0825   ---w--wr     95A       314 OBJPROG$FRC_INT
+  0.0     1991/04/01 0825   ---w--wr     95D       314 OBJPROG$FRC_RINT
+  0.0     1991/04/01 0825   ---w--wr     960      3591 OBJPROG$HYP_RAM
+  0.0     1991/04/01 0825   ---w--wr     970      3097 OBJPROG$HYP_ROM
+  0.0     1991/04/01 0825   ---w--wr     97E       348 OBJPROG$RD_CSCD
+  0.0     1991/04/01 0825   ---w--wr     981       314 OBJPROG$RD_NOARM
+  0.0     1991/04/01 0825   ---w--wr     984       314 OBJPROG$RD_REARM
+  0.0     1991/04/01 0825   ---w--wr     987       324 OBJPROG$VEC_CAPT
+
+                           Directory of MASTER_USER_DISK-D1-V6.0__03-OG.rawtmp,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/04/01 0923   d-ewrewr       3       256 ..
+  0.0     1991/04/01 0925   d-ewrewr      30        64 .
