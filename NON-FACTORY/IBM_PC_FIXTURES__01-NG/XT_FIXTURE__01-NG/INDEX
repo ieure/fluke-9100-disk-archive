@@ -1,0 +1,207 @@
+
+                           Directory of XT_FIXTURE__01-MG.raw,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/03 1034   d-ewrewr       3       288 ..
+  0.1     1989/04/03 1034   d-ewrewr       3       288 .
+  0.0     1989/04/03 1034   d-ewrewr       C        64 SYSDISK
+  0.0     1989/04/03 1034   d-ewrewr      15        64 PARTLIB$PARTLIB
+  0.0     1989/04/03 1034   d-ewrewr      1E        64 PODLIB$PODLIB
+  0.0     1989/04/03 1034   d-ewrewr      27        64 PROGLIB$PROGLIB
+  0.0     1989/04/03 1034   d-ewrewr      30        64 HELPLIB$HELPLIB
+  0.0     1989/04/03 1035   ------wr      39         0 MEVALID
+  0.0     1989/04/03 1036   d-ewrewr      3A      5120 UUT$AT_FIXTURE
+
+                           Directory of XT_FIXTURE__01-MG.raw,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/03 1034   d-ewrewr       3       288 ..
+  0.0     1989/04/03 1034   d-ewrewr       C        64 .
+
+                           Directory of XT_FIXTURE__01-MG.raw,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/03 1034   d-ewrewr       3       288 ..
+  0.0     1989/04/03 1034   d-ewrewr      15        64 .
+
+                           Directory of XT_FIXTURE__01-MG.raw,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/03 1034   d-ewrewr       3       288 ..
+  0.0     1989/04/03 1034   d-ewrewr      1E        64 .
+
+                           Directory of XT_FIXTURE__01-MG.raw,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/03 1034   d-ewrewr       3       288 ..
+  0.0     1989/04/03 1034   d-ewrewr      27        64 .
+
+                           Directory of XT_FIXTURE__01-MG.raw,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/03 1034   d-ewrewr       3       288 ..
+  0.0     1989/04/03 1034   d-ewrewr      30        64 .
+
+                           Directory of XT_FIXTURE__01-MG.raw,/UUT$AT_FIXTURE
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/03 1034   d-ewrewr       3       288 ..
+  0.0     1989/04/03 1036   d-ewrewr      3A      5120 .
+  0.0     1988/01/28 0928   ------wr      43      2022 TEXT$PRINT1
+  0.0     1988/02/24 1121   ------wr      4C      1420 TEXT$DATA_BANK1
+  0.0     1988/02/24 1121   ------wr      53      1460 TEXT$DATA_BANK2
+  0.0     1987/12/23 1409   ---w--wr      5A      4521 REF$REFLIST
+  0.0     1988/02/24 1121   ------wr      6D      1790 RESPONSE$ADDR_OUT
+  0.0     1988/02/24 1122   ------wr      75      1566 RESPONSE$MICRO_DATA
+  0.0     1988/08/19 1054   ---w--wr      7D       970 RESPONSE$BUS_CTRL
+  0.0     1988/02/24 1122   ------wr      82      1350 RESPONSE$ROM0_DATA
+  0.0     1988/02/24 1122   ------wr      89       389 RESPONSE$ROM1_DATA
+  0.0     1988/02/24 1122   ------wr      8C       306 RESPONSE$IO_SELECT
+  0.0     1988/05/28 1629   ------wr      8F      1996 RESPONSE$FREQUENCY
+  0.0     1988/02/24 1122   ------wr      98       558 RESPONSE$DMA0_DATA
+  0.0     1988/02/24 1122   ------wr      9C       207 RESPONSE$DMA1_DATA
+  0.0     1988/02/24 1122   ------wr      9E       550 RESPONSE$XADDR_OUT
+  0.0     1988/02/24 1122   ------wr      A2       350 RESPONSE$SWAPPER_IN
+  0.0     1988/02/24 1122   ------wr      A5       218 RESPONSE$CAS_ADDR
+  0.0     1988/02/24 1122   ------wr      A7      1172 RESPONSE$RAS_ADDR
+  0.0     1988/02/24 1122   ------wr      AD       176 RESPONSE$TMR_OUT
+  0.0     1988/02/24 1123   ------wr      AF       192 RESPONSE$RTC_DATA
+  0.0     1988/02/24 1122   ------wr      B1       255 RESPONSE$RAS_ADDR1
+  0.0     1988/02/24 1122   ------wr      B3       232 RESPONSE$CAS_ADDR1
+  0.0     1988/02/24 1122   ------wr      B5       484 RESPONSE$INTR1_OUT
+  0.0     1988/02/24 1122   ------wr      B8       863 RESPONSE$INTR0_OUT
+  0.0     1988/02/24 1122   ------wr      BD       199 RESPONSE$SLAVE_UP
+  0.0     1988/02/24 1122   ------wr      BF       342 RESPONSE$PORTB_IN1
+  0.0     1988/02/24 1122   ------wr      C2       368 RESPONSE$PORTB_IN2
+  0.0     1988/02/24 1122   ------wr      C5       553 RESPONSE$PORTB_OUT
+  0.0     1988/02/24 1122   ------wr      C9       289 RESPONSE$KEY_BD
+  0.0     1988/08/19 1008   ---w--wr      CC        96 RESPONSE$KEY_BD1
+  0.0     1988/02/24 1122   ------wr      CE       194 RESPONSE$RTC_IRQ
+  0.0     1988/02/24 1122   ------wr      D0      1528 RESPONSE$DMA0_OUT
+  0.0     1988/05/28 1628   ---w--wr      D7      8036 TEXT$FREQUENCY
+  0.0     1988/05/28 1516   ---w--wr      F8      1234 RESPONSE$DMA1_OUT
+  0.0     1988/02/24 1123   ------wr      FE       187 RESPONSE$PAGE_DATA
+  0.0     1988/02/24 1123   ------wr     100       473 RESPONSE$PAGE_MOUT
+  0.0     1988/02/24 1123   ------wr     103       405 RESPONSE$RAM_DATA
+  0.0     1988/02/24 1123   ------wr     106       130 RESPONSE$PARITY
+  0.0     1988/02/24 1123   ------wr     108       184 RESPONSE$INTR0_DATA
+  0.0     1988/02/24 1123   ------wr     10A       192 RESPONSE$INTR1_DATA
+  0.0     1988/02/24 1123   ------wr     10C     22616 NODE$NODELIST
+  0.0     1988/02/24 1123   ------wr     166       323 PROGRAM$UNDERTEST
+  0.0     1988/06/01 0812   ------wr     169      3470 PROGRAM$DISPLY_PCB
+  0.0     1988/07/02 0844   ------wr     178     15314 PROGRAM$MAIN
+  0.0     1988/06/30 1048   ------wr     1B5      9278 PROGRAM$GO_NOGO
+  0.0     1988/03/29 1725   ------wr     1DB       398 PROGRAM$TEST_BUS
+  0.0     1988/05/28 1453   ------wr     1DE      7806 PROGRAM$TEST_RAM
+  0.0     1988/02/24 1124   ------wr     1FE      5050 PROGRAM$TEST_ROM
+  0.0     1988/02/24 1125   ------wr     213       215 PROGRAM$UNTESTED
+  0.0     1988/05/11 1550   ------wr     215       225 PROGRAM$FAIL
+  0.0     1988/02/24 1125   ------wr     217       205 PROGRAM$PASS
+  0.0     1988/06/01 1408   ------wr     219      1434 PROGRAM$ADDR_OUT
+  0.0     1988/02/24 1125   ------wr     220      1161 PROGRAM$RECOVER
+  0.0     1988/06/01 1421   ------wr     226       975 PROGRAM$MICRO_DATA
+  0.0     1988/06/01 1409   ------wr     22B      1758 PROGRAM$BUS_CTRL
+  0.0     1988/08/19 1629   ------wr     233     11541 PROGRAM$TEST_DMA
+  0.0     1988/06/01 1427   ------wr     262       844 PROGRAM$ROM1_DATA
+  0.0     1988/06/01 1426   ------wr     267       827 PROGRAM$ROM0_DATA
+  0.0     1988/05/05 1638   ------wr     26C      4082 PROGRAM$PASSEDTEST
+  0.0     1988/06/01 1419   ------wr     27D      1345 PROGRAM$IO_SELECT
+  0.0     1988/06/01 1414   ------wr     284       883 PROGRAM$FREQUENCY
+  0.0     1988/06/01 1411   ------wr     289      2924 PROGRAM$DMA0_DATA
+  0.0     1988/06/01 1413   ------wr     296      2944 PROGRAM$DMA1_DATA
+  0.0     1988/05/28 1449   ------wr     2A3      4709 PROGRAM$TEST_RTC
+  0.0     1988/02/24 1126   ------wr     2BF        52 PROGRAM$DUMMY
+  0.0     1988/06/01 1433   ------wr     2C1      1432 PROGRAM$XADDR_OUT
+  0.0     1988/06/01 1431   ------wr     2C8      2370 PROGRAM$SWAPPER_IN
+  0.0     1988/06/01 1409   ------wr     2D3      1419 PROGRAM$CAS_ADDR
+  0.0     1988/06/01 1425   ------wr     2DA      1441 PROGRAM$RAS_ADDR
+  0.0     1988/06/01 1432   ------wr     2E1      1201 PROGRAM$TMR_OUT
+  0.0     1988/02/24 1126   ------wr     2E7      1166 PROGRAM$ABORT_TEST
+  0.0     1988/02/24 1126   ------wr     2ED      1992 PROGRAM$CHECK_MEAS
+  0.0     1988/01/28 0933   ------wr     2F6      1044 PROGRAM$REFSH_TIME
+  0.0     1988/06/01 1426   ------wr     2FC      1429 PROGRAM$RAS_ADDR1
+  0.0     1988/06/01 1410   ------wr     303      1487 PROGRAM$CAS_ADDR1
+  0.0     1988/06/01 1416   ------wr     30A      2534 PROGRAM$INTR0_DATA
+  0.0     1988/06/01 1418   ------wr     315      1969 PROGRAM$INTR1_DATA
+  0.0     1988/06/01 1416   ------wr     31E      3997 PROGRAM$INTR0_OUT
+  0.0     1988/06/01 1417   ------wr     32F      4377 PROGRAM$INTR1_OUT
+  0.0     1988/06/01 1430   ------wr     342      1911 PROGRAM$SLAVE_UP
+  0.0     1988/06/01 1423   ------wr     34B      2051 PROGRAM$PORTB_IN1
+  0.0     1988/06/01 1424   ------wr     355      2001 PROGRAM$PORTB_IN2
+  0.0     1988/06/01 1424   ------wr     35E      2104 PROGRAM$PORTB_OUT
+  0.0     1988/06/01 1419   ------wr     368      1410 PROGRAM$KEY_BD
+  0.0     1988/08/19 1005   ------wr     36F      1826 PROGRAM$KEY_BD1
+  0.0     1988/02/24 1409   ------wr     378     13379 PROGRAM$UUT
+  0.0     1988/06/01 1434   ------wr     3AE      2067 PROGRAM$XIO_SELECT
+  0.0     1988/06/01 1429   ------wr     3B8      2908 PROGRAM$RTC_IRQ
+  0.0     1988/08/26 1009   ------wr     3C5      9659 PROGRAM$TEST_INTR
+  0.0     1988/08/15 1533   ------wr     3EC      4608 PROGRAM$TEST_TIMER
+  0.0     1988/08/19 1548   ------wr     3FF      4915 PROGRAM$TEST_8042
+  0.0     1988/06/01 1412   ------wr     414      3446 PROGRAM$DMA0_OUT
+  0.0     1988/06/29 0941   ------wr     423      4398 PROGRAM$DMA0_ADDR
+  0.0     1988/06/01 1413   ------wr     436      3403 PROGRAM$DMA1_OUT
+  0.0     1988/06/29 0946   ------wr     445      4059 PROGRAM$DMA1_ADDR
+  0.0     1988/02/24 1147   ------wr     456     14127 PROGRAM$UUTX10
+  0.0     1988/06/01 1422   ------wr     48F      3576 PROGRAM$PAGE_MOUT
+  0.0     1988/06/01 1421   ------wr     49E      1069 PROGRAM$PAGE_DATA
+  0.0     1988/06/01 1425   ------wr     4A4      1110 PROGRAM$RAM_DATA
+  0.0     1988/06/01 1422   ------wr     4AA      1028 PROGRAM$PARITY
+  0.0     1988/06/01 1428   ------wr     4B0      2343 PROGRAM$RTC_DATA
+  0.0     1988/08/19 1055   ------wr     4BB      2562 GFppnamtab
+  0.0     1988/08/19 1056   ------wr     4C7        36 GFmagictab
+  0.0     1988/08/19 1055   ------wr     4C9       374 GFparttab
+  0.0     1988/08/19 1056   ------wr     4CC      1901 GFreftab
+  0.0     1988/08/19 1055   ------wr     4D5      1280 GFstringta
+  0.0     1988/08/19 1055   ------wr     4DB      4442 GFppintab
+  0.0     1988/08/19 1055   ------wr     4EE      4433 GFdeptab
+  0.0     1988/08/19 1056   ------wr     501     21224 GFrpintab
+  0.0     1988/08/19 1056   ------wr     555       232 GFprogtab
+  0.0     1988/08/19 1056   ------wr     557     27770 GFresptab
+  0.0     1988/08/19 1056   ------wr     5C5      2572 GFnodetab
+  0.0     1988/08/19 1056   ------wr     5D1         1 DATABASE$GFIDATA
+  0.0     1987/12/10 2220   ------wr     5D3      2052 ZYcaldata
+  0.0     1987/09/29 1039   ------wr     5DD       116 ZYsetMisc
+  0.0     1987/09/29 1039   ------wr     5DF       944 ZYsetIomod
+  0.0     1987/09/29 1039   ------wr     5E4      1120 ZYsetKySeq
+  0.0     1987/09/29 1039   ------wr     5EA       628 ZYsetPod
+  0.0     1987/09/29 1039   ------wr     5EE        24 ZYsetRAMRO
+  0.0     1988/02/01 0956   ------wr     5F0        40 Info
+  0.0     1987/12/07 1650   ------wr     5F2      1630 PROGRAM$TMP
+  0.0     1987/12/07 1528   ------wr     5FA     13734 PROGRAM$UUTX3
+  0.0     1987/12/09 1642   ------wr     631     14277 PROGRAM$UUTX1_1
+  0.0     1988/02/24 1121   ------wr     66A     11003 TEXT$CONVERSION
+  0.0     1988/02/24 1122   ------wr     696       393 RESPONSE$DATA_CONV
+  0.0     1988/02/24 1122   ------wr     699       206 RESPONSE$SLAVE_UP1
+  0.0     1988/02/24 1122   ------wr     69B       192 RESPONSE$RTC1
+  0.0     1988/08/19 1011   ---w--wr     69D      1500 RESPONSE$IO_RDY
+  0.0     1988/02/24 1123   ------wr     6AC       185 RESPONSE$CO_UP
+  0.0     1988/02/24 1123   ------wr     6AE       142 RESPONSE$UUT_RESET
+  0.0     1988/02/24 1123   ------wr     6B0        92 RESPONSE$INTA
+  0.0     1988/02/24 1123   ------wr     6B2       204 RESPONSE$FUSE
+  0.0     1988/02/24 1123   ------wr     6B4       247 RESPONSE$XIO_SELECT
+  0.0     1988/06/01 1431   ------wr     6B6      1812 PROGRAM$SLAVE_UP1
+  0.0     1988/06/01 1411   ------wr     6BF      1158 PROGRAM$DATA_CONV
+  0.0     1988/06/01 1428   ------wr     6C5      2181 PROGRAM$RTC1
+  0.0     1988/02/24 1129   ------wr     6CF      3580 PROGRAM$TEMP
+  0.0     1988/02/24 1130   ------wr     6DE      1513 PROGRAM$INTR_DATA
+  0.0     1988/06/01 1418   ------wr     6E5      1241 PROGRAM$IO_RDY
+  0.0     1988/02/24 1130   ------wr     6EB      2717 PROGRAM$RTC_DUMP
+  0.0     1988/06/01 1410   ------wr     6F7      1061 PROGRAM$CO_UP
+  0.0     1988/06/01 1415   ------wr     6FD      3057 PROGRAM$INTA
+  0.0     1988/06/01 1433   ------wr     70A      3246 PROGRAM$UUT_RESET
+  0.0     1988/06/01 1414   ------wr     718      1443 PROGRAM$FUSE
+  0.0     1988/02/24 1131   ------wr     71F      1126 PROGRAM$TRY_IO
+  0.0     1988/02/24 1131   ------wr     725      1132 PROGRAM$TST_READY
+  0.0     1988/02/24 1131   ------wr     72B       898 PROGRAM$TST_CLOCK
+  0.0     1988/07/02 1257   ------wr     730      3035 PROGRAM$UUT_INIT
+  0.0     1988/03/02 1736   ------wr     73D      2202 PROGRAM$ORGAN
+  0.0     1988/05/27 1026   ---w--wr     747       159 PROGRAM$POWER_ON
+  0.0     1988/05/27 1025   ---w--wr     749       145 PROGRAM$POWER_OFF
+  0.0     1988/05/28 0843   ------wr     74B      5618 PROGRAM$DEBUG
+  0.0     1988/08/15 1600   ------wr     762      8756 PROGRAM$RAM_HYPER
+  0.0     1987/12/07 1524   ------wr     786      1025 RESPONSE$DMA0_ADDR
+  0.0     1987/12/07 1524   ------wr     78C       709 RESPONSE$DMA1_ADDR
+  0.0     1989/04/03 1010   ---w--wr     790         2 TEXT$DMAGFI
+  0.0     1988/08/22 0933   ---w--wr     792      3289 TEXT$ADT_LST
+  0.0     1988/08/22 0937   ---w--wr     7A0      2559 TEXT$TST_PRO
+  0.0     1988/08/22 0938   ---w--wr     7AB       744 TEXT$FAULT

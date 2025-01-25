@@ -1,0 +1,17 @@
+Name: IBM PC Fixtures
+Provided-By: Steve Larkins
+Archived-By: Ian Eure
+Archived: 2025-01-19
+Drive: Sony MPF920
+DTC: KryoFlux DiskTool Console, v3.50_Linux_x86-64_LU, uiv.1, May  2 2024, 16:14:05
+Dump: 01/NG
+
+Notes:
+
+User-created test disks for IBM PC/XT and/or PC/AT.  The disks labels
+are inconsistent with their contents and reality.  The XT_286 disk
+contains an XT_286 UUT, but the PC/XT used an 8mhz 8088, not a 286.
+The XT_FIXTURE disk contains an AT_FIXTURE UUT, which appers to be a
+fairly complete PC/AT troubleshooting suite, including responses and
+GFI.  It's appears to derive from (or be heavily inspired by) the
+Demo/Trainer User Disk.

@@ -1,0 +1,50 @@
+
+                           Directory of XT_286__01-NG.raw,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/28 1130   d-ewrewr       3       288 ..
+  0.1     1989/04/28 1130   d-ewrewr       3       288 .
+  0.0     1989/04/28 1130   d-ewrewr       C        64 SYSDISK
+  0.0     1989/04/28 1130   d-ewrewr      15        64 PARTLIB$PARTLIB
+  0.0     1989/04/28 1131   d-ewrewr      1E        64 PODLIB$PODLIB
+  0.0     1989/04/28 1131   d-ewrewr      27        64 PROGLIB$PROGLIB
+  0.0     1989/04/28 1131   d-ewrewr      30        64 HELPLIB$HELPLIB
+  0.0     1989/04/28 1131   ------wr      39         0 MEVALID
+  0.0     1989/04/28 1134   d-ewrewr      3A        96 UUT$XT_286
+
+                           Directory of XT_286__01-NG.raw,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/28 1130   d-ewrewr       3       288 ..
+  0.0     1989/04/28 1130   d-ewrewr       C        64 .
+
+                           Directory of XT_286__01-NG.raw,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/28 1130   d-ewrewr       3       288 ..
+  0.0     1989/04/28 1130   d-ewrewr      15        64 .
+
+                           Directory of XT_286__01-NG.raw,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/28 1130   d-ewrewr       3       288 ..
+  0.0     1989/04/28 1131   d-ewrewr      1E        64 .
+
+                           Directory of XT_286__01-NG.raw,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/28 1130   d-ewrewr       3       288 ..
+  0.0     1989/04/28 1131   d-ewrewr      27        64 .
+
+                           Directory of XT_286__01-NG.raw,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/28 1130   d-ewrewr       3       288 ..
+  0.0     1989/04/28 1131   d-ewrewr      30        64 .
+
+                           Directory of XT_286__01-NG.raw,/UUT$XT_286
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/28 1130   d-ewrewr       3       288 ..
+  0.0     1989/04/28 1134   d-ewrewr      3A        96 .
+  0.0     1989/03/15 1509   ---w--wr      43      1125 PROGRAM$VIDEOINIT
