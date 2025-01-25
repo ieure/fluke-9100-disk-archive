@@ -1,0 +1,16 @@
+
+                           Directory of SYSTEM_DISK-D2-V6.1__03-OG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/07/24 1002   d-ewrewr       3       128 ..
+  0.1     1991/07/24 1002   d-ewrewr       3       128 .
+  0.0     1991/07/24 1456   d-ewrewr       C       128 ROM
+  0.0     1991/07/24 1500   ------wr     937         4 .xxx
+
+                           Directory of SYSTEM_DISK-D2-V6.1__03-OG.rawtmp,/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1991/07/24 1002   d-ewrewr       3       128 ..
+  0.0     1991/07/24 1456   d-ewrewr       C       128 .
+  0.0     1991/07/24 1443   --e-rewr      15    302140 level1
+  0.0     1991/07/24 1437   --e-rewr     4B3    295594 appl
