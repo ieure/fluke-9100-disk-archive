@@ -1,0 +1,1412 @@
+Sun Jan 19 10:30:18 PM UTC 2025
+
+dtc -l15 -fprogrammer-60.img -i0a -z1 -n0 -k1 -i4 -d1 -e83 -d1
+
+
+005021a3: status=0
+005021b7: status=0
+005021cb: reset=0
+0050261d: info=1, name=KryoFlux DiskSystem, version=3.00s, date=Mar 27 2018, time=18:25:55
+00502631: info=2, hwid=1, hwrv=1, hs=1, sck=24027428.5714285, ick=3003428.5714285625, wb=32768, wa=64, wq=8, wt=65535, wm=26
+00502645: device=1
+00502659: density=0
+0050266d: min_track=0
+00502681: max_track=83
+KryoFlux DiskTool Console, v3.50_Linux_x86-64_LU, uiv.1, May  2 2024, 16:14:05
+(c) 2009-2024 KryoFlux Products & Services Ltd.
+Developed by The Software Preservation Society, www.softpres.org
+Licensed for private, non-commercial use only.
+
+00502695: motor=1
+00502a16: index=2, 99d5380c, 99de5e67
+00502a2a: motor=1
+00502a3e: index=2, 99d5380c, 99de5e67
+00502a52: motor=1
+00502a66: index=3, 99d5380c, 99de5e67, 99e78671
+00502a7a: motor=1
+00502a8e: index=3, 99d5380c, 99de5e67, 99e78671
+00502aa2: motor=1
+00502ab6: index=3, 99d5380c, 99de5e67, 99e78671
+00502aca: motor=1
+00502ade: index=3, 99d5380c, 99de5e67, 99e78671
+00502af2: motor=1
+00502b06: index=3, 99d5380c, 99de5e67, 99e78671
+00502b1a: motor=1
+00502b2e: index=3, 99d5380c, 99de5e67, 99e78671
+00502b42: motor=1
+00502b56: index=4, 99d5380c, 99de5e67, 99e78671, 99f0afcc
+00502b6a: motor=1
+00502b7e: index=4, 99d5380c, 99de5e67, 99e78671, 99f0afcc
+00502b92: motor=1
+00502ba6: index=4, 99d5380c, 99de5e67, 99e78671, 99f0afcc
+00502bba: motor=1
+00502bce: index=4, 99d5380c, 99de5e67, 99e78671, 99f0afcc
+00502be2: motor=1
+00502bf6: index=4, 99d5380c, 99de5e67, 99e78671, 99f0afcc
+00502c0a: motor=1
+00502c1e: index=5, 99d5380c, 99de5e67, 99e78671, 99f0afcc, 99f9d93e
+00502c32: motor=1
+00502c46: index=5, 99d5380c, 99de5e67, 99e78671, 99f0afcc, 99f9d93e
+00502c5a: motor=1
+00502c6e: index=5, 99d5380c, 99de5e67, 99e78671, 99f0afcc, 99f9d93e
+00502c82: motor=1
+00502c96: index=5, 99d5380c, 99de5e67, 99e78671, 99f0afcc, 99f9d93e
+00502caa: motor=1
+00502cbe: index=5, 99d5380c, 99de5e67, 99e78671, 99f0afcc, 99f9d93e
+00502cd2: motor=1
+00502ce6: index=6, 99d5380c, 99de5e67, 99e78671, 99f0afcc, 99f9d93e, 9a03029a
+00502cfa: motor=1
+00502d0e: side=0
+00502d22: track=0
+00502d36: stream=1
+00502f31: stream=0
+00.0    : frev: 45279, drift: 1.228 us, tfer: 209974 B/s, rpm: 300.132
+00.0    : base: 1.994 us [99.816%], band: 3.991 us, 5.982 us, 8.006 us
+00.0    : MFM: OK, trk: 000, sec: 16
+00502fb5: motor=1
+00502fc9: side=1
+00502fde: track=0
+00502ff2: stream=1
+00503260: stream=0
+00.1    : frev: 40222, drift: 0.146 us, tfer: 185761 B/s, rpm: 300.126
+00.1    : base: 1.994 us [98.974%], band: 3.986 us, 5.983 us, 7.846 us
+00.1    : MFM: OK, trk: 000, sec: 16
+005032e5: motor=1
+005032f9: side=0
+0050330e: track=1
+0050337a: stream=1
+00503592: stream=0
+01.0    : frev: 39266, drift: 0.083 us, tfer: 179484 B/s, rpm: 300.162
+01.0    : base: 1.996 us [99.651%], band: 3.974 us, 5.987 us, 8.023 us
+01.0    : MFM: OK, trk: 001, sec: 16
+00503602: motor=1
+00503616: side=1
+0050362b: track=1
+0050363f: stream=1
+005038c0: stream=0
+01.1    : frev: 40272, drift: 0.104 us, tfer: 187892 B/s, rpm: 300.125
+01.1    : base: 1.995 us [99.731%], band: 3.993 us, 5.984 us, 8.025 us
+01.1    : MFM: OK, trk: 001, sec: 16
+00503945: motor=1
+00503959: side=0
+0050396e: track=2
+005039b4: stream=1
+00503bf1: stream=0
+02.0    : frev: 41224, drift: 1.477 us, tfer: 193060 B/s, rpm: 300.132
+02.0    : base: 1.997 us [99.692%], band: 3.987 us, 5.990 us, 7.967 us
+02.0    : MFM: OK, trk: 002, sec: 16
+00503c76: motor=1
+00503c8a: side=1
+00503c9f: track=2
+00503cb3: stream=1
+00503f1e: stream=0
+02.1    : frev: 40072, drift: 0.541 us, tfer: 185761 B/s, rpm: 300.120
+02.1    : base: 1.996 us [99.669%], band: 3.985 us, 5.989 us, 7.967 us
+02.1    : MFM: OK, trk: 002, sec: 16
+00503fa2: motor=1
+00503fb6: side=0
+00503fcb: track=3
+00504011: stream=1
+0050424d: stream=0
+03.0    : frev: 40474, drift: 0.708 us, tfer: 189341 B/s, rpm: 300.132
+03.0    : base: 1.996 us [99.804%], band: 3.987 us, 5.987 us, 8.009 us
+03.0    : MFM: OK, trk: 003, sec: 16
+005042d2: motor=1
+005042e6: side=1
+005042fb: track=3
+0050430f: stream=1
+0050457e: stream=0
+03.1    : frev: 40443, drift: 0.583 us, tfer: 188614 B/s, rpm: 300.132
+03.1    : base: 1.997 us [99.869%], band: 3.988 us, 5.992 us, 8.003 us
+03.1    : MFM: OK, trk: 003, sec: 16
+00504602: motor=1
+00504616: side=0
+0050462b: track=4
+00504671: stream=1
+005048af: stream=0
+04.0    : frev: 41062, drift: 0.645 us, tfer: 190811 B/s, rpm: 300.138
+04.0    : base: 1.997 us [99.771%], band: 3.989 us, 5.991 us, 7.979 us
+04.0    : MFM: OK, trk: 004, sec: 16
+0050491f: motor=1
+00504933: side=1
+00504948: track=4
+0050495c: stream=1
+00504bdc: stream=0
+04.1    : frev: 38774, drift: 0.042 us, tfer: 180972 B/s, rpm: 300.125
+04.1    : base: 1.997 us [99.837%], band: 3.988 us, 5.992 us, 7.990 us
+04.1    : MFM: OK, trk: 004, sec: 16
+00504c4e: motor=1
+00504c62: side=0
+00504c77: track=5
+00504cbd: stream=1
+00504f0e: stream=0
+05.0    : frev: 40620, drift: 0.125 us, tfer: 188614 B/s, rpm: 300.131
+05.0    : base: 1.995 us [99.845%], band: 3.987 us, 5.985 us, 8.000 us
+05.0    : MFM: OK, trk: 005, sec: 16
+00504f7f: motor=1
+00504f93: side=1
+00504fa8: track=5
+00504fbc: stream=1
+00505242: stream=0
+05.1    : frev: 41098, drift: 0.104 us, tfer: 190441 B/s, rpm: 300.125
+05.1    : base: 1.998 us [99.760%], band: 3.986 us, 5.993 us, 8.021 us
+05.1    : MFM: OK, trk: 005, sec: 16
+005052c6: motor=1
+005052da: side=0
+005052ef: track=6
+00505335: stream=1
+0050556d: stream=0
+06.0    : frev: 41003, drift: 0.603 us, tfer: 190811 B/s, rpm: 300.133
+06.0    : base: 1.996 us [99.859%], band: 3.988 us, 5.988 us, 7.999 us
+06.0    : MFM: OK, trk: 006, sec: 16
+005055de: motor=1
+005055f2: side=1
+00505607: track=6
+0050561b: stream=1
+005058a0: stream=0
+06.1    : frev: 40646, drift: 0.916 us, tfer: 188614 B/s, rpm: 300.126
+06.1    : base: 1.997 us [99.847%], band: 3.987 us, 5.992 us, 8.007 us
+06.1    : MFM: OK, trk: 006, sec: 16
+00505912: motor=1
+00505926: side=0
+0050593b: track=7
+00505981: stream=1
+00505bd0: stream=0
+07.0    : frev: 40542, drift: 0.166 us, tfer: 187892 B/s, rpm: 300.137
+07.0    : base: 1.996 us [99.806%], band: 3.986 us, 5.989 us, 8.011 us
+07.0    : MFM: OK, trk: 007, sec: 16
+00505c41: motor=1
+00505c55: side=1
+00505c6a: track=7
+00505c7e: stream=1
+00505efb: stream=0
+07.1    : frev: 40554, drift: 0.812 us, tfer: 189341 B/s, rpm: 300.127
+07.1    : base: 1.998 us [99.896%], band: 3.988 us, 5.995 us, 8.002 us
+07.1    : MFM: OK, trk: 007, sec: 16
+00505f80: motor=1
+00505f94: side=0
+00505fa9: track=8
+00505fef: stream=1
+0050622b: stream=0
+08.0    : frev: 40692, drift: 0.042 us, tfer: 190073 B/s, rpm: 300.137
+08.0    : base: 1.996 us [99.803%], band: 3.987 us, 5.987 us, 7.990 us
+08.0    : MFM: OK, trk: 008, sec: 16
+005062b0: motor=1
+005062c4: side=1
+005062d9: track=8
+005062ed: stream=1
+0050655e: stream=0
+08.1    : frev: 40638, drift: 0.042 us, tfer: 189706 B/s, rpm: 300.126
+08.1    : base: 1.997 us [99.870%], band: 3.988 us, 5.992 us, 7.997 us
+08.1    : MFM: OK, trk: 008, sec: 16
+005065ce: motor=1
+005065e2: side=0
+005065f7: track=9
+0050663d: stream=1
+0050688f: stream=0
+09.0    : frev: 40655, drift: 0.104 us, tfer: 188614 B/s, rpm: 300.145
+09.0    : base: 1.995 us [99.834%], band: 3.988 us, 5.985 us, 7.997 us
+09.0    : MFM: OK, trk: 009, sec: 16
+00506900: motor=1
+00506914: side=1
+00506929: track=9
+0050693d: stream=1
+00506bbe: stream=0
+09.1    : frev: 39974, drift: 0.062 us, tfer: 186113 B/s, rpm: 300.132
+09.1    : base: 1.999 us [99.917%], band: 3.989 us, 5.997 us, 8.000 us
+09.1    : MFM: OK, trk: 009, sec: 16
+00506c2f: motor=1
+00506c43: side=0
+00506c58: track=10
+00506c9e: stream=1
+00506eee: stream=0
+10.0    : frev: 40425, drift: 0.021 us, tfer: 187892 B/s, rpm: 300.139
+10.0    : base: 1.996 us [99.791%], band: 3.988 us, 5.988 us, 7.986 us
+10.0    : MFM: OK, trk: 010, sec: 16
+00506f5e: motor=1
+00506f72: side=1
+00506f87: track=10
+00506f9b: stream=1
+0050721c: stream=0
+10.1    : frev: 40573, drift: 0.250 us, tfer: 189341 B/s, rpm: 300.133
+10.1    : base: 1.999 us [99.872%], band: 3.987 us, 5.996 us, 8.005 us
+10.1    : MFM: OK, trk: 010, sec: 16
+005072a0: motor=1
+005072b4: side=0
+005072c9: track=11
+0050730f: stream=1
+0050754c: stream=0
+11.0    : frev: 39841, drift: 0.749 us, tfer: 185411 B/s, rpm: 300.138
+11.0    : base: 1.997 us [99.715%], band: 3.988 us, 5.992 us, 7.968 us
+11.0    : MFM: OK, trk: 011, sec: 16
+005075d0: motor=1
+005075e4: side=1
+005075f9: track=11
+0050760d: stream=1
+0050787d: stream=0
+11.1    : frev: 40690, drift: 0.978 us, tfer: 189341 B/s, rpm: 300.127
+11.1    : base: 1.997 us [99.801%], band: 3.983 us, 5.991 us, 8.009 us
+11.1    : MFM: OK, trk: 011, sec: 16
+005078ed: motor=1
+00507901: side=0
+00507916: track=12
+0050795c: stream=1
+00507bac: stream=0
+12.0    : frev: 40436, drift: 0.708 us, tfer: 189341 B/s, rpm: 300.138
+12.0    : base: 1.996 us [99.851%], band: 3.987 us, 5.989 us, 7.997 us
+12.0    : MFM: OK, trk: 012, sec: 16
+00507c31: motor=1
+00507c45: side=1
+00507c5a: track=12
+00507c6e: stream=1
+00507edb: stream=0
+12.1    : frev: 40325, drift: 0.062 us, tfer: 187177 B/s, rpm: 300.134
+12.1    : base: 1.999 us [99.836%], band: 3.984 us, 5.996 us, 7.990 us
+12.1    : MFM: OK, trk: 012, sec: 16
+00507f60: motor=1
+00507f74: side=0
+00507f89: track=13
+00507fcf: stream=1
+0050820c: stream=0
+13.0    : frev: 40586, drift: 0.166 us, tfer: 188252 B/s, rpm: 300.139
+13.0    : base: 1.995 us [99.761%], band: 3.986 us, 5.984 us, 7.988 us
+13.0    : MFM: OK, trk: 013, sec: 16
+00508290: motor=1
+005082a4: side=1
+005082b9: track=13
+005082cd: stream=1
+0050853b: stream=0
+13.1    : frev: 40508, drift: 0.042 us, tfer: 188252 B/s, rpm: 300.128
+13.1    : base: 1.998 us [99.818%], band: 3.983 us, 5.994 us, 8.010 us
+13.1    : MFM: OK, trk: 013, sec: 16
+005085ac: motor=1
+005085c0: side=0
+005085d5: track=14
+0050861b: stream=1
+00508869: stream=0
+14.0    : frev: 40708, drift: 0.166 us, tfer: 190073 B/s, rpm: 300.140
+14.0    : base: 1.995 us [99.836%], band: 3.987 us, 5.986 us, 8.002 us
+14.0    : MFM: OK, trk: 014, sec: 16
+005088ed: motor=1
+00508901: side=1
+00508916: track=14
+0050892a: stream=1
+00508b99: stream=0
+14.1    : frev: 40098, drift: 0.895 us, tfer: 187177 B/s, rpm: 300.128
+14.1    : base: 1.998 us [99.809%], band: 3.982 us, 5.995 us, 8.011 us
+14.1    : MFM: OK, trk: 014, sec: 16
+00508c09: motor=1
+00508c1d: side=0
+00508c32: track=15
+00508c78: stream=1
+00508eca: stream=0
+15.0    : frev: 40318, drift: 0.603 us, tfer: 187534 B/s, rpm: 300.140
+15.0    : base: 1.995 us [99.830%], band: 3.986 us, 5.985 us, 7.998 us
+15.0    : MFM: OK, trk: 015, sec: 16
+00508f4e: motor=1
+00508f62: side=1
+00508f77: track=15
+00508f8b: stream=1
+005091f9: stream=0
+15.1    : frev: 40402, drift: 0.104 us, tfer: 188614 B/s, rpm: 300.134
+15.1    : base: 1.999 us [99.750%], band: 3.982 us, 5.998 us, 7.975 us
+15.1    : MFM: OK, trk: 015, sec: 16
+0050926a: motor=1
+0050927e: side=0
+00509293: track=16
+005092d9: stream=1
+00509528: stream=0
+16.0    : frev: 40538, drift: 0.208 us, tfer: 188614 B/s, rpm: 300.140
+16.0    : base: 1.998 us [99.840%], band: 3.986 us, 5.993 us, 7.992 us
+16.0    : MFM: OK, trk: 016, sec: 16
+00509598: motor=1
+005095ac: side=1
+005095c1: track=16
+005095d5: stream=1
+0050985a: stream=0
+16.1    : frev: 40642, drift: 0.083 us, tfer: 188976 B/s, rpm: 300.134
+16.1    : base: 1.999 us [99.839%], band: 3.983 us, 5.997 us, 7.991 us
+16.1    : MFM: OK, trk: 016, sec: 16
+005098e0: motor=1
+005098f4: side=0
+00509909: track=17
+0050994f: stream=1
+00509b8b: stream=0
+17.0    : frev: 40456, drift: 0.104 us, tfer: 188614 B/s, rpm: 300.147
+17.0    : base: 1.995 us [99.759%], band: 3.986 us, 5.986 us, 7.984 us
+17.0    : MFM: OK, trk: 017, sec: 16
+00509c10: motor=1
+00509c24: side=1
+00509c39: track=17
+00509c4d: stream=1
+00509ebc: stream=0
+17.1    : frev: 39847, drift: 0.083 us, tfer: 185411 B/s, rpm: 300.141
+17.1    : base: 1.998 us [99.863%], band: 3.983 us, 5.993 us, 7.999 us
+17.1    : MFM: OK, trk: 017, sec: 16
+00509f2c: motor=1
+00509f40: side=0
+00509f55: track=18
+00509f9b: stream=1
+0050a1eb: stream=0
+18.0    : frev: 40467, drift: 0.062 us, tfer: 188614 B/s, rpm: 300.153
+18.0    : base: 1.995 us [99.811%], band: 3.986 us, 5.984 us, 7.996 us
+18.0    : MFM: OK, trk: 018, sec: 16
+0050a25c: motor=1
+0050a270: side=1
+0050a285: track=18
+0050a299: stream=1
+0050a519: stream=0
+18.1    : frev: 40512, drift: 1.145 us, tfer: 189341 B/s, rpm: 300.135
+18.1    : base: 1.996 us [99.730%], band: 3.983 us, 5.988 us, 8.019 us
+18.1    : MFM: OK, trk: 018, sec: 16
+0050a59e: motor=1
+0050a5b2: side=0
+0050a5c7: track=19
+0050a60d: stream=1
+0050a849: stream=0
+19.0    : frev: 41122, drift: 0.083 us, tfer: 191182 B/s, rpm: 300.147
+19.0    : base: 1.996 us [99.776%], band: 3.986 us, 5.987 us, 7.986 us
+19.0    : MFM: OK, trk: 019, sec: 16
+0050a8ba: motor=1
+0050a8ce: side=1
+0050a8e3: track=19
+0050a8f7: stream=1
+0050ab79: stream=0
+19.1    : frev: 40522, drift: 0.832 us, tfer: 189341 B/s, rpm: 300.134
+19.1    : base: 1.997 us [99.820%], band: 3.983 us, 5.992 us, 7.993 us
+19.1    : MFM: OK, trk: 019, sec: 16
+0050abeb: motor=1
+0050abff: side=0
+0050ac14: track=20
+0050ac5a: stream=1
+0050aea9: stream=0
+20.0    : frev: 39723, drift: 0.708 us, tfer: 184714 B/s, rpm: 300.147
+20.0    : base: 1.997 us [99.826%], band: 3.987 us, 5.990 us, 7.991 us
+20.0    : MFM: OK, trk: 020, sec: 16
+0050af19: motor=1
+0050af2d: side=1
+0050af42: track=20
+0050af56: stream=1
+0050b1d9: stream=0
+20.1    : frev: 40039, drift: 0.042 us, tfer: 187177 B/s, rpm: 300.136
+20.1    : base: 1.997 us [99.789%], band: 3.984 us, 5.990 us, 8.012 us
+20.1    : MFM: OK, trk: 020, sec: 16
+0050b25d: motor=1
+0050b271: side=0
+0050b286: track=21
+0050b2cc: stream=1
+0050b50b: stream=0
+21.0    : frev: 40046, drift: 1.124 us, tfer: 187177 B/s, rpm: 300.141
+21.0    : base: 1.996 us [99.767%], band: 3.985 us, 5.987 us, 7.987 us
+21.0    : MFM: OK, trk: 021, sec: 16
+0050b57b: motor=1
+0050b58f: side=1
+0050b5a4: track=21
+0050b5b8: stream=1
+0050b83a: stream=0
+21.1    : frev: 40168, drift: 1.165 us, tfer: 186821 B/s, rpm: 300.136
+21.1    : base: 1.998 us [99.855%], band: 3.983 us, 5.995 us, 8.005 us
+21.1    : MFM: OK, trk: 021, sec: 16
+0050b8aa: motor=1
+0050b8be: side=0
+0050b8d3: track=22
+0050b919: stream=1
+0050bb67: stream=0
+22.0    : frev: 40908, drift: 0.770 us, tfer: 190811 B/s, rpm: 300.148
+22.0    : base: 1.997 us [99.825%], band: 3.987 us, 5.990 us, 7.992 us
+22.0    : MFM: OK, trk: 022, sec: 16
+0050bbd8: motor=1
+0050bbec: side=1
+0050bc01: track=22
+0050bc15: stream=1
+0050be9a: stream=0
+22.1    : frev: 40592, drift: 0.125 us, tfer: 189341 B/s, rpm: 300.136
+22.1    : base: 1.997 us [99.862%], band: 3.983 us, 5.992 us, 8.000 us
+22.1    : MFM: OK, trk: 022, sec: 16
+0050bf0a: motor=1
+0050bf1e: side=0
+0050bf33: track=23
+0050bf79: stream=1
+0050c1c9: stream=0
+23.0    : frev: 40185, drift: 0.104 us, tfer: 187534 B/s, rpm: 300.153
+23.0    : base: 1.997 us [99.810%], band: 3.986 us, 5.990 us, 7.990 us
+23.0    : MFM: OK, trk: 023, sec: 16
+0050c24d: motor=1
+0050c261: side=1
+0050c276: track=23
+0050c28a: stream=1
+0050c4f4: stream=0
+23.1    : frev: 40314, drift: 0.624 us, tfer: 186821 B/s, rpm: 300.130
+23.1    : base: 2.000 us [99.897%], band: 3.982 us, 6.000 us, 8.000 us
+23.1    : MFM: OK, trk: 023, sec: 16
+0050c579: motor=1
+0050c58d: side=0
+0050c5a2: track=24
+0050c5e8: stream=1
+0050c827: stream=0
+24.0    : frev: 40454, drift: 1.186 us, tfer: 188614 B/s, rpm: 300.148
+24.0    : base: 1.997 us [99.839%], band: 3.986 us, 5.991 us, 7.994 us
+24.0    : MFM: OK, trk: 024, sec: 16
+0050c8ab: motor=1
+0050c8bf: side=1
+0050c8d4: track=24
+0050c8e8: stream=1
+0050cb59: stream=0
+24.1    : frev: 40796, drift: 0.187 us, tfer: 190073 B/s, rpm: 300.137
+24.1    : base: 1.999 us [99.832%], band: 3.983 us, 5.998 us, 7.988 us
+24.1    : MFM: OK, trk: 024, sec: 16
+0050cbdd: motor=1
+0050cbf1: side=0
+0050cc06: track=25
+0050cc4c: stream=1
+0050ce88: stream=0
+25.0    : frev: 39854, drift: 0.083 us, tfer: 185411 B/s, rpm: 300.148
+25.0    : base: 1.996 us [99.801%], band: 3.987 us, 5.988 us, 7.990 us
+25.0    : MFM: OK, trk: 025, sec: 16
+0050cef8: motor=1
+0050cf0c: side=1
+0050cf21: track=25
+0050cf35: stream=1
+0050d1b8: stream=0
+25.1    : frev: 40896, drift: 0.229 us, tfer: 190441 B/s, rpm: 300.131
+25.1    : base: 1.999 us [99.828%], band: 3.983 us, 5.996 us, 7.990 us
+25.1    : MFM: OK, trk: 025, sec: 16
+0050d23c: motor=1
+0050d250: side=0
+0050d265: track=26
+0050d2ab: stream=1
+0050d4e7: stream=0
+26.0    : frev: 40382, drift: 0.874 us, tfer: 188976 B/s, rpm: 300.143
+26.0    : base: 1.997 us [99.777%], band: 3.984 us, 5.990 us, 7.985 us
+26.0    : MFM: OK, trk: 026, sec: 16
+0050d56b: motor=1
+0050d57f: side=1
+0050d594: track=26
+0050d5a8: stream=1
+0050d815: stream=0
+26.1    : frev: 40423, drift: 1.040 us, tfer: 187892 B/s, rpm: 300.138
+26.1    : base: 1.999 us [99.834%], band: 3.982 us, 5.997 us, 7.992 us
+26.1    : MFM: OK, trk: 026, sec: 16
+0050d8ad: motor=1
+0050d8c1: side=0
+0050d8d6: track=27
+0050d91c: stream=1
+0050db44: stream=0
+27.0    : frev: 40919, drift: 0.708 us, tfer: 191182 B/s, rpm: 300.149
+27.0    : base: 1.998 us [99.859%], band: 3.985 us, 5.995 us, 7.995 us
+27.0    : MFM: OK, trk: 027, sec: 16
+0050dbc8: motor=1
+0050dbdc: side=1
+0050dbf1: track=27
+0050dc05: stream=1
+0050de77: stream=0
+27.1    : frev: 40589, drift: 0.125 us, tfer: 189341 B/s, rpm: 300.143
+27.1    : base: 1.999 us [99.806%], band: 3.984 us, 5.998 us, 7.984 us
+27.1    : MFM: OK, trk: 027, sec: 16
+0050defc: motor=1
+0050df10: side=0
+0050df25: track=28
+0050df6b: stream=1
+0050e1a9: stream=0
+28.0    : frev: 40672, drift: 0.083 us, tfer: 190073 B/s, rpm: 300.149
+28.0    : base: 1.997 us [99.764%], band: 3.986 us, 5.990 us, 7.981 us
+28.0    : MFM: OK, trk: 028, sec: 16
+0050e21a: motor=1
+0050e22e: side=1
+0050e243: track=28
+0050e257: stream=1
+0050e4d6: stream=0
+28.1    : frev: 40470, drift: 0.687 us, tfer: 187892 B/s, rpm: 300.131
+28.1    : base: 1.999 us [99.748%], band: 3.980 us, 5.997 us, 7.977 us
+28.1    : MFM: OK, trk: 028, sec: 16
+0050e547: motor=1
+0050e55b: side=0
+0050e570: track=29
+0050e5b6: stream=1
+0050e806: stream=0
+29.0    : frev: 39758, drift: 0.666 us, tfer: 184714 B/s, rpm: 300.149
+29.0    : base: 1.996 us [99.798%], band: 3.987 us, 5.987 us, 7.990 us
+29.0    : MFM: OK, trk: 029, sec: 16
+0050e876: motor=1
+0050e88a: side=1
+0050e89f: track=29
+0050e8b3: stream=1
+0050eb37: stream=0
+29.1    : frev: 40458, drift: 0.083 us, tfer: 188614 B/s, rpm: 300.136
+29.1    : base: 2.000 us [99.872%], band: 3.982 us, 6.001 us, 7.996 us
+29.1    : MFM: OK, trk: 029, sec: 16
+0050ebbb: motor=1
+0050ebcf: side=0
+0050ebe4: track=30
+0050ec2a: stream=1
+0050ee65: stream=0
+30.0    : frev: 40154, drift: 0.083 us, tfer: 186821 B/s, rpm: 300.149
+30.0    : base: 1.996 us [99.770%], band: 3.987 us, 5.988 us, 7.983 us
+30.0    : MFM: OK, trk: 030, sec: 16
+0050eee9: motor=1
+0050eefd: side=1
+0050ef12: track=30
+0050ef26: stream=1
+0050f194: stream=0
+30.1    : frev: 40338, drift: 0.021 us, tfer: 187534 B/s, rpm: 300.131
+30.1    : base: 1.999 us [99.803%], band: 3.984 us, 5.997 us, 7.984 us
+30.1    : MFM: OK, trk: 030, sec: 16
+0050f218: motor=1
+0050f22c: side=0
+0050f241: track=31
+0050f287: stream=1
+0050f4c2: stream=0
+31.0    : frev: 41008, drift: 0.062 us, tfer: 191182 B/s, rpm: 300.149
+31.0    : base: 1.997 us [99.846%], band: 3.987 us, 5.992 us, 7.994 us
+31.0    : MFM: OK, trk: 031, sec: 16
+0050f546: motor=1
+0050f55a: side=1
+0050f56f: track=31
+0050f583: stream=1
+0050f7f7: stream=0
+31.1    : frev: 40753, drift: 0.146 us, tfer: 189341 B/s, rpm: 300.137
+31.1    : base: 2.000 us [99.838%], band: 3.983 us, 5.999 us, 7.989 us
+31.1    : MFM: OK, trk: 031, sec: 16
+0050f867: motor=1
+0050f87b: side=0
+0050f890: track=32
+0050f8d6: stream=1
+0050fb25: stream=0
+32.0    : frev: 40370, drift: 0.042 us, tfer: 187892 B/s, rpm: 300.149
+32.0    : base: 1.996 us [99.826%], band: 3.986 us, 5.989 us, 8.006 us
+32.0    : MFM: OK, trk: 032, sec: 16
+0050fbaa: motor=1
+0050fbbe: side=1
+0050fbd3: track=32
+0050fbe7: stream=1
+0050fe52: stream=0
+32.1    : frev: 40526, drift: 0.104 us, tfer: 187534 B/s, rpm: 300.138
+32.1    : base: 2.000 us [99.864%], band: 3.984 us, 6.000 us, 8.009 us
+32.1    : MFM: OK, trk: 032, sec: 16
+0050fed7: motor=1
+0050feeb: side=0
+0050ff00: track=33
+0050ff46: stream=1
+00510186: stream=0
+33.0    : frev: 42958, drift: 0.083 us, tfer: 199731 B/s, rpm: 300.148
+33.0    : base: 1.995 us [99.677%], band: 3.990 us, 5.985 us, 7.967 us
+33.0    : MFM: OK, trk: 033, sec: 16
+005101f6: motor=1
+0051020a: side=1
+0051021f: track=33
+00510233: stream=1
+005104b5: stream=0
+33.1    : frev: 43802, drift: 0.687 us, tfer: 202614 B/s, rpm: 300.138
+33.1    : base: 2.003 us [99.836%], band: 3.992 us, 6.010 us, 7.989 us
+33.1    : MFM: OK, trk: 033, sec: 16
+00510539: motor=1
+0051054d: side=0
+00510562: track=34
+005105a8: stream=1
+005107e7: stream=0
+34.0    : frev: 43518, drift: 0.666 us, tfer: 202614 B/s, rpm: 300.144
+34.0    : base: 1.996 us [99.669%], band: 3.989 us, 5.988 us, 7.964 us
+34.0    : MFM: OK, trk: 034, sec: 16
+00510859: motor=1
+0051086d: side=1
+00510882: track=34
+00510896: stream=1
+00510b16: stream=0
+34.1    : frev: 43000, drift: 0.062 us, tfer: 200138 B/s, rpm: 300.131
+34.1    : base: 2.000 us [99.893%], band: 3.991 us, 6.000 us, 7.990 us
+34.1    : MFM: OK, trk: 034, sec: 16
+00510b87: motor=1
+00510b9b: side=0
+00510bb0: track=35
+00510bf6: stream=1
+00510e46: stream=0
+35.0    : frev: 43258, drift: 0.645 us, tfer: 201782 B/s, rpm: 300.142
+35.0    : base: 1.997 us [99.803%], band: 3.991 us, 5.990 us, 8.016 us
+35.0    : MFM: OK, trk: 035, sec: 16
+00510eb6: motor=1
+00510eca: side=1
+00510edf: track=35
+00510ef3: stream=1
+00511170: stream=0
+35.1    : frev: 39196, drift: 0.125 us, tfer: 182994 B/s, rpm: 300.137
+35.1    : base: 1.999 us [99.776%], band: 3.982 us, 5.997 us, 8.019 us
+35.1    : MFM: OK, trk: 035, sec: 16
+005111f4: motor=1
+00511208: side=0
+0051121d: track=36
+00511263: stream=1
+005114a0: stream=0
+36.0    : frev: 40229, drift: 1.727 us, tfer: 188252 B/s, rpm: 300.150
+36.0    : base: 1.998 us [99.826%], band: 3.989 us, 5.995 us, 7.985 us
+36.0    : MFM: OK, trk: 036, sec: 16
+00511525: motor=1
+00511539: side=1
+0051154e: track=36
+00511562: stream=1
+005117cf: stream=0
+36.1    : frev: 40226, drift: 0.125 us, tfer: 187534 B/s, rpm: 300.136
+36.1    : base: 1.999 us [99.850%], band: 3.979 us, 5.996 us, 8.003 us
+36.1    : MFM: OK, trk: 036, sec: 16
+00511854: motor=1
+00511868: side=0
+0051187d: track=37
+005118c3: stream=1
+00511afe: stream=0
+37.0    : frev: 39338, drift: 0.104 us, tfer: 183678 B/s, rpm: 300.143
+37.0    : base: 1.997 us [99.759%], band: 3.981 us, 5.991 us, 7.984 us
+37.0    : MFM: OK, trk: 037, sec: 16
+00511b83: motor=1
+00511b97: side=1
+00511bac: track=37
+00511bc0: stream=1
+00511e2f: stream=0
+37.1    : frev: 40266, drift: 0.499 us, tfer: 187892 B/s, rpm: 300.130
+37.1    : base: 2.000 us [99.863%], band: 3.981 us, 6.000 us, 8.005 us
+37.1    : MFM: OK, trk: 037, sec: 16
+00511eb5: motor=1
+00511ec9: side=0
+00511ede: track=38
+00511f24: stream=1
+0051215e: stream=0
+38.0    : frev: 40480, drift: 0.062 us, tfer: 188252 B/s, rpm: 300.149
+38.0    : base: 1.996 us [99.787%], band: 3.981 us, 5.988 us, 7.992 us
+38.0    : MFM: OK, trk: 038, sec: 16
+005121d0: motor=1
+005121e4: side=1
+005121f9: track=38
+0051220d: stream=1
+0051248e: stream=0
+38.1    : frev: 40258, drift: 1.082 us, tfer: 187892 B/s, rpm: 300.137
+38.1    : base: 1.999 us [99.816%], band: 3.983 us, 5.996 us, 8.012 us
+38.1    : MFM: OK, trk: 038, sec: 16
+005124fe: motor=1
+00512512: side=0
+00512527: track=39
+0051256d: stream=1
+005127c4: stream=0
+39.0    : frev: 40413, drift: 0.499 us, tfer: 187177 B/s, rpm: 300.155
+39.0    : base: 1.997 us [99.819%], band: 3.980 us, 5.990 us, 8.002 us
+39.0    : MFM: OK, trk: 039, sec: 16
+00512835: motor=1
+00512849: side=1
+0051285e: track=39
+00512872: stream=1
+00512af7: stream=0
+39.1    : frev: 40116, drift: 0.146 us, tfer: 186113 B/s, rpm: 300.131
+39.1    : base: 1.999 us [99.829%], band: 3.981 us, 5.998 us, 7.990 us
+39.1    : MFM: OK, trk: 039, sec: 16
+00512b7b: motor=1
+00512b8f: side=0
+00512ba4: track=40
+00512bea: stream=1
+00512e24: stream=0
+40.0    : frev: 40768, drift: 1.020 us, tfer: 190073 B/s, rpm: 300.150
+40.0    : base: 1.998 us [99.843%], band: 3.981 us, 5.994 us, 8.003 us
+40.0    : MFM: OK, trk: 040, sec: 16
+00512e94: motor=1
+00512ea8: side=1
+00512ebd: track=40
+00512ed1: stream=1
+00513153: stream=0
+40.1    : frev: 39734, drift: 0.042 us, tfer: 184714 B/s, rpm: 300.131
+40.1    : base: 1.997 us [99.832%], band: 3.981 us, 5.992 us, 7.997 us
+40.1    : MFM: OK, trk: 040, sec: 16
+005131d7: motor=1
+005131eb: side=0
+00513200: track=41
+00513246: stream=1
+00513487: stream=0
+41.0    : frev: 40490, drift: 0.603 us, tfer: 188614 B/s, rpm: 300.149
+41.0    : base: 1.996 us [99.754%], band: 3.980 us, 5.988 us, 7.988 us
+41.0    : MFM: OK, trk: 041, sec: 16
+005134f7: motor=1
+0051350b: side=1
+00513520: track=41
+00513534: stream=1
+005137b3: stream=0
+41.1    : frev: 40349, drift: 0.042 us, tfer: 187177 B/s, rpm: 300.137
+41.1    : base: 1.998 us [99.804%], band: 3.981 us, 5.995 us, 8.012 us
+41.1    : MFM: OK, trk: 041, sec: 16
+00513838: motor=1
+0051384c: side=0
+00513861: track=42
+005138a7: stream=1
+00513adf: stream=0
+42.0    : frev: 40402, drift: 0.062 us, tfer: 188614 B/s, rpm: 300.143
+42.0    : base: 1.995 us [99.760%], band: 3.980 us, 5.986 us, 7.991 us
+42.0    : MFM: OK, trk: 042, sec: 16
+00513b64: motor=1
+00513b78: side=1
+00513b8d: track=42
+00513ba1: stream=1
+00513e0f: stream=0
+42.1    : frev: 40882, drift: 0.104 us, tfer: 190441 B/s, rpm: 300.136
+42.1    : base: 2.000 us [99.794%], band: 3.977 us, 6.000 us, 7.986 us
+42.1    : MFM: OK, trk: 042, sec: 16
+00513e93: motor=1
+00513ea7: side=0
+00513ebc: track=43
+00513f02: stream=1
+0051413d: stream=0
+43.0    : frev: 40468, drift: 0.062 us, tfer: 188976 B/s, rpm: 300.143
+43.0    : base: 1.997 us [99.823%], band: 3.983 us, 5.990 us, 8.005 us
+43.0    : MFM: OK, trk: 043, sec: 16
+005141ad: motor=1
+005141c1: side=1
+005141d6: track=43
+005141ea: stream=1
+00514472: stream=0
+43.1    : frev: 40518, drift: 0.021 us, tfer: 187892 B/s, rpm: 300.137
+43.1    : base: 1.999 us [99.738%], band: 3.975 us, 5.997 us, 8.019 us
+43.1    : MFM: OK, trk: 043, sec: 16
+005144f6: motor=1
+0051450a: side=0
+0051451f: track=44
+00514565: stream=1
+005147a4: stream=0
+44.0    : frev: 40551, drift: 0.062 us, tfer: 188976 B/s, rpm: 300.149
+44.0    : base: 1.997 us [99.753%], band: 3.983 us, 5.990 us, 7.983 us
+44.0    : MFM: OK, trk: 044, sec: 16
+00514815: motor=1
+00514829: side=1
+0051483e: track=44
+00514852: stream=1
+00514ad3: stream=0
+44.1    : frev: 41108, drift: 0.083 us, tfer: 190073 B/s, rpm: 300.131
+44.1    : base: 1.999 us [99.866%], band: 3.982 us, 5.998 us, 8.004 us
+44.1    : MFM: OK, trk: 044, sec: 16
+00514b43: motor=1
+00514b57: side=0
+00514b6c: track=45
+00514bb2: stream=1
+00514e00: stream=0
+45.0    : frev: 40817, drift: 1.020 us, tfer: 189341 B/s, rpm: 300.148
+45.0    : base: 1.997 us [99.811%], band: 3.981 us, 5.991 us, 7.995 us
+45.0    : MFM: OK, trk: 045, sec: 16
+00514e70: motor=1
+00514e84: side=1
+00514e99: track=45
+00514ead: stream=1
+0051512d: stream=0
+45.1    : frev: 39530, drift: 0.083 us, tfer: 182315 B/s, rpm: 300.131
+45.1    : base: 1.999 us [99.833%], band: 3.980 us, 5.997 us, 7.993 us
+45.1    : MFM: OK, trk: 045, sec: 16
+0051519d: motor=1
+005151b1: side=0
+005151c6: track=46
+0051520c: stream=1
+0051545c: stream=0
+46.0    : frev: 42618, drift: 0.146 us, tfer: 198521 B/s, rpm: 300.143
+46.0    : base: 1.997 us [99.889%], band: 3.990 us, 5.992 us, 8.003 us
+46.0    : MFM: OK, trk: 046, sec: 16
+005154cc: motor=1
+005154e0: side=1
+005154f5: track=46
+00515509: stream=1
+0051578c: stream=0
+46.1    : frev: 43597, drift: 0.874 us, tfer: 202614 B/s, rpm: 300.137
+46.1    : base: 2.000 us [99.823%], band: 3.991 us, 6.001 us, 8.023 us
+46.1    : MFM: OK, trk: 046, sec: 16
+005157fc: motor=1
+00515810: side=0
+00515825: track=47
+0051586b: stream=1
+00515abe: stream=0
+47.0    : frev: 39676, drift: 0.000 us, tfer: 182654 B/s, rpm: 300.148
+47.0    : base: 1.997 us [99.801%], band: 3.983 us, 5.991 us, 7.990 us
+47.0    : MFM: OK, trk: 047, sec: 16
+00515b42: motor=1
+00515b56: side=1
+00515b6b: track=47
+00515b7f: stream=1
+00515deb: stream=0
+47.1    : frev: 40564, drift: 1.186 us, tfer: 189341 B/s, rpm: 300.136
+47.1    : base: 2.000 us [99.879%], band: 3.980 us, 6.001 us, 8.001 us
+47.1    : MFM: OK, trk: 047, sec: 16
+00515e70: motor=1
+00515e84: side=0
+00515e99: track=48
+00515edf: stream=1
+00516119: stream=0
+48.0    : frev: 40662, drift: 0.042 us, tfer: 190073 B/s, rpm: 300.143
+48.0    : base: 1.997 us [99.832%], band: 3.980 us, 5.991 us, 8.002 us
+48.0    : MFM: OK, trk: 048, sec: 16
+00516189: motor=1
+0051619d: side=1
+005161b2: track=48
+005161c6: stream=1
+00516384: stream=0
+48.1    : frev: 40938, drift: 0.083 us, tfer: 182994 B/s, rpm: 300.136
+48.1    : base: 1.999 us [99.863%], band: 3.981 us, 5.998 us, 8.004 us
+48.1    : MFM: OK, trk: 048, sec: 16
+005163f5: motor=1
+00516409: side=0
+0051641e: track=49
+00516464: stream=1
+005166b5: stream=0
+49.0    : frev: 40580, drift: 0.104 us, tfer: 188252 B/s, rpm: 300.148
+49.0    : base: 1.996 us [99.807%], band: 3.980 us, 5.989 us, 7.996 us
+49.0    : MFM: OK, trk: 049, sec: 16
+00516725: motor=1
+00516739: side=1
+0051674e: track=49
+00516762: stream=1
+005169e0: stream=0
+49.1    : frev: 41006, drift: 1.228 us, tfer: 188976 B/s, rpm: 300.137
+49.1    : base: 1.998 us [99.857%], band: 3.982 us, 5.994 us, 8.001 us
+49.1    : MFM: OK, trk: 049, sec: 16
+00516a64: motor=1
+00516a78: side=0
+00516a8d: track=50
+00516ad3: stream=1
+00516d13: stream=0
+50.0    : frev: 40314, drift: 0.562 us, tfer: 187177 B/s, rpm: 300.142
+50.0    : base: 1.998 us [99.861%], band: 3.981 us, 5.995 us, 7.999 us
+50.0    : MFM: OK, trk: 050, sec: 16
+00516d84: motor=1
+00516d98: side=1
+00516dad: track=50
+00516dc1: stream=1
+00517041: stream=0
+50.1    : frev: 40742, drift: 0.042 us, tfer: 188614 B/s, rpm: 300.136
+50.1    : base: 1.999 us [99.832%], band: 3.981 us, 5.996 us, 8.008 us
+50.1    : MFM: OK, trk: 050, sec: 16
+005170c5: motor=1
+005170d9: side=0
+005170ee: track=51
+00517134: stream=1
+00517370: stream=0
+51.0    : frev: 40500, drift: 1.519 us, tfer: 187534 B/s, rpm: 300.148
+51.0    : base: 1.999 us [99.892%], band: 3.986 us, 5.998 us, 7.997 us
+51.0    : MFM: OK, trk: 051, sec: 16
+005173e0: motor=1
+005173f4: side=1
+00517409: track=51
+0051741d: stream=1
+0051769e: stream=0
+51.1    : frev: 41984, drift: 0.062 us, tfer: 193440 B/s, rpm: 300.131
+51.1    : base: 1.999 us [99.805%], band: 3.987 us, 5.998 us, 7.980 us
+51.1    : MFM: OK, trk: 051, sec: 16
+00517723: motor=1
+00517737: side=0
+0051774c: track=52
+00517792: stream=1
+005179cc: stream=0
+52.0    : frev: 40706, drift: 0.083 us, tfer: 189341 B/s, rpm: 300.142
+52.0    : base: 1.998 us [99.740%], band: 3.978 us, 5.994 us, 7.981 us
+52.0    : MFM: OK, trk: 052, sec: 16
+00517a3c: motor=1
+00517a50: side=1
+00517a65: track=52
+00517a79: stream=1
+00517cfd: stream=0
+52.1    : frev: 39958, drift: 0.042 us, tfer: 185411 B/s, rpm: 300.136
+52.1    : base: 1.998 us [99.832%], band: 3.981 us, 5.995 us, 7.993 us
+52.1    : MFM: OK, trk: 052, sec: 16
+00517d6e: motor=1
+00517d82: side=0
+00517d97: track=53
+00517ddd: stream=1
+0051802d: stream=0
+53.0    : frev: 40706, drift: 0.832 us, tfer: 188976 B/s, rpm: 300.143
+53.0    : base: 1.998 us [99.798%], band: 3.979 us, 5.994 us, 7.991 us
+53.0    : MFM: OK, trk: 053, sec: 16
+0051809e: motor=1
+005180b2: side=1
+005180c7: track=53
+005180db: stream=1
+0051835c: stream=0
+53.1    : frev: 39927, drift: 0.166 us, tfer: 185761 B/s, rpm: 300.129
+53.1    : base: 1.998 us [99.801%], band: 3.980 us, 5.994 us, 7.989 us
+53.1    : MFM: OK, trk: 053, sec: 16
+005183cc: motor=1
+005183e0: side=0
+005183f5: track=54
+0051843b: stream=1
+0051868c: stream=0
+54.0    : frev: 40473, drift: 0.687 us, tfer: 187892 B/s, rpm: 300.142
+54.0    : base: 1.999 us [99.836%], band: 3.982 us, 5.997 us, 8.009 us
+54.0    : MFM: OK, trk: 054, sec: 16
+005186fc: motor=1
+00518710: side=1
+00518725: track=54
+00518739: stream=1
+005189c0: stream=0
+54.1    : frev: 41078, drift: 0.603 us, tfer: 190811 B/s, rpm: 300.129
+54.1    : base: 1.999 us [99.828%], band: 3.984 us, 5.996 us, 7.989 us
+54.1    : MFM: OK, trk: 054, sec: 16
+00518a30: motor=1
+00518a44: side=0
+00518a59: track=55
+00518a9f: stream=1
+00518ced: stream=0
+55.0    : frev: 42260, drift: 0.042 us, tfer: 194590 B/s, rpm: 300.142
+55.0    : base: 1.999 us [99.900%], band: 3.990 us, 5.997 us, 7.995 us
+55.0    : MFM: OK, trk: 055, sec: 16
+00518d5d: motor=1
+00518d71: side=1
+00518d86: track=55
+00518d9a: stream=1
+0051901c: stream=0
+55.1    : frev: 42164, drift: 0.125 us, tfer: 195363 B/s, rpm: 300.131
+55.1    : base: 1.998 us [99.823%], band: 3.992 us, 5.995 us, 7.981 us
+55.1    : MFM: OK, trk: 055, sec: 16
+005190a0: motor=1
+005190b4: side=0
+005190c9: track=56
+0051910f: stream=1
+0051934a: stream=0
+56.0    : frev: 39338, drift: 0.125 us, tfer: 183678 B/s, rpm: 300.135
+56.0    : base: 1.999 us [99.810%], band: 3.984 us, 5.997 us, 7.985 us
+56.0    : MFM: OK, trk: 056, sec: 16
+005193ba: motor=1
+005193ce: side=1
+005193e3: track=56
+005193f7: stream=1
+0051967b: stream=0
+56.1    : frev: 38806, drift: 0.083 us, tfer: 180639 B/s, rpm: 300.135
+56.1    : base: 2.000 us [99.780%], band: 3.970 us, 6.000 us, 8.009 us
+56.1    : MFM: OK, trk: 056, sec: 16
+005196eb: motor=1
+005196ff: side=0
+00519714: track=57
+0051975a: stream=1
+005199aa: stream=0
+57.0    : frev: 39586, drift: 0.042 us, tfer: 184714 B/s, rpm: 300.142
+57.0    : base: 2.000 us [99.876%], band: 3.981 us, 6.001 us, 7.997 us
+57.0    : MFM: OK, trk: 057, sec: 16
+00519a2f: motor=1
+00519a43: side=1
+00519a58: track=57
+00519a6c: stream=1
+00519cd9: stream=0
+57.1    : frev: 38749, drift: 0.541 us, tfer: 181641 B/s, rpm: 300.135
+57.1    : base: 1.999 us [99.820%], band: 3.972 us, 5.998 us, 8.002 us
+57.1    : MFM: OK, trk: 057, sec: 16
+00519d49: motor=1
+00519d5d: side=0
+00519d72: track=58
+00519db8: stream=1
+0051a009: stream=0
+58.0    : frev: 38872, drift: 0.042 us, tfer: 182315 B/s, rpm: 300.135
+58.0    : base: 2.002 us [99.804%], band: 3.976 us, 6.005 us, 7.994 us
+58.0    : MFM: OK, trk: 058, sec: 16
+0051a08d: motor=1
+0051a0a1: side=1
+0051a0b6: track=58
+0051a0ca: stream=1
+0051a33d: stream=0
+58.1    : frev: 39349, drift: 0.666 us, tfer: 184714 B/s, rpm: 300.135
+58.1    : base: 1.998 us [99.839%], band: 3.978 us, 5.994 us, 8.001 us
+58.1    : MFM: OK, trk: 058, sec: 16
+0051a3ae: motor=1
+0051a3c2: side=0
+0051a3d7: track=59
+0051a41d: stream=1
+0051a66b: stream=0
+59.0    : frev: 38335, drift: 0.208 us, tfer: 179321 B/s, rpm: 300.147
+59.0    : base: 1.999 us [99.655%], band: 3.952 us, 5.997 us, 7.988 us
+59.0    : MFM: OK, trk: 059, sec: 16
+0051a6db: motor=1
+0051a6ef: side=1
+0051a704: track=59
+0051a718: stream=1
+0051a99d: stream=0
+59.1    : frev: 38313, drift: 0.042 us, tfer: 178669 B/s, rpm: 300.136
+59.1    : base: 2.000 us [99.440%], band: 3.926 us, 6.000 us, 8.026 us
+59.1    : MFM: OK, trk: 059, sec: 16
+0051aa21: motor=1
+0051aa35: side=0
+0051aa4a: track=60
+0051aa90: stream=1
+0051acca: stream=0
+60.0    : frev: 38354, drift: 0.229 us, tfer: 178994 B/s, rpm: 300.141
+60.0    : base: 1.999 us [99.496%], band: 3.927 us, 5.996 us, 8.014 us
+60.0    : MFM: OK, trk: 060, sec: 16
+0051ad3a: motor=1
+0051ad4e: side=1
+0051ad63: track=60
+0051ad77: stream=1
+0051affd: stream=0
+60.1    : frev: 38328, drift: 0.624 us, tfer: 178669 B/s, rpm: 300.135
+60.1    : base: 2.001 us [99.280%], band: 3.924 us, 6.004 us, 7.950 us?
+60.1    : MFM: OK, trk: 060, sec: 16
+0051b081: motor=1
+0051b095: side=0
+0051b0aa: track=61
+0051b0f0: stream=1
+0051b32a: stream=0
+61.0    : frev: 38333, drift: 0.042 us, tfer: 178994 B/s, rpm: 300.142
+61.0    : base: 2.000 us [99.437%], band: 3.929 us, 5.999 us, 7.971 us
+61.0    : MFM: OK, trk: 061, sec: 16
+0051b3af: motor=1
+0051b3c3: side=1
+0051b3d8: track=61
+0051b3ec: stream=1
+0051b65c: stream=0
+61.1    : frev: 38318, drift: 0.603 us, tfer: 179321 B/s, rpm: 300.135
+61.1    : base: 2.000 us [98.885%], band: 3.930 us, 5.999 us, 7.869 us
+61.1    : MFM: OK, trk: 061, sec: 16
+0051b6cd: motor=1
+0051b6e1: side=0
+0051b6f6: track=62
+0051b73c: stream=1
+0051b988: stream=0
+62.0    : frev: 38350, drift: 0.146 us, tfer: 179321 B/s, rpm: 300.147
+62.0    : base: 1.998 us [99.347%], band: 3.935 us, 5.994 us, 7.953 us
+62.0    : MFM: OK, trk: 062, sec: 16
+0051ba0d: motor=1
+0051ba21: side=1
+0051ba36: track=62
+0051ba4a: stream=1
+0051bcbb: stream=0
+62.1    : frev: 38333, drift: 0.458 us, tfer: 179321 B/s, rpm: 300.135
+62.1    : base: 2.002 us [98.825%], band: 3.927 us, 6.005 us, 8.133 us
+62.1    : MFM: OK, trk: 062, sec: 16
+0051bd2b: motor=1
+0051bd3f: side=0
+0051bd54: track=63
+0051bd9a: stream=1
+0051bfe9: stream=0
+63.0    : frev: 38346, drift: 0.021 us, tfer: 178994 B/s, rpm: 300.147
+63.0    : base: 2.000 us [99.454%], band: 3.935 us, 5.999 us, 7.967 us
+63.0    : MFM: OK, trk: 063, sec: 16
+0051c06d: motor=1
+0051c081: side=1
+0051c096: track=63
+0051c0aa: stream=1
+0051c31a: stream=0
+63.1    : frev: 38333, drift: 0.895 us, tfer: 179321 B/s, rpm: 300.135
+63.1    : base: 2.001 us [99.045%], band: 3.913 us, 6.002 us, 7.917 us?
+63.1    : MFM: OK, trk: 063, sec: 16
+0051c38b: motor=1
+0051c39f: side=0
+0051c3b4: track=64
+0051c3fa: stream=1
+0051c649: stream=0
+64.0    : frev: 38846, drift: 0.125 us, tfer: 180972 B/s, rpm: 300.140
+64.0    : base: 2.001 us [99.783%], band: 3.977 us, 6.004 us, 7.988 us
+64.0    : MFM: OK, trk: 064, sec: 16
+0051c6ce: motor=1
+0051c6e2: side=1
+0051c6f7: track=64
+0051c70b: stream=1
+0051c976: stream=0
+64.1    : frev: 38733, drift: 0.104 us, tfer: 181306 B/s, rpm: 300.127
+64.1    : base: 2.000 us [99.675%], band: 3.966 us, 6.001 us, 8.023 us
+64.1    : MFM: OK, trk: 064, sec: 16
+0051c9fa: motor=1
+0051ca0e: side=0
+0051ca23: track=65
+0051ca69: stream=1
+0051cca5: stream=0
+65.0    : frev: 38916, drift: 0.104 us, tfer: 180972 B/s, rpm: 300.140
+65.0    : base: 2.000 us [99.788%], band: 3.968 us, 6.001 us, 8.005 us
+65.0    : MFM: OK, trk: 065, sec: 16
+0051cd2a: motor=1
+0051cd3e: side=1
+0051cd53: track=65
+0051cd67: stream=1
+0051cfd8: stream=0
+65.1    : frev: 38856, drift: 0.021 us, tfer: 181641 B/s, rpm: 300.134
+65.1    : base: 2.000 us [99.788%], band: 3.965 us, 6.001 us, 7.999 us
+65.1    : MFM: OK, trk: 065, sec: 16
+0051d049: motor=1
+0051d05d: side=0
+0051d072: track=66
+0051d0b8: stream=1
+0051d309: stream=0
+66.0    : frev: 38834, drift: 0.000 us, tfer: 181306 B/s, rpm: 300.136
+66.0    : base: 1.999 us [99.788%], band: 3.967 us, 5.998 us, 7.997 us
+66.0    : MFM: OK, trk: 066, sec: 16
+0051d379: motor=1
+0051d38d: side=1
+0051d3a2: track=66
+0051d3b6: stream=1
+0051d638: stream=0
+66.1    : frev: 38878, drift: 0.083 us, tfer: 181641 B/s, rpm: 300.134
+66.1    : base: 2.001 us [99.663%], band: 3.967 us, 6.003 us, 8.025 us
+66.1    : MFM: OK, trk: 066, sec: 16
+0051d6bd: motor=1
+0051d6d1: side=0
+0051d6e6: track=67
+0051d72c: stream=1
+0051d966: stream=0
+67.0    : frev: 39215, drift: 0.062 us, tfer: 183335 B/s, rpm: 300.148
+67.0    : base: 2.000 us [99.745%], band: 3.966 us, 6.000 us, 8.011 us
+67.0    : MFM: OK, trk: 067, sec: 16
+0051d9fe: motor=1
+0051da12: side=1
+0051da27: track=67
+0051da3b: stream=1
+0051dc97: stream=0
+67.1    : frev: 39086, drift: 0.104 us, tfer: 181977 B/s, rpm: 300.134
+67.1    : base: 2.000 us [99.786%], band: 3.964 us, 6.001 us, 7.999 us
+67.1    : MFM: OK, trk: 067, sec: 16
+0051dd1b: motor=1
+0051dd2f: side=0
+0051dd44: track=68
+0051dd8a: stream=1
+0051dfc9: stream=0
+68.0    : frev: 38799, drift: 0.083 us, tfer: 181306 B/s, rpm: 300.141
+68.0    : base: 2.002 us [99.757%], band: 3.967 us, 6.006 us, 7.995 us
+68.0    : MFM: OK, trk: 068, sec: 16
+0051e04d: motor=1
+0051e061: side=1
+0051e076: track=68
+0051e08a: stream=1
+0051e2f5: stream=0
+68.1    : frev: 38901, drift: 0.104 us, tfer: 181641 B/s, rpm: 300.135
+68.1    : base: 2.000 us [99.723%], band: 3.963 us, 5.999 us, 8.012 us
+68.1    : MFM: OK, trk: 068, sec: 16
+0051e37a: motor=1
+0051e38e: side=0
+0051e3a3: track=69
+0051e3e9: stream=1
+0051e626: stream=0
+69.0    : frev: 38922, drift: 0.104 us, tfer: 181977 B/s, rpm: 300.134
+69.0    : base: 2.002 us [99.763%], band: 3.967 us, 6.007 us, 7.997 us
+69.0    : MFM: OK, trk: 069, sec: 16
+0051e696: motor=1
+0051e6aa: side=1
+0051e6bf: track=69
+0051e6d3: stream=1
+0051e956: stream=0
+69.1    : frev: 39300, drift: 0.104 us, tfer: 183335 B/s, rpm: 300.128
+69.1    : base: 2.000 us [99.833%], band: 3.974 us, 6.001 us, 8.003 us
+69.1    : MFM: OK, trk: 069, sec: 16
+0051e9db: motor=1
+0051e9ef: side=0
+0051ea04: track=70
+0051ea4a: stream=1
+0051ec86: stream=0
+70.0    : frev: 38749, drift: 0.166 us, tfer: 181641 B/s, rpm: 300.141
+70.0    : base: 2.002 us [99.804%], band: 3.971 us, 6.005 us, 7.999 us
+70.0    : MFM: OK, trk: 070, sec: 16
+0051ed0a: motor=1
+0051ed1e: side=1
+0051ed33: track=70
+0051ed47: stream=1
+0051efb6: stream=0
+70.1    : frev: 38658, drift: 0.125 us, tfer: 179648 B/s, rpm: 300.134
+70.1    : base: 2.000 us [99.812%], band: 3.968 us, 6.000 us, 7.998 us
+70.1    : MFM: OK, trk: 070, sec: 16
+0051f03a: motor=1
+0051f04e: side=0
+0051f063: track=71
+0051f0a9: stream=1
+0051f2e8: stream=0
+71.0    : frev: 38700, drift: 0.978 us, tfer: 179978 B/s, rpm: 300.140
+71.0    : base: 2.002 us [99.759%], band: 3.967 us, 6.005 us, 7.994 us
+71.0    : MFM: OK, trk: 071, sec: 16
+0051f36f: motor=1
+0051f383: side=1
+0051f398: track=71
+0051f3ac: stream=1
+0051f617: stream=0
+71.1    : frev: 38181, drift: 0.166 us, tfer: 178669 B/s, rpm: 300.135
+71.1    : base: 2.001 us [99.771%], band: 3.963 us, 6.004 us, 7.999 us
+71.1    : MFM: OK, trk: 071, sec: 16
+0051f69c: motor=1
+0051f6b0: side=0
+0051f6c5: track=72
+0051f70b: stream=1
+0051f946: stream=0
+72.0    : frev: 38787, drift: 0.708 us, tfer: 181641 B/s, rpm: 300.146
+72.0    : base: 2.001 us [99.810%], band: 3.975 us, 6.004 us, 7.995 us
+72.0    : MFM: OK, trk: 072, sec: 16
+0051f9cb: motor=1
+0051f9df: side=1
+0051f9f4: track=72
+0051fa08: stream=1
+0051fc73: stream=0
+72.1    : frev: 38729, drift: 0.791 us, tfer: 181641 B/s, rpm: 300.134
+72.1    : base: 2.001 us [99.785%], band: 3.971 us, 6.004 us, 7.995 us
+72.1    : MFM: OK, trk: 072, sec: 16
+0051fcf8: motor=1
+0051fd0c: side=0
+0051fd21: track=73
+0051fd67: stream=1
+0051ffa6: stream=0
+73.0    : frev: 38808, drift: 0.104 us, tfer: 180972 B/s, rpm: 300.140
+73.0    : base: 2.000 us [99.196%], band: 3.943 us, 6.001 us, 8.086 us
+73.0    : MFM: OK, trk: 073, sec: 16
+0052002b: motor=1
+0052003f: side=1
+00520054: track=73
+00520068: stream=1
+005202d8: stream=0
+73.1    : frev: 38299, drift: 0.562 us, tfer: 179321 B/s, rpm: 300.134
+73.1    : base: 2.000 us [99.063%], band: 3.920 us, 6.000 us, 7.911 us
+73.1    : MFM: OK, trk: 073, sec: 16
+00520349: motor=1
+0052035d: side=0
+00520372: track=74
+005203b8: stream=1
+00520605: stream=0
+74.0    : frev: 38318, drift: 0.645 us, tfer: 178669 B/s, rpm: 300.141
+74.0    : base: 2.004 us [98.562%], band: 3.890 us, 6.012 us, 7.863 us
+74.0    : MFM: OK, trk: 074, sec: 16
+00520676: motor=1
+0052068a: side=1
+0052069f: track=74
+005206b3: stream=1
+00520935: stream=0
+74.1    : frev: 38302, drift: 1.623 us, tfer: 178021 B/s, rpm: 300.134
+74.1    : base: 2.002 us [99.155%], band: 3.883 us, 6.006 us, 7.971 us
+74.1    : MFM: OK, trk: 074, sec: 16
+005209ba: motor=1
+005209ce: side=0
+005209e3: track=75
+00520a29: stream=1
+00520c66: stream=0
+75.0    : frev: 38320, drift: 0.062 us, tfer: 178669 B/s, rpm: 300.140
+75.0    : base: 2.004 us [98.612%], band: 3.885 us, 6.011 us, 8.124 us
+75.0    : MFM: OK, trk: 075, sec: 16
+00520cd6: motor=1
+00520cea: side=1
+00520cff: track=75
+00520d13: stream=1
+00520f98: stream=0
+75.1    : frev: 38305, drift: 0.166 us, tfer: 178344 B/s, rpm: 300.134
+75.1    : base: 2.002 us [99.258%], band: 3.886 us, 6.007 us, 8.013 us?
+75.1    : MFM: OK, trk: 075, sec: 16
+00521008: motor=1
+0052101c: side=0
+00521031: track=76
+00521077: stream=1
+005212c4: stream=0
+76.0    : frev: 38334, drift: 0.229 us, tfer: 178344 B/s, rpm: 300.140
+76.0    : base: 2.003 us [98.780%], band: 3.893 us, 6.010 us, 7.897 us
+76.0    : MFM: OK, trk: 076, sec: 16
+00521334: motor=1
+00521348: side=1
+0052135d: track=76
+00521371: stream=1
+005215f4: stream=0
+76.1    : frev: 38314, drift: 0.541 us, tfer: 178994 B/s, rpm: 300.128
+76.1    : base: 2.002 us [99.259%], band: 3.880 us, 6.007 us, 7.994 us
+76.1    : MFM: OK, trk: 076, sec: 16
+00521679: motor=1
+0052168d: side=0
+005216a2: track=77
+005216e8: stream=1
+00521924: stream=0
+77.0    : frev: 38317, drift: 1.040 us, tfer: 179321 B/s, rpm: 300.133
+77.0    : base: 2.002 us [99.044%], band: 3.889 us, 6.007 us, 8.054 us?
+77.0    : MFM: OK, trk: 077, sec: 16
+005219a8: motor=1
+005219bc: side=1
+005219d1: track=77
+005219e5: stream=1
+00521c58: stream=0
+77.1    : frev: 38301, drift: 0.104 us, tfer: 178344 B/s, rpm: 300.127
+77.1    : base: 2.002 us [98.757%], band: 3.879 us, 6.007 us, 7.904 us
+77.1    : MFM: OK, trk: 077, sec: 16
+00521cc8: motor=1
+00521cdc: side=0
+00521cf1: track=78
+00521d37: stream=1
+00521f83: stream=0
+78.0    : frev: 38332, drift: 0.874 us, tfer: 178669 B/s, rpm: 300.139
+78.0    : base: 2.004 us [98.825%], band: 3.880 us, 6.011 us, 8.081 us?
+78.0    : MFM: OK, trk: 078, sec: 16
+00521ff4: motor=1
+00522008: side=1
+0052201d: track=78
+00522031: stream=1
+005222b7: stream=0
+78.1    : frev: 38314, drift: 0.125 us, tfer: 178344 B/s, rpm: 300.133
+78.1    : base: 2.004 us [99.151%], band: 3.887 us, 6.013 us, 8.027 us
+78.1    : MFM: OK, trk: 078, sec: 16
+00522327: motor=1
+0052233b: side=0
+00522350: track=79
+00522396: stream=1
+005225e2: stream=0
+79.0    : frev: 38333, drift: 0.104 us, tfer: 178994 B/s, rpm: 300.146
+79.0    : base: 2.003 us [99.034%], band: 3.886 us, 6.009 us, 8.050 us
+79.0    : MFM: OK, trk: 079, sec: 16
+00522652: motor=1
+00522666: side=1
+0052267b: track=79
+0052268f: stream=1
+00522915: stream=0
+79.1    : frev: 38319, drift: 0.666 us, tfer: 178669 B/s, rpm: 300.134
+79.1    : base: 2.004 us [98.905%], band: 3.880 us, 6.013 us, 8.064 us
+79.1    : MFM: OK, trk: 079, sec: 16
+005229ad: motor=1
+005229c1: side=0
+005229d6: track=80
+00522a1c: stream=1
+00522c42: stream=0
+80.0    : frev: 24437, drift: 0.999 us, tfer: 131286 B/s, rpm: 300.146
+80.0    : base: 2.193 us [94.125%], band: 2.911 us, 4.057 us, 6.579 us
+80.0    : MFM: <unformatted>
+00522cb2: motor=1
+00522cc6: side=1
+00522cdb: track=80
+00522cef: stream=1
+00522f72: stream=0
+80.1    : frev: 18603, drift: 0.083 us, tfer: 114732 B/s, rpm: 300.133
+80.1    : base: 1.855 us [94.853%], band: 2.990 us, 4.235 us?, 5.565 us
+80.1    : MFM: <unformatted>
+00522ff7: motor=1
+0052300b: side=0
+00523020: track=81
+00523066: stream=1
+005232a1: stream=0
+81.0    : frev: 16841, drift: 0.562 us, tfer: 103006 B/s, rpm: 300.139
+81.0    : base: 1.005 us [64.502%], band: 2.867 us, 4.019 us?, 5.996 us?
+81.0    : MFM: <unformatted>
+00523311: motor=1
+00523325: side=1
+0052333a: track=81
+0052334e: stream=1
+005235cf: stream=0
+81.1    : frev: 14264, drift: 0.125 us, tfer: 90736 B/s, rpm: 300.127
+81.1    : base: 2.043 us [91.463%], band: 3.052 us, 6.128 us?, 7.253 us?
+81.1    : MFM: <unformatted>
+00523640: motor=1
+00523654: side=0
+00523669: track=82
+005236af: stream=1
+005238ff: stream=0
+82.0    : frev: 16921, drift: 0.042 us, tfer: 102683 B/s, rpm: 300.139
+82.0    : base: 0.994 us [64.645%], band: 2.881 us, 3.978 us?, 6.500 us?
+82.0    : MFM: <unformatted>
+00523984: motor=1
+00523998: side=1
+005239ad: track=82
+005239c1: stream=1
+00523c33: stream=0
+82.1    : frev: 14126, drift: 0.062 us, tfer: 88769 B/s, rpm: 300.133
+82.1    : base: 1.948 us [64.109%], band: 2.833 us, 3.895 us?, 6.151 us?
+82.1    : MFM: <unformatted>
+00523ca3: motor=1
+00523cb7: side=0
+00523ccc: track=83
+00523d12: stream=1
+00523f5d: stream=0
+83.0    : frev: 16831, drift: 0.583 us, tfer: 102683 B/s, rpm: 300.139
+83.0    : base: 1.007 us [64.610%], band: 2.882 us, 4.026 us?, 6.239 us?
+83.0    : MFM: <unformatted>
+00523fce: motor=1
+00523fe2: side=1
+00523ff7: track=83
+0052400b: stream=1
+005241c7: stream=0
+83.1    : frev: 14370, drift: 0.146 us, tfer: 91753 B/s, rpm: 300.134
+83.1    : base: 2.111 us [91.057%], band: 3.000 us, 4.222 us?, 8.364 us?
+83.1    : MFM: <unformatted>
+
+Enjoy your shiny new disk image!
+Please consider helping us to preserve media and continue development:
+www.softpres.org/donate
+
+00524224: motor=1
+00524238: side=0
+0052424d: track=0
+005245ad: motor=0
+
+Status: 0

@@ -1,0 +1,18 @@
+Name: 9100A System Disks V6.0
+Provided-By: Steve Larkins
+Archived-By: Ian Eure
+Archived: 2025-01-19
+Drive: Sony MPF920
+DTC: KryoFlux DiskTool Console, v3.50_Linux_x86-64_LU, uiv.1, May  2 2024, 16:14:05
+Dump: 02/MG
+
+Notes:
+
+This is a near-complete set of the V6.0 Fluke software, missing only
+the Demo/Trainer User Disk.  Compared tothe 01/MG diskset, this one
+has original, unmodified Master User Disks, Programmer System Disk,
+and IEEE-488 Feature Disk.  The three system disks have been modified,
+like the 01/MG dump.
+
+The last version of Demo/Trainer User Disk was V4.0, and may be
+sourced from the 9100-PROGRAMMERS_DISK_SET-V6.1__01-OG diskset.
