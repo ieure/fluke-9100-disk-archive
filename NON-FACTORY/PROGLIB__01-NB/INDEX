@@ -1,0 +1,54 @@
+
+                           Directory of proglib.raw,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/03 1021   d-ewrewr       3       288 ..
+  0.1     1989/04/03 1021   d-ewrewr       3       288 .
+  0.0     1989/04/03 1021   d-ewrewr       C        64 SYSDISK
+  0.0     1989/04/03 1021   d-ewrewr      15        64 PARTLIB$PARTLIB
+  0.0     1989/04/03 1021   d-ewrewr      1F        64 PODLIB$PODLIB
+  0.0     1989/04/03 1021   d-ewrewr      28       224 PROGLIB$PROGLIB
+  0.0     1989/04/03 1021   d-ewrewr      31        64 HELPLIB$HELPLIB
+  0.0     1989/04/03 1021   ------wr      3A         0 MEVALID
+  0.0     1989/07/05 1036   d-ewrewr      A7        64 UUT$HDR
+
+                           Directory of proglib.raw,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/03 1021   d-ewrewr       3       288 ..
+  0.0     1989/04/03 1021   d-ewrewr       C        64 .
+
+                           Directory of proglib.raw,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/03 1021   d-ewrewr       3       288 ..
+  0.0     1989/04/03 1021   d-ewrewr      15        64 .
+
+                           Directory of proglib.raw,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/03 1021   d-ewrewr       3       288 ..
+  0.0     1989/04/03 1021   d-ewrewr      1F        64 .
+
+                           Directory of proglib.raw,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/03 1021   d-ewrewr       3       288 ..
+  0.0     1989/04/03 1021   d-ewrewr      28       224 .
+  0.0     1900/05/04 0020   ------wr      3B     19873 PROGRAM$A_TABLE
+  0.0     1988/11/23 1653   ---w--wr      8A       888 PROGRAM$FKEYS
+  0.0     1988/10/11 1623   ------wr      8F       362 PROGRAM$GET_KEY
+  0.0     1988/10/11 1622   ------wr      92        47 PROGRAM$WAIT_KEY
+  0.0     1988/10/31 1544   ------wr      94      4424 PROGRAM$WMSG
+
+                           Directory of proglib.raw,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/03 1021   d-ewrewr       3       288 ..
+  0.0     1989/04/03 1021   d-ewrewr      31        64 .
+
+                           Directory of proglib.raw,/UUT$HDR
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/04/03 1021   d-ewrewr       3       288 ..
+  0.0     1989/07/05 1036   d-ewrewr      A7        64 .
