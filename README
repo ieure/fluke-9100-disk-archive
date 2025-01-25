@@ -9,6 +9,7 @@ varying formats, with inconsistent quality.
 The goals of this archive are to provide complete, documented,
 consistent, verified images.
 
+
 Organization
 ============
 
@@ -54,8 +55,8 @@ N - Non-archival media, such as user-created disks, or
     second-generation copies.
 
 I - Incomplete, disks missing from diskset.
-G - Good dump, all sectors read successfully.
-B - Bad dump, some sectors unreadable.
+G - Complete diskset, good dump: all sectors read successfully.
+B - Complete diskset, bad dump: some sectors unreadable.
 
 The status of a diskset is the same as the worst of each status of
 every disk in the set.  If a diskset contains all original disks, with
@@ -80,7 +81,6 @@ MASTER_USER_DISK-D1-V4.1__01-OG
 |
  ` Description of the data
 
-
 Directory Structure
 -------------------
 
@@ -89,9 +89,11 @@ disksets; underneath that is another directory for the disk(s) in the
 set.
 
 Each diskset directory contains a CATALOG file with additional
-information about the dump, 600dpi scans of the disks archived, an
-INDEX file with the contents of the disk, and the KryoFlux STREAM
-files.
+information about the dump.  Disks are stored in subdirectories of the
+diskset (if the set contains >1 disk).  Disk directories contain,
+scans of the disks archived (at 600 or 1200dpi), an INDEX file listing
+the contents of the disk, a DUMPLOG of DTC output when the disk was
+imaged, and the KryoFlux STREAM files.
 
 Non-Factory Dumps
 -----------------
@@ -99,11 +101,12 @@ Non-Factory Dumps
 In some cases, for the sake of completeness, a disk may be included in
 the archive even if it's not directly sourced from a mass-produced
 original disk.  Dumps which fall into this category are put in the
-NON-FACTORY directory.  This includes disks which have been modified,
-disks containing user-created programs, and other things of interest.
+NON-FACTORY directory.  This includes second-generation copies, disks
+containing user-created programs, and other things of interest.
 
-Writing Media
-=============
+
+KryoFlux DTC Usage
+==================
 
 Disks are preserved in the Kryoflux STREAM format, which allows
 perfect copies to be created.  Because these are archival images for
@@ -112,27 +115,44 @@ cannot be used directly without Kryoflux hardware.  However, SAMDisk
 supports KryoFlux STREAM images, and can be used to write the images
 to disks, or to convert to a more convenient format.
 
-To write an image to disk with SAMDisk:
+Images are created using KryoFlux DTC.  On Linux/Mac, this command
+will make an image of a double-density disk:
 
-SAMDISK COPY MASTER_USER_DISK-D1-V4.1,01-OG.img00.0.raw A:
+    export DISK=proglib (date --utc; echo; \
+                         dtc -l15 -f${DISK}.img \
+                             -i0a -z1 -n0 -k1 -i4 -d1 -e83 -d1;
+                         echo -e "\nStatus: $?") | tee DUMPLOG
 
-To write an image to disk with Kryoflux's DTC:
+To write an image to a disk:
 
-dtc -fMASTER_USER_DISK-D1-V4.1,01-OG.img00.0.raw -w
-
-To convert to ImageDisk format:
-
-SAMDISK COPY MASTER_USER_DISK-D1-V4.1,01-OG.img00.0.raw MUD1.IMD
-
-To convert to TeleDisk format:
-
-SAMDISK COPY MASTER_USER_DISK-D1-V4.1,01-OG.img00.0.raw MUD1.TD0
+	dtc -fMASTER_USER_DISK-D1-V4.1,01-OG.img00.0.raw -w
 
 To create a raw sector image with DiskTool Console:
 
-DTC -l15 -fmud1.img -e79 -z1 -n+16 -k1 -i4 -m1 \
-  -fMASTER_USER_DISK-D1-V4.1,01-OG -i0 -e83
+	dtc -l15 -fmud1.img -e79 -z1 -n+16 -k1 -i4 -m1 \
+	  -fMASTER_USER_DISK-D1-V4.1,01-OG -i0 -e83
 
+Raw sector images are helpful for examining disk contents on modern
+hardware.
+
+Other Tools
+-----------
+
+SAMDisk 4.x understands the STREAM format, allowing disks to be created without purchasing KryoFlux hardware:
+
+	SAMDISK COPY MASTER_USER_DISK-D1-V4.1,01-OG.img00.0.raw A:
+
+It can also convert STREAM images to ImageDisk format:
+
+	SAMDISK COPY MASTER_USER_DISK-D1-V4.1,01-OG.img00.0.raw MUD1.IMD
+
+...or TeleDisk:
+
+	SAMDISK COPY MASTER_USER_DISK-D1-V4.1,01-OG.img00.0.raw MUD1.TD0
+
+
+Disk Density
+============
 
 Writing these images on modern hardware can present some issues, due
 to the double-density drive present in 9100A mainframes.  If you're
@@ -156,6 +176,7 @@ these:
    boots.
 3. Degauss the diskette prior to writing the image.  You'll need a
    bulk media eraser.
+
 
 Installing on SCSI2SD
 =====================
@@ -320,6 +341,7 @@ IEEE 488, or any pods not included on the master user disks.
 
 When everything has been copied, restart the system to confirm that it
 boots successfully.
+
 
 Thanks
 ======
