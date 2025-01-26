@@ -1,0 +1,75 @@
+
+                           Directory of 9132A-MASTER_USER_DISK_80286-V1.0__01-NG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/02/09 1210   d-ewrewr       3       416 ..
+  0.1     1989/02/09 1210   d-ewrewr       3       416 .
+  0.0     1989/02/09 1053   d-ewrewr       C        64 SYSDISK
+  0.0     1989/02/09 1053   d-ewrewr      15        64 PARTLIB$PARTLIB
+  0.0     1989/02/09 1656   d-ewrewr      1E       128 PODLIB$PODLIB
+  0.0     1989/02/09 1054   d-ewrewr      27        64 PROGLIB$PROGLIB
+  0.0     1989/02/09 1054   d-ewrewr      30        64 HELPLIB$HELPLIB
+  0.0     1989/02/09 1054   ------wr      39         0 MEVALID
+  0.0     1991/01/30 1506   ------wr     2D3       116 ZYsetMisc
+  0.0     1991/01/30 1506   ------wr     2D4       944 ZYsetIomod
+  0.0     1991/01/30 1506   ------wr     2D5      1120 ZYsetKySeq
+  0.0     1991/01/30 1506   ------wr     2D6       628 ZYsetPod
+  0.0     1991/01/30 1506   ------wr     2D7        24 ZYsetRAMRO
+
+                           Directory of 9132A-MASTER_USER_DISK_80286-V1.0__01-NG.rawtmp,/SYSDISK
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/02/09 1210   d-ewrewr       3       416 ..
+  0.0     1989/02/09 1053   d-ewrewr       C        64 .
+
+                           Directory of 9132A-MASTER_USER_DISK_80286-V1.0__01-NG.rawtmp,/PARTLIB$PARTLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/02/09 1210   d-ewrewr       3       416 ..
+  0.0     1989/02/09 1053   d-ewrewr      15        64 .
+
+                           Directory of 9132A-MASTER_USER_DISK_80286-V1.0__01-NG.rawtmp,/PODLIB$PODLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/02/09 1210   d-ewrewr       3       416 ..
+  0.0     1989/02/09 1656   d-ewrewr      1E       128 .
+  0.0     1989/02/09 1656   d-ewrewr      3A       448 POD$M80286
+  0.0     1989/02/09 1213   d-ewrewr     443       128 POD$M
+
+                           Directory of 9132A-MASTER_USER_DISK_80286-V1.0__01-NG.rawtmp,/PODLIB$PODLIB/POD$M80286
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1989/02/09 1656   d-ewrewr      1E       128 ..
+  0.0     1989/02/09 1656   d-ewrewr      3A       448 .
+  0.251   1989/02/09 1118   ----r-wr      43      3742 PODDB$POD_FILE
+  0.251   1989/02/09 1118   ----r-wr      53      3288 PROGRAM$HYP_RAM
+  0.251   1989/02/09 1118   ----r-wr      61       202 PROGRAM$QWK_RD
+  0.251   1989/02/09 1118   ----r-wr      63       198 PROGRAM$QWK_WR
+  0.251   1989/02/09 1118   ----r-wr      65      1981 PROGRAM$STIM_ADR
+  0.251   1989/02/09 1118   ----r-wr      6E      1373 PROGRAM$STIM_DAT
+  0.251   1989/02/09 1118   ----r-wr      75      1173 PROGRAM$VERSION
+  0.251   1989/02/09 1118   ----r-wr      7B     99512 PROGRAM$TEST_BUS
+  0.251   1989/02/09 1119   ----r-wr     201      2362 PROGRAM$B_TEST
+  0.251   1989/02/10 1625   ----r-wr     20C     50557 PROGRAM$B_DIAG
+  0.251   1989/02/09 1119   ----r-wr     2D8     92015 PROGRAM$SETUP
+  0.251   1989/02/09 1210   ----r-wr     441         4 PODDB$CONFIG
+
+                           Directory of 9132A-MASTER_USER_DISK_80286-V1.0__01-NG.rawtmp,/PODLIB$PODLIB/POD$M
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.0     1989/02/09 1656   d-ewrewr      1E       128 ..
+  0.0     1989/02/09 1213   d-ewrewr     443       128 .
+  0.251   1989/02/09 1146   ----r-wr     44C       272 PODDB$POD_FILE
+  0.251   1989/02/09 1145   ----r-wr     44F         4 PODDB$CONFIG
+
+                           Directory of 9132A-MASTER_USER_DISK_80286-V1.0__01-NG.rawtmp,/PROGLIB$PROGLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/02/09 1210   d-ewrewr       3       416 ..
+  0.0     1989/02/09 1054   d-ewrewr      27        64 .
+
+                           Directory of 9132A-MASTER_USER_DISK_80286-V1.0__01-NG.rawtmp,/HELPLIB$HELPLIB
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1989/02/09 1210   d-ewrewr       3       416 ..
+  0.0     1989/02/09 1054   d-ewrewr      30        64 .

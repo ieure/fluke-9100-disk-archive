@@ -1,0 +1,33 @@
+
+                           Directory of SYSTEM_DISK-V4.0-D2__01-NG.rawtmp,
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1935/11/30 0002   d-ewrewr       3       192 ..
+  0.1     1935/11/30 0002   d-ewrewr       3       192 .
+  0.0     1988/11/18 1531   d-ewrewr       C       192 ROM
+  0.0     1935/11/30 0002   d-ewrewr      15       288 CMDS
+  0.0     1935/11/30 0001   ------wr     9DA        10 .xxx
+  0.0     1989/03/21 0924   ------wr     9DC         0 MEVALID
+
+                           Directory of SYSTEM_DISK-V4.0-D2__01-NG.rawtmp,/ROM
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1935/11/30 0002   d-ewrewr       3       192 ..
+  0.0     1988/11/18 1531   d-ewrewr       C       192 .
+  0.251   1988/11/17 1417   --e-rewr      9F    281848 level1
+  0.251   1988/11/17 1420   --e-rewr     4ED       620 ram
+  0.251   1988/11/17 1420   --e-rewr     4F1       106 rd1
+  0.251   1988/11/17 1415   --e-rewr     4F3    320780 rtsctl
+
+                           Directory of SYSTEM_DISK-V4.0-D2__01-NG.rawtmp,/CMDS
+ Owner    Last modified    Attributes Sector Bytecount Name
+-------   ---------------  ---------- ------ --------- ----
+  0.1     1935/11/30 0002   d-ewrewr       3       192 ..
+  0.0     1935/11/30 0002   d-ewrewr      15       288 .
+  0.251   1988/11/17 1421   --e-rewr      1E      4772 gfi_init
+  0.251   1988/11/17 1421   --e-rewr      32      3126 iomod_init
+  0.251   1988/11/17 1421   --e-rewr      40     11102 pod_init
+  0.251   1988/11/17 1421   --e-rewr      6D      1308 read_test
+  0.251   1988/11/17 1421   --e-rewr      74      3362 rdisk_init
+  0.251   1988/11/17 1421   --e-rewr      83      1930 runuut_led
+  0.251   1988/11/17 1421   --e-rewr      8C      4432 vid_init
